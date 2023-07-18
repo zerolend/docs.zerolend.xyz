@@ -8,4 +8,4 @@
 ## The ZERO Token
 
 * [Token Overview](the-zero-token/token-overview.md)
-* [Tokenomics](the-zero-token/tokenomics.md)
+* [Zeronomics](the-zero-token/zeronomics.md)

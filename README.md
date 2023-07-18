@@ -4,4 +4,6 @@ description: ZeroLend is a powerful decentralized lending protocol built on zkSy
 
 # Welcome to ZeroLend
 
-Welcome to ZeroLend. This is the documentation section which is currently a work in progress.
+<figure><img src=".gitbook/assets/Screenshot 2023-07-18 at 7.36.16 AM.png" alt=""><figcaption></figcaption></figure>
+
+ZeroLend is a decentalized and permissionless lending protocol
