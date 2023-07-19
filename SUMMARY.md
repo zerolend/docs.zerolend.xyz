@@ -10,3 +10,9 @@
 
 * [Token Overview](the-zero-token/token-overview.md)
 * [Zeronomics](the-zero-token/zeronomics.md)
+
+## Important Links
+
+* [Twitter](https://twitter.com/zerolendxyz)
+* [Github](https://github.com/zerolend)
+* [Telegram](https://t.me/zerolendxyz)
