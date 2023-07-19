@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome to ZeroLend](README.md)
-* [Phase 1 Launch](phase-1-launch.md)
-* [Roadmap](roadmap.md)
+* [Roadmap](roadmap/README.md)
+  * [Phase 1 Launch](roadmap/phase-1-launch.md)
 * [Deployed Addresses](deployed-addresses.md)
 
 ## The ZERO Token

@@ -4,7 +4,15 @@ description: This page contains all the deployed addresses on the zkSync chain
 
 # Deployed Addresses
 
+## $ZERO&#x20;
+
+The $ZERO token is currently deployed on [0xfc00a3c72f882b6a97ff33c19560997368fd355d](https://etherscan.io/address/0xfc00a3c72f882b6a97ff33c19560997368fd355d) on the Ethereum chain.
+
+It is available across various other chains through a cross chain bridge.
+
 ## Core & Periphery Contracts
+
+These are the addresses of the ZeroLend protocol on the zkSync chain.
 
 | AaveOracle-zkSync                       | 0x785765De3E9ac3D8eEb42B4724A7FEA8990142B8 |
 | --------------------------------------- | ------------------------------------------ |
@@ -44,6 +52,8 @@ description: This page contains all the deployed addresses on the zkSync chain
 | PoolAddressesProvider-zkSync            | 0x4f285Ea117eF0067B59853D6d16a5dE8088bA259 |
 
 ## Tokens
+
+These are the addresses of the various debt tokens on the zkSync chain.
 
 | WETH-AToken-zkSync            | 0x9002ecb8a06060e3b56669c6B8F18E1c3b119914 |
 | ----------------------------- | ------------------------------------------ |
