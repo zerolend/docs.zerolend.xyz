@@ -25,6 +25,8 @@ By utilizing Pyth Network's real-time price feeds and decentralized oracle servi
 
 ZeroLend has taken a step further in innovation by creating Chainlink interfaces for Pyth Network, seamlessly integrating the robustness of Chainlink's oracle infrastructure with Pyth's real-time price data, ensuring a secure and reliable lending ecosystem for our users.
 
+The source for these oracles can be found here: [https://github.com/zerolend/pyth-oracles](https://github.com/zerolend/pyth-oracles)
+
 The deployment of the various oracles is detailed here:
 
 | Price Feed | Address                                    |
