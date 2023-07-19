@@ -8,6 +8,8 @@ description: ZeroLend is a powerful decentralized lending protocol built on zkSy
 
 ZeroLend is a decentralized lending protocol built on blockchain technology, designed to provide individuals and businesses with a secure and transparent platform for borrowing and lending digital assets. The protocol operates in a peer-to-peer manner, eliminating the need for intermediaries such as banks or traditional financial institutions.
 
+ZeroLend has pioneered a groundbreaking innovation by seamlessly integrating the best of both worlds - the robust lending functionalities of Aave and the real-time, decentralized price feeds from the Pyth Network - revolutionizing the lending protocol landscape and offering users an unparalleled and secure borrowing and lending experience.
+
 ## Key Features of ZeroLend
 
 1. **Decentralized and Trustless:** ZeroLend leverages the power of blockchain technology, specifically smart contracts, to create a decentralized lending ecosystem. It operates on a public blockchain, ensuring transparency, immutability, and security of all transactions and user data.
