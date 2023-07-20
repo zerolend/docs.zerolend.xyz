@@ -3,6 +3,7 @@
 * [Welcome to ZeroLend](README.md)
 * [Roadmap](roadmap.md)
   * [Phase 1 Launch](phase-1-launch.md)
+* [Audits](audits.md)
 * [Oracles](oracles.md)
 * [Deployed Addresses](deployed-addresses.md)
 
