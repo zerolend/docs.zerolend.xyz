@@ -1,6 +1,11 @@
-# Phase 1 Launch
+---
+description: >-
+  As part of the launch of ZeroLend, the developers are excited to share the
+  launch of Phase 1 of ZeroLend, where we plan to launch the $ZERO token on
+  zkSync.
+---
 
-As part of the launch of ZeroLend, the developers are excited to share the launch of Phase 1 of ZeroLend, where we plan to launch the $ZERO token on zkSync.
+# Phase 1 Launch
 
 During the launch phase, ZeroLend actively seeks out strategic partnerships within the decentralized finance (DeFi) ecosystem. The team engages with prominent DeFi projects, blockchain platforms, and liquidity providers to establish mutually beneficial collaborations. These partnerships can range from technical integrations to marketing initiatives, aimed at increasing liquidity, expanding the range of supported assets, and enhancing the overall user experience within the lending protocol.
 
