@@ -13,7 +13,7 @@ During the launch phase, ZeroLend actively seeks out strategic partnerships with
 
 As part of the launch phase, ZeroLend introduces an exciting opportunity for users to receive a $**ZERO** token airdrop. Any user who interacts with the lending protocol during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $**ZERO** tokens as a reward. This airdrop incentivizes early adoption and encourages users to explore the features and benefits of ZeroLend.
 
-To be eligible for the airdrop you just need to provide liquidity to the protocol and star farming $**earlyZERO**.
+To be eligible for the airdrop you just need to provide liquidity to the protocol and start farming $**earlyZERO**.
 
 Please feel free to visit [http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start interacting with the application.
 
