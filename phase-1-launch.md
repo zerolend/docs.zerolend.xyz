@@ -27,4 +27,4 @@ Users can convert the earned **$earlyZERO to $ZERO** after **$ZERO** TGE. Receiv
 * **Total $ZERO supply**: 100,000,000,000 $ZERO
 * **Initial market cap**: 300,000$
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>
