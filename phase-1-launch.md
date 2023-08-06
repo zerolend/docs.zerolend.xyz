@@ -11,12 +11,20 @@ During the launch phase, ZeroLend actively seeks out strategic partnerships with
 
 ## $ZERO Airdrop for Users:&#x20;
 
-As part of the launch phase, ZeroLend introduces an exciting opportunity for users to receive a $ZERO token airdrop. Any user who interacts with the lending protocol during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $ZERO tokens as a reward. This airdrop incentivizes early adoption and encourages users to explore the features and benefits of ZeroLend.
+As part of the launch phase, ZeroLend introduces an exciting opportunity for users to receive a $**ZERO** token airdrop. Any user who interacts with the lending protocol during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $**ZERO** tokens as a reward. This airdrop incentivizes early adoption and encourages users to explore the features and benefits of ZeroLend.
 
-To be eligible for the airdrop you must perform any of the following activities.
+To be eligible for the airdrop you just need to provide liquidity to the protocol and star farming $**earlyZERO**.
 
-* Have deposited at least 1,000$ worth of collateral into ZeroLend, OR
-* Have borrowed at least 500$ worth of collateral from ZeroLend, OR
-* Have deposited at least 500$ worth of LP token collaterals on ZeroLend
+Please feel free to visit [http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start interacting with the application.
 
-To start working on ZeroLend, please feel free to visit [http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start interacting with the application.
+## About $earlyZERO Rewards <a href="#ad5f" id="ad5f"></a>
+
+To allow farming before the TGE, users who provide liquidity can claim **$earlyZERO**, a non-transferrable ERC20 token that can be claimed by users from the farming portal before the TGE.
+
+Users can convert the earned **$earlyZERO to $ZERO** after **$ZERO** TGE. Received **$ZERO** may have a vesting period.
+
+* **Exchange Rate**: 1 $earlyZERO = 1 $ZERO (1:1)
+* **Total $ZERO supply**: 100,000,000,000 $ZERO
+* **Initial market cap**: 300,000$
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
