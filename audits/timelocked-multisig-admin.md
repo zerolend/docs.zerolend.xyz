@@ -2,9 +2,11 @@
 description: This page talks about the timelock admin contract that governs ZeroLend
 ---
 
-# Timelocked Admin
+# Timelocked Multisig Admin
 
 To bolster our community's security measures, we've implemented a time lock mechanism on all administrative functions, including proxy contracts. This mechanism is overseen by a multi-signature contract.
+
+A timelocked multi-sig admin is a necessary step in protecting the protocol until it gets replaced with a decentralized governance.
 
 For any transaction proposal, a consensus of at least two out of three authorized parties is required. The proposed transaction becomes executable only after a designated 24-hour waiting period. This waiting period can be extended if deemed necessary.
 

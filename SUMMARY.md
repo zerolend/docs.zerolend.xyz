@@ -4,7 +4,7 @@
 * [Roadmap](roadmap.md)
   * [Phase 1 Launch](phase-1-launch.md)
 * [Audits](audits/README.md)
-  * [Timelocked Admin](audits/timelocked-admin.md)
+  * [Timelocked Multisig Admin](audits/timelocked-multisig-admin.md)
 * [ONEZ](onez.md)
 * [Oracles](oracles.md)
 * [Pricing LP Tokens](pricing-lp-tokens.md)
