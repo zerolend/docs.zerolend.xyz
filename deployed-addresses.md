@@ -6,9 +6,7 @@ description: This page contains all the deployed addresses on the zkSync chain
 
 ## $ZERO
 
-The $ZERO token is currently deployed on [0xfc00a3c72f882b6a97ff33c19560997368fd355d](https://etherscan.io/address/0xfc00a3c72f882b6a97ff33c19560997368fd355d) on the Ethereum chain.
-
-It is available across various other chains through a cross chain bridge.
+The $ZERO token is not currently deployed. Once it is live, it's address will be updated here.
 
 ## Core & Periphery Contracts
 
