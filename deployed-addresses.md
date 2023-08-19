@@ -19,29 +19,30 @@ These are the addresses of the ZeroLend protocol on the zkSync chain.
 | AaveOracle-zkSync                       | [0x785765De3E9ac3D8eEb42B4724A7FEA8990142B8](https://explorer.zksync.io/address/0x785765De3E9ac3D8eEb42B4724A7FEA8990142B8) |
 | ACLManager-zkSync                       | [0x9A60cce3da06d246b492931d2943A8F574e67389](https://explorer.zksync.io/address/0x9A60cce3da06d246b492931d2943A8F574e67389) |
 | AToken-zkSync                           | [0xe8178fF950Ea1B69a51cE961C542a4CC6Cb6e38E](https://explorer.zksync.io/address/0xe8178fF950Ea1B69a51cE961C542a4CC6Cb6e38E) |
-| BorrowLogic                             | [0x07c9C19a4823f7F89eE63cb0d89AEF55F4D61f71](https://explorer.zksync.io/address/0x07c9C19a4823f7F89eE63cb0d89AEF55F4D61f71) |
-| BridgeLogic                             | [0xeb3A0D513F497cE6E61278B628bb56470f7b357f](https://explorer.zksync.io/address/0xeb3A0D513F497cE6E61278B628bb56470f7b357f) |
-| ConfiguratorLogic                       | [0xC504e8FB2f8D76fef6Ce251A3760a507837E38f5](https://explorer.zksync.io/address/0xC504e8FB2f8D76fef6Ce251A3760a507837E38f5) |
+| BorrowLogic                             | [0x81D6b98Beb0A4288dCFab724FDeaE52E5Aa2F7b1](https://explorer.zksync.io/address/0x81D6b98Beb0A4288dCFab724FDeaE52E5Aa2F7b1) |
+| BridgeLogic                             | [0x6CDe8a8cEE9771A30dE4fEAB8eaccb58cb0d30aF](https://explorer.zksync.io/address/0x6CDe8a8cEE9771A30dE4fEAB8eaccb58cb0d30aF) |
+| ConfiguratorLogic                       | [0x8731d4E5b990025143609F4A40eC80Fb482E46A0](https://explorer.zksync.io/address/0x8731d4E5b990025143609F4A40eC80Fb482E46A0) |
+| EModeLogic                              | [0xD84E953a621bb9D81Dc998E0b1482D2916153c23](https://explorer.zksync.io/address/0xD84E953a621bb9D81Dc998E0b1482D2916153c23) |
+| FlashLoanLogic                          | [0x424C0995114a614c12506D9A994d3eE140742f12](https://explorer.zksync.io/address/0x424C0995114a614c12506D9A994d3eE140742f12) |
+| LiquidationLogic                        | [0x8855Fd7d577A05d04Cea2E026c5BAa4Bb47feAf9](https://explorer.zksync.io/address/0x8855Fd7d577A05d04Cea2E026c5BAa4Bb47feAf9) |
+| PoolLogic                               | [0xA8D16FB0620E3376093cb89e2cD9dEF9fE47Daaa](https://explorer.zksync.io/address/0xA8D16FB0620E3376093cb89e2cD9dEF9fE47Daaa) |
+| SupplyLogic                             | [0x9223dC9205Cf8336CA59bA0bD390647E62D487E5](https://explorer.zksync.io/address/0x9223dC9205Cf8336CA59bA0bD390647E62D487E5) |
 | DelegationAwareAToken-zkSync            | [0x102699803F4A2b02046C38C672401759af633510](https://explorer.zksync.io/address/0x102699803F4A2b02046C38C672401759af633510) |
 | EmissionManager                         | [0x72D2aB433526d32e6Ee52c03d1562A9E79bf0F19](https://explorer.zksync.io/address/0x72D2aB433526d32e6Ee52c03d1562A9E79bf0F19) |
-| EModeLogic                              | [0x3733D1faE7965b573C018c4e65Bc4a1389cD4393](https://explorer.zksync.io/address/0x3733D1faE7965b573C018c4e65Bc4a1389cD4393) |
-| FlashLoanLogic                          | [0x24Bb7d14Aad51Cbf4f187a27EF72C77231E9e5f0](https://explorer.zksync.io/address/0x24Bb7d14Aad51Cbf4f187a27EF72C77231E9e5f0) |
 | IncentivesProxy                         | [0x54AB34aB3C723bD2674c7082aA6fFcdfd3A5BEdc](https://explorer.zksync.io/address/0x54AB34aB3C723bD2674c7082aA6fFcdfd3A5BEdc) |
 | IncentivesV2-Implementation             | [0x86bd524C09508df7B4B9027464975351B1BC2c92](https://explorer.zksync.io/address/0x86bd524C09508df7B4B9027464975351B1BC2c92) |
-| LiquidationLogic                        | [0xC2ec0e44a0F8262757f569942bE474e70411a85c](https://explorer.zksync.io/address/0xC2ec0e44a0F8262757f569942bE474e70411a85c) |
-| Pool-Implementation                     | [0xEA56De428cB2eFdec7B11a4bB2985A0CeE3Dfd6f](https://explorer.zksync.io/address/0xEA56De428cB2eFdec7B11a4bB2985A0CeE3Dfd6f) |
+| Pool-Implementation                     | [0x54d6F91bE4509826559ad12E1Ca6CA3A6C3811e0](https://explorer.zksync.io/address/0x54d6F91bE4509826559ad12E1Ca6CA3A6C3811e0) |
 | Pool-Proxy-zkSync                       | [0x4d9429246EA989C9CeE203B43F6d1C7D83e3B8F8](https://explorer.zksync.io/address/0x4d9429246EA989C9CeE203B43F6d1C7D83e3B8F8) |
+| PoolAddressesProvider-zkSync            | [0x4f285Ea117eF0067B59853D6d16a5dE8088bA259](https://explorer.zksync.io/address/0x4f285Ea117eF0067B59853D6d16a5dE8088bA259) |
 | PoolAddressesProviderRegistry           | [0x78B93fBb35C97b32C7381C81Fa3A620b3fB7787B](https://explorer.zksync.io/address/0x78B93fBb35C97b32C7381C81Fa3A620b3fB7787B) |
-| PoolConfigurator-Implementation         | [0x3d8Cb6c7b4679c56EdF89050f66751e6c5D24502](https://explorer.zksync.io/address/0x3d8Cb6c7b4679c56EdF89050f66751e6c5D24502) |
+| PoolConfigurator-Implementation         | [0x8FBC873afD2a23D0bDd79d8a8756a38adda40810](https://explorer.zksync.io/address/0x8FBC873afD2a23D0bDd79d8a8756a38adda40810) |
 | PoolConfigurator-Proxy-zkSync           | [0x9C3058F7bfCA6139ac3013999F57D7aa6a3AB1Ed](https://explorer.zksync.io/address/0x9C3058F7bfCA6139ac3013999F57D7aa6a3AB1Ed) |
 | PoolDataProvider-zkSync                 | [0xB73550bC1393207960A385fC8b34790e5133175E](https://explorer.zksync.io/address/0xB73550bC1393207960A385fC8b34790e5133175E) |
-| PoolLogic                               | [0x969a8A5a56B82914775F5c704348594327e28EF5](https://explorer.zksync.io/address/0x969a8A5a56B82914775F5c704348594327e28EF5) |
 | ReservesSetupHelper                     | [0xe00d794744e763BeC67BdEdF6e852D4e0d958DFb](https://explorer.zksync.io/address/0xe00d794744e763BeC67BdEdF6e852D4e0d958DFb) |
 | ReserveStrategy-rateStrategyStableOne   | [0x70cA80C5dE9fC8f080a494453dF1aA9180073031](https://explorer.zksync.io/address/0x70cA80C5dE9fC8f080a494453dF1aA9180073031) |
 | ReserveStrategy-rateStrategyStableTwo   | [0xcaA502e289bFb924732f44f5E70bd08fc052aab8](https://explorer.zksync.io/address/0xcaA502e289bFb924732f44f5E70bd08fc052aab8) |
 | ReserveStrategy-rateStrategyVolatileOne | [0xEdAc06D73DbdD3460B5728E4bBE9862b04Ac198a](https://explorer.zksync.io/address/0xEdAc06D73DbdD3460B5728E4bBE9862b04Ac198a) |
 | StableDebtToken-zkSync                  | [0x3A8ea541597D74ACB33F94533D731940AF516031](https://explorer.zksync.io/address/0x3A8ea541597D74ACB33F94533D731940AF516031) |
-| SupplyLogic                             | [0x55fA0fC04500D04ea7fAe122ae4603b937D8E5A2](https://explorer.zksync.io/address/0x55fA0fC04500D04ea7fAe122ae4603b937D8E5A2) |
 | Treasury-Controller                     | [0x677C3Cae4F23142c6A8480694554751B462d7326](https://explorer.zksync.io/address/0x677C3Cae4F23142c6A8480694554751B462d7326) |
 | Treasury-Implementation                 | [0xC59971Ff27806629D9935fbFBBFC2236961f82C8](https://explorer.zksync.io/address/0xC59971Ff27806629D9935fbFBBFC2236961f82C8) |
 | TreasuryProxy                           | [0xE52540DBD350c611A1B9c51E97e2A6bc16c09133](https://explorer.zksync.io/address/0xE52540DBD350c611A1B9c51E97e2A6bc16c09133) |
@@ -50,7 +51,6 @@ These are the addresses of the ZeroLend protocol on the zkSync chain.
 | VariableDebtToken-zkSync                | [0xA48aCc9847Cc1dD2caDA05151C9A78Ba47a305Cb](https://explorer.zksync.io/address/0xA48aCc9847Cc1dD2caDA05151C9A78Ba47a305Cb) |
 | WalletBalanceProvider                   | [0xdeEa10da04D867e3303AB6E50FA26C2d8a5e9f70](https://explorer.zksync.io/address/0xdeEa10da04D867e3303AB6E50FA26C2d8a5e9f70) |
 | WrappedTokenGatewayV3                   | [0x767b4A087c11d7581Ac95eaFfc1FeBFA26bad3d2](https://explorer.zksync.io/address/0x767b4A087c11d7581Ac95eaFfc1FeBFA26bad3d2) |
-| PoolAddressesProvider-zkSync            | [0x4f285Ea117eF0067B59853D6d16a5dE8088bA259](https://explorer.zksync.io/address/0x4f285Ea117eF0067B59853D6d16a5dE8088bA259) |
 
 ## Tokens
 
