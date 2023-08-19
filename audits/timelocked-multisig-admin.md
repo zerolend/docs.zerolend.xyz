@@ -17,8 +17,8 @@ Here are the contract addresses for reference:
 
 The following individuals/entities have the authority to sign transactions within the multisig contract:
 
-1. ZeroLend team member
-2. ZeroLend team member
+1. ZeroLend Team #1: [0x09869dF9b616b3e60E7782f6a675d135f17051FD](https://explorer.zksync.io/address/0x09869df9b616b3e60e7782f6a675d135f17051fd)
+2. ZeroLend Team #2: [0xb76F765A785eCa438e1d95f594490088aFAF9acc](https://explorer.zksync.io/address/0xb76F765A785eCa438e1d95f594490088aFAF9acc)
 
 These measures have been put in place to enhance the overall security and governance of our ecosystem.
 
