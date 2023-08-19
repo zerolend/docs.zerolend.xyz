@@ -4,6 +4,10 @@ description: This section explains how ZeroLend evaluates the price of various L
 
 # Pricing LP Tokens
 
+{% hint style="warning" %}
+This section has been depreciated because LP Tokens are now more enabled as collateral in the protocol
+{% endhint %}
+
 For ZeroLend to accept LP tokens as collateral, a fair oracle is a crucial component to accurately determine the real-time price of these LP tokens. LP tokens represent a user's share in a liquidity pool, and their value is derived from the underlying assets in the pool, which may consist of multiple cryptocurrencies.
 
 To determine the fair value of LP tokens, the ZeroLend leverages a fair oracle that utilizes a decentralized and tamper-resistant price feed mechanism. Here's how the oracle works:
