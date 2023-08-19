@@ -59,11 +59,11 @@ These are the addresses of the various debt tokens on the zkSync chain.
 | Contract Name                 | Address                                                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | WETH-AToken-zkSync            | [0x9002ecb8a06060e3b56669c6B8F18E1c3b119914](https://explorer.zksync.io/address/0x9002ecb8a06060e3b56669c6B8F18E1c3b119914) |
-| WETH-StableDebtToken-zkSync   | 0x9c9158BFF47342A20b7D2Ac09F89e96F3A209b9B                                                                                  |
-| WETH-VariableDebtToken-zkSync | 0x56f58d9BE10929CdA709c4134eF7343D73B080Cf                                                                                  |
-| USDC-AToken-zkSync            | 0x016341e6Da8da66b33Fd32189328c102f32Da7CC                                                                                  |
-| USDC-StableDebtToken-zkSync   | 0x5faC4FD2e4bCE392d34600d94Aa1114274e54Dff                                                                                  |
-| USDC-VariableDebtToken-zkSync | 0xE60E1953aF56Db378184997cab20731d17c65004                                                                                  |
-| USDT-AToken-zkSync            | 0x9ca4806fa54984Bf5dA4E280b7AA8bB821D21505                                                                                  |
-| USDT-StableDebtToken-zkSync   | 0x6F977fD05962d67Eb7B16b15684fbEa0462F442d                                                                                  |
-| USDT-VariableDebtToken-zkSync | 0xa333c6FF89525939271E796FbDe2a2D9A970F831                                                                                  |
+| WETH-StableDebtToken-zkSync   | [0x9c9158BFF47342A20b7D2Ac09F89e96F3A209b9B](https://explorer.zksync.io/address/0x9c9158BFF47342A20b7D2Ac09F89e96F3A209b9B) |
+| WETH-VariableDebtToken-zkSync | [0x56f58d9BE10929CdA709c4134eF7343D73B080Cf](https://explorer.zksync.io/address/0x56f58d9BE10929CdA709c4134eF7343D73B080Cf) |
+| USDC-AToken-zkSync            | [0x016341e6Da8da66b33Fd32189328c102f32Da7CC](https://explorer.zksync.io/address/0x016341e6Da8da66b33Fd32189328c102f32Da7CC) |
+| USDC-StableDebtToken-zkSync   | [0x5faC4FD2e4bCE392d34600d94Aa1114274e54Dff](https://explorer.zksync.io/address/0x5faC4FD2e4bCE392d34600d94Aa1114274e54Dff) |
+| USDC-VariableDebtToken-zkSync | [0xE60E1953aF56Db378184997cab20731d17c65004](https://explorer.zksync.io/address/0xE60E1953aF56Db378184997cab20731d17c65004) |
+| USDT-AToken-zkSync            | [0x9ca4806fa54984Bf5dA4E280b7AA8bB821D21505](https://explorer.zksync.io/address/0x9ca4806fa54984Bf5dA4E280b7AA8bB821D21505) |
+| USDT-StableDebtToken-zkSync   | [0x6F977fD05962d67Eb7B16b15684fbEa0462F442d](https://explorer.zksync.io/address/0x6F977fD05962d67Eb7B16b15684fbEa0462F442d) |
+| USDT-VariableDebtToken-zkSync | [0xa333c6FF89525939271E796FbDe2a2D9A970F831](https://explorer.zksync.io/address/0xa333c6FF89525939271E796FbDe2a2D9A970F831) |
