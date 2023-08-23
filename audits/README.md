@@ -4,9 +4,31 @@ description: This section explains about the audits done for ZeroLend
 
 # Audits
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://mundus.dev/">https://mundus.dev/</a></p></figcaption></figure>
+
 ZeroLend is a dynamic lending protocol that closely resembles Aave V3, developed as a fork from the original Aave protocol. As a result, ZeroLend inherits the battle-tested and audited smart contract codebase from Aave V3.&#x20;
 
 Since ZeroLend doesn't introduce any changes or modifications to the existing code, it benefits from the extensive audits conducted on Aave V3. This strong foundation ensures the security and reliability of ZeroLend's protocol, providing users with a trusted and proven lending platform without the need for additional audits.&#x20;
+
+The ZeroLend team has further taken a step to secure the protocol by conducting an extra external audit with [Mundus.dev](https://mundus.dev/), a well-known 3rd party auditor for auditing lending protocol and Aave forks.
+
+## External Audit by Mundus.dev
+
+The scope of the audit by [Mundus](https://mundus.dev/) was to ensure that the protocol that was deployed on the zkSync mainnet and the original codebase from Aave are the same and that there are:
+
+* No code changes made from what was deployed and the original Aave source code.
+* No backdoors that have been created by the team
+* No EOA (Externally owned Account) ownership on any of the smart-contracts
+
+The following scope resulted in the report below:
+
+{% embed url="https://github.com/zerolend/audits" %}
+The GitHub repository consisting of all the audits done for ZeroLend
+{% endembed %}
+
+Following the report, all ownership of the protocol have been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
+
+## Existing Audits from Aave
 
 By leveraging the well-established codebase of Aave V3, ZeroLend can focus on delivering a seamless and user-friendly experience while upholding the highest standards of safety in the DeFi space.
 
