@@ -8,7 +8,7 @@ description: This page talks about the $ONEZ stablecoin launched by ZeroLend
 $ONEZ is currently depolyed on the zkSync mainnet at [0x90059C32Eeeb1A2aa1351a58860d98855f3655aD](https://explorer.zksync.io/address/0x90059C32Eeeb1A2aa1351a58860d98855f3655aD)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ONEZ is the pioneering decentralized, overcollateralized stablecoin native to the ZeroLend Protocol. ONEZ, pronounced "one-zee," stands as a groundbreaking stablecoin that finds its genesis within the assets contributed to the ZeroLend Protocol. Designed to be aligned with the value of the U.S. Dollar, ONEZ maintains its peg through efficient market mechanisms.
 

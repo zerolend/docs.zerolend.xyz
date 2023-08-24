@@ -4,7 +4,7 @@ description: This section explains about the audits done for ZeroLend
 
 # Audits
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://mundus.dev/">https://mundus.dev/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://mundus.dev/">https://mundus.dev/</a></p></figcaption></figure>
 
 ZeroLend is a dynamic lending protocol that closely resembles Aave V3, developed as a fork from the original Aave protocol. As a result, ZeroLend inherits the battle-tested and audited smart contract codebase from Aave V3.&#x20;
 

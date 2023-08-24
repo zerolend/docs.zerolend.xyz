@@ -1,11 +1,10 @@
 ---
 description: >-
-  This page explains how you can leverage yield farm on ZeroLend using LP
-  tokens. Leveraging your yield within the zkSync ecosystem is one of the major
-  use-cases of ZeroLend.
+  This page explains how you can leverage your exposure on ZeroLend. Leveraging
+  your exposure is one of the major use-cases of ZeroLend.
 ---
 
-# How to Leverage Yield Farm
+# How to Leverage your Exposure on your assets?
 
 ## What is leveraging up?
 

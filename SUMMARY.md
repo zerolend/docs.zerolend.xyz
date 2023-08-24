@@ -8,13 +8,20 @@
 * [ONEZ](onez.md)
 * [Oracles](oracles.md)
 * [Pricing LP Tokens](pricing-lp-tokens.md)
-* [How to Leverage Yield Farm](how-to-leverage-yield-farm.md)
 * [Deployed Addresses](deployed-addresses.md)
 
 ## The ZERO Token
 
 * [Token Overview](the-zero-token/token-overview.md)
 * [Zeronomics](the-zero-token/zeronomics.md)
+
+## Tutorials
+
+* [Getting your assets onto zkSync](tutorials/getting-your-assets-onto-zksync.md)
+* [How to Leverage your Exposure on your assets?](tutorials/how-to-leverage-yield-farm.md)
+* [How to mint the ONEZ Stablecoin?](tutorials/how-to-mint-the-onez-stablecoin.md)
+* [How to earn LP yields from DEXes using $ONEZ?](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/README.md)
+  * [Farming $VS on veSync](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/farming-usdvs-on-vesync.md)
 
 ## Important Links
 
