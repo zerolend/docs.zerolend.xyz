@@ -22,7 +22,7 @@ The scope of the audit by [Mundus](https://mundus.dev/) was to ensure that the p
 
 The following scope resulted in the report below:
 
-{% embed url="https://github.com/zerolend/audits" %}
+{% embed url="https://github.com/zerolend/audits/tree/develop/mundus" %}
 The GitHub repository consisting of all the audits done for ZeroLend
 {% endembed %}
 
