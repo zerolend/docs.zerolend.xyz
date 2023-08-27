@@ -16,6 +16,10 @@ To learn more about veSync, visit their [website](https://vesync.finance/) and g
 
 Providing liquidity is a very easy to do on veSync. Users need to first make sure they have [assets on zkSync](../getting-your-assets-onto-zksync.md) and have [minted the ONEZ stablecoin](../how-to-mint-the-onez-stablecoin.md).
 
+{% content-ref url="../how-to-mint-the-onez-stablecoin.md" %}
+[how-to-mint-the-onez-stablecoin.md](../how-to-mint-the-onez-stablecoin.md)
+{% endcontent-ref %}
+
 Once you have deposited assets you can then visit the veSync website and visit any one of the pools that is paired with ONEZ and has an active gauge.
 
 The following pools are currently available on veSync&#x20;
