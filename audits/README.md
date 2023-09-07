@@ -26,6 +26,8 @@ The following scope resulted in the report below:
 
 Following the report, all ownership of the protocol have been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
 
+{% embed url="https://twitter.com/zerolendxyz/status/1699619482447290547" %}
+
 ## Existing Audits from Aave
 
 By leveraging the well-established codebase of Aave V3, ZeroLend can focus on delivering a seamless and user-friendly experience while upholding the highest standards of safety in the DeFi space.
