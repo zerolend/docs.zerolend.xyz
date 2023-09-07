@@ -22,9 +22,7 @@ The scope of the audit by [Mundus](https://mundus.dev/) was to ensure that the p
 
 The following scope resulted in the report below:
 
-{% embed url="https://github.com/zerolend/audits/blob/9c6e920a4b5a7d41b27ad9a3cc5c5bb066e3ccae/mundus/zerolend_report_depcheck_interim.pdf" %}
-The GitHub repository consisting of all the audits done for ZeroLend
-{% endembed %}
+{% embed url="https://github.com/zerolend/audits/blob/main/mundus/zerolend_report_depcheck_final.pdf" %}
 
 Following the report, all ownership of the protocol have been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
 
