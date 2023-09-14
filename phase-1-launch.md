@@ -25,6 +25,7 @@ Users can convert the earned **$earlyZERO to $ZERO** after **$ZERO** TGE. Receiv
 
 * **Exchange Rate**: 1 $earlyZERO = 1 $ZERO (1:1)
 * **Total $ZERO supply**: 100,000,000,000 $ZERO
-* **Initial market cap**: 300,000$
+* **Initial circulating market cap**: 300,000$
+* **Initial fully diluted market cap**: 3,000,000$
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>

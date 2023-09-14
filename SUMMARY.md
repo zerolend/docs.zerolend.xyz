@@ -13,7 +13,8 @@
 ## The ZERO Token
 
 * [Token Overview](the-zero-token/token-overview.md)
-* [Zeronomics](the-zero-token/zeronomics.md)
+* [Zeronomics](the-zero-token/zeronomics/README.md)
+  * [zkSync Airdrop Distribution](the-zero-token/zeronomics/zksync-airdrop-distribution.md)
 
 ## Tutorials
 

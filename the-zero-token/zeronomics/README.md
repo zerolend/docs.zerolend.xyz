@@ -18,14 +18,9 @@ To achieve a high level of distribution and decentralization among token holders
 
 ## Token Distribution
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-19 at 8.06.15 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-19 at 8.06.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Token Vesting
 
-| Title      | Description                                     | Vesting           |
-| ---------- | ----------------------------------------------- | ----------------- |
-| Team       | Tokens held by the team and various advisors    | 10 years, linear  |
-| Launchpads | Tokens sold on various launchpads               | 3 months, linear  |
-| Liquidity  | Tokens added into Uniswap liquidity on launch   | No vesting        |
-| Farming    | Tokens given out to users who provide liquidity | 100 years, linear |
+<table><thead><tr><th width="188.33333333333331">Title</th><th>Description</th><th>Vesting</th></tr></thead><tbody><tr><td>Team</td><td>Tokens held by the team and various advisors</td><td>10 years, linear</td></tr><tr><td>Launchpads</td><td>Tokens sold on various launchpads</td><td>3 months, linear</td></tr><tr><td>Liquidity</td><td>Tokens added into Uniswap liquidity on launch</td><td>No vesting</td></tr><tr><td>Farming</td><td>Tokens given out to users who provide liquidity</td><td>100 years, linear</td></tr></tbody></table>
 
