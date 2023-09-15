@@ -13,12 +13,13 @@ For any transaction proposal, a consensus of at least two out of three authorize
 Here are the contract addresses for reference:
 
 * Timelock Contract: [0x861cC6724D0aA7Ec7a868887643e682b1c16aeeC](https://explorer.zksync.io/address/0x861cC6724D0aA7Ec7a868887643e682b1c16aeeC)
-* Safe Contract (Multisig): [0x7b08d0d9D6f450243500338C39B1c9F01a30d801](https://explorer.zksync.io/address/0x7b08d0d9D6f450243500338C39B1c9F01a30d801)
+* Safe Contract (Multisig): [0x1890F9204882dfa1B8f0AEaF56ae9b2ed149D18d](https://app.safe.global/transactions/history?safe=zksync:0x1890F9204882dfa1B8f0AEaF56ae9b2ed149D18d)
 
 The following individuals/entities have the authority to sign transactions within the multisig contract:
 
 1. ZeroLend Team #1: [0x09869dF9b616b3e60E7782f6a675d135f17051FD](https://explorer.zksync.io/address/0x09869df9b616b3e60e7782f6a675d135f17051fd)
 2. ZeroLend Team #2: [0xb76F765A785eCa438e1d95f594490088aFAF9acc](https://explorer.zksync.io/address/0xb76F765A785eCa438e1d95f594490088aFAF9acc)
+3. ZeroLend Cold Wallet: [0x6aac0942B8147BffAB73789a82EE12fDA7735BAc](https://explorer.zksync.io/address/0x6aac0942b8147bffab73789a82ee12fda7735bac)
 
 These measures have been put in place to enhance the overall security and governance of our ecosystem.
 
