@@ -6,6 +6,7 @@
 * [Audits](audits/README.md)
   * [Timelocked Multisig Admin](audits/timelocked-multisig-admin.md)
 * [ONEZ](onez.md)
+* [Gasless Transactions](gasless-transactions.md)
 * [Oracles](oracles.md)
 * [Pricing LP Tokens](pricing-lp-tokens.md)
 * [Deployed Addresses](deployed-addresses.md)
