@@ -9,6 +9,7 @@
 * [Gasless Transactions](gasless-transactions.md)
 * [Oracles](oracles.md)
 * [Pricing LP Tokens](pricing-lp-tokens.md)
+* [Paymaster: Enhancing User Experience](paymaster-enhancing-user-experience.md)
 * [Deployed Addresses](deployed-addresses.md)
 
 ## The ZERO Token
