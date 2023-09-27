@@ -3,13 +3,6 @@
 * [Welcome to ZeroLend](README.md)
 * [Roadmap](roadmap.md)
   * [Phase 1 Launch](phase-1-launch.md)
-* [Audits](audits/README.md)
-  * [Timelocked Multisig Admin](audits/timelocked-multisig-admin.md)
-* [ONEZ](onez.md)
-* [Oracles](oracles.md)
-  * [Pricing LP Tokens](pricing-lp-tokens.md)
-* [Deployed Addresses](deployed-addresses.md)
-* [Asset Listing Criteria](asset-listing-criteria.md)
 
 ## Features
 
@@ -19,6 +12,7 @@
 * [Isolation Mode](features/isolation-mode-borrowing-with-precision.md)
 * [HyperChains](features/hyperchains/README.md)
   * [What are Hyperchains?](features/hyperchains/what-are-hyperchains.md)
+* [ONEZ Stablecoin](features/onez.md)
 
 ## The ZERO Token
 
@@ -26,6 +20,15 @@
 * [Zeronomics](the-zero-token/zeronomics.md)
   * [zkSync Airdrop Distribution](the-zero-token/zeronomics/zksync-airdrop-distribution.md)
   * [$veZERO Tokenomics](the-zero-token/zeronomics/usdvezero-tokenomics.md)
+
+## Security
+
+* [Audits](security/audits.md)
+* [Oracles](security/oracles/README.md)
+  * [Pricing LP Tokens](security/oracles/pricing-lp-tokens.md)
+* [Asset Listing Criteria](security/asset-listing-criteria.md)
+* [Deployed Addresses](security/deployed-addresses.md)
+* [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 
 ## Tutorials
 
