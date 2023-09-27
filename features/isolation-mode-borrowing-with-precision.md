@@ -5,7 +5,7 @@ description: >-
   ZeroLend.
 ---
 
-# Isolation Mode: Borrowing with Precision
+# Isolation Mode
 
 ### What is Isolation Mode?
 
