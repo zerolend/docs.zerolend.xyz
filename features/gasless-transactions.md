@@ -6,6 +6,8 @@ description: >-
 
 # Gasless Transactions
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ### **What is a Paymaster?**
 
 A Paymaster, at its core, is a sophisticated smart contract. It serves as a payment facilitator, executing transactions on behalf of users while incorporating customizable logic to make informed decisions about transaction approval and payment. With Paymasters, developers can grant users the ability to transact at zero cost or to use the application's native ERC-20 token for payment.
