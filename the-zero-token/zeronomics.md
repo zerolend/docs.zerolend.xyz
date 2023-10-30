@@ -14,8 +14,6 @@ The $ZERO token is currently deployed on the Ethereum network but is available o
 
 To achieve a high level of distribution and decentralization among token holders, the token supply will be gradually released over a 100-year period.&#x20;
 
-**Initial market cap:** 3,000,000$
-
 ## Token Distribution
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
