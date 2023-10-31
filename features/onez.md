@@ -10,17 +10,13 @@ $ONEZ is currently depolyed on the zkSync mainnet at [0x90059C32Eeeb1A2aa1351a58
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-ONEZ is the pioneering decentralized, overcollateralized stablecoin native to the ZeroLend Protocol. ONEZ, pronounced "one-zee," stands as a groundbreaking stablecoin that finds its genesis within the assets contributed to the ZeroLend Protocol. Designed to be aligned with the value of the U.S. Dollar, ONEZ maintains its peg through efficient market mechanisms.
+ONEZ is a unique stablecoin created by the ZeroLend Protocol. It's designed to always be worth one U.S. Dollar and is made by users who provide collateral. When someone borrows, they must offer collateral at a certain ratio to get ONEZ.
 
-Functioning as an zkSync decentralized stablecoin, ONEZ is minted through active participation of users. Just as with any borrowing activity within the ZeroLend Protocol, individuals are required to provide collateral at a specified ratio in order to generate ONEZ.&#x20;
+When borrowed positions are paid back or if there's a liquidation, the ONEZ goes back to ZeroLend and is removed from circulation. What's special is that the interest paid by ONEZ users goes into the ZeroLend DAO treasury, unlike other assets where interest is essentially removed.
 
-In parallel fashion, repayment of a borrowed position or any liquidation event results in the ONEZ being returned to the ZeroLend pool and subsequently burned. Unique to the ecosystem, the interest payments garnered by ONEZ minters will directly contribute to the ZeroLend DAO treasury.&#x20;
+In a world where people want a decentralized, well-backed, and adaptable stablecoin, ONEZ fills a gap. Recent market events have shown how important decentralized stablecoins can be when markets are shaky. With ZeroLend in charge, ONEZ can become an essential part of DeFi, supported by the community.
 
-This stands in contrast to the conventional reserve factor collection in the case of other borrowed assets, where principal is effectively burned.
-
-In a landscape yearning for a truly decentralized, overcollateralized, and adaptable stablecoin, the demand for ONEZ has never been more evident. Recent market events underscore the role of decentralized stablecoins in preserving value amidst market turmoil. With governance vested in ZeroLend, ONEZ holds the potential to become an indispensable element within the burgeoning DeFi sphere, further fueled by the unwavering support of the community.
-
-Delve into the comprehensive ONEZ documentation to grasp its inner workings and the pivotal role it plays within the broader ecosystem. Detailed insights can be found in the Technical Paper and Smart Contracts sections, offering invaluable guidance for seamless ONEZ integration. Together, we usher in a new era of stability and empowerment within the decentralized financial landscape.
+For more details on how ONEZ works and its role, check out the ONEZ documentation, including the Technical Paper and Smart Contracts sections. Together, we're bringing stability and empowerment to decentralized finance.
 
 ## How to mint/redeem ONEZ?
 
