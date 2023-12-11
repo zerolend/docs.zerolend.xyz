@@ -5,7 +5,7 @@ description: This page talks about the $ONEZ stablecoin launched by ZeroLend
 # ONEZ Stablecoin
 
 {% hint style="info" %}
-$ONEZ is currently depolyed on the zkSync mainnet at [0x90059C32Eeeb1A2aa1351a58860d98855f3655aD](https://explorer.zksync.io/address/0x90059C32Eeeb1A2aa1351a58860d98855f3655aD)
+$ONEZ is currently deployed on the zkSync mainnet at [0x90059C32Eeeb1A2aa1351a58860d98855f3655aD](https://explorer.zksync.io/address/0x90059C32Eeeb1A2aa1351a58860d98855f3655aD)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

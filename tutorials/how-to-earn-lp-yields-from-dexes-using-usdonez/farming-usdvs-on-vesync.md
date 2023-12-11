@@ -14,7 +14,7 @@ To learn more about veSync, visit their [website](https://vesync.finance/) and g
 
 ## How to provide liquidity?
 
-Providing liquidity is a very easy to do on veSync. Users need to first make sure they have [assets on zkSync](../getting-your-assets-onto-zksync.md) and have [minted the ONEZ stablecoin](../how-to-mint-the-onez-stablecoin.md).
+Providing liquidity is very easy to do on veSync. Users need to first make sure they have [assets on zkSync](../getting-your-assets-onto-zksync.md) and have [minted the ONEZ stablecoin](../how-to-mint-the-onez-stablecoin.md).
 
 {% content-ref url="../how-to-mint-the-onez-stablecoin.md" %}
 [how-to-mint-the-onez-stablecoin.md](../how-to-mint-the-onez-stablecoin.md)

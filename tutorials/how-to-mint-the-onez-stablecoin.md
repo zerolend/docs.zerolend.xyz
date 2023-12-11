@@ -12,7 +12,7 @@ Visit the protocol dashboard at [https://app.zerolend.xyz/](https://app.zerolend
 
 ## Step 2: Borrow ONEZ
 
-Once you have supplied liquidity you will see on the borrow section that you have now have assets that you can borrow against. Specifically you will find that you can now borrow/mint the ONEZ stablecoin.
+Once you have supplied liquidity you will see on the borrow section that you now have assets that you can borrow against. Specifically you will find that you can now borrow/mint the ONEZ stablecoin.
 
 Click on the mint button to proceed minting the ONEZ stablecoin and voila! You are now the hodler of ONEZ!
 
