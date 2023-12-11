@@ -16,7 +16,7 @@ The ZeroLend team has further taken a step to secure the protocol by conducting 
 
 The scope of the audit by [Mundus](https://mundus.dev/) was to ensure that the protocol that was deployed on the zkSync mainnet and the original codebase from Aave are the same and that there are:
 
-* No code changes made from what was deployed and the original Aave source code.
+* No code changes were made from what was deployed and the original Aave source code.
 * No backdoors that have been created by the team
 * No EOA (Externally owned Account) ownership on any of the smart-contracts
 
