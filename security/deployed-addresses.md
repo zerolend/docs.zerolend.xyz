@@ -6,7 +6,7 @@ description: This page contains all the deployed addresses on the zkSync chain
 
 ## $ZERO
 
-The $ZERO token is not currently deployed. Once it is live, it's address will be updated here.
+The $ZERO token is not currently deployed. Once it is live, its address will be updated here.
 
 ## Core & Periphery Contracts
 

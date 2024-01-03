@@ -4,7 +4,7 @@ description: This section explains about the audits done for ZeroLend
 
 # Audits
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://mundus.dev/">https://mundus.dev/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p><a href="https://mundus.dev/">https://mundus.dev/</a></p></figcaption></figure>
 
 ZeroLend is a dynamic lending protocol that closely resembles Aave V3, developed as a fork from the original Aave protocol. As a result, ZeroLend inherits the battle-tested and audited smart contract codebase from Aave V3.&#x20;
 
@@ -12,11 +12,11 @@ Since ZeroLend doesn't introduce any changes or modifications to the existing co
 
 The ZeroLend team has further taken a step to secure the protocol by conducting an extra external audit with [Mundus.dev](https://mundus.dev/), a well-known 3rd party auditor for auditing lending protocol and Aave forks.
 
-## External Audit by Mundus.dev
+## External Audit by Mundus. dev
 
 The scope of the audit by [Mundus](https://mundus.dev/) was to ensure that the protocol that was deployed on the zkSync mainnet and the original codebase from Aave are the same and that there are:
 
-* No code changes made from what was deployed and the original Aave source code.
+* No code changes were made from what was deployed and the original Aave source code.
 * No backdoors that have been created by the team
 * No EOA (Externally owned Account) ownership on any of the smart-contracts
 
@@ -24,7 +24,7 @@ The following scope resulted in the report below:
 
 {% embed url="https://github.com/zerolend/audits/blob/main/mundus/zerolend_report_depcheck_final.pdf" %}
 
-Following the report, all ownership of the protocol have been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
+Following the report, all ownership of the protocol has been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
 
 {% embed url="https://twitter.com/zerolendxyz/status/1699619482447290547" %}
 

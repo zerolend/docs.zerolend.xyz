@@ -1,34 +1,48 @@
 # Table of contents
 
 * [Welcome to ZeroLend](README.md)
-* [Roadmap](roadmap.md)
-  * [Phase 1 Launch](phase-1-launch.md)
+* [Roadmap](roadmap/README.md)
+  * [Phase 1 Launch](roadmap/phase-1-launch.md)
 
 ## Features
 
-* [High Efficiency Mode](features/high-efficiency-mode.md)
-* [Gasless Transactions](features/gasless-transactions.md)
-* [Isolation Mode](features/isolation-mode-borrowing-with-precision.md)
-* [HyperChains](features/hyperchains/README.md)
-  * [What are Hyperchains?](features/hyperchains/what-are-hyperchains.md)
-* [ONEZ Stablecoin](features/onez.md)
-* [Account Abstraction](features/account-abstraction.md)
+* [Lending Protocol](features/lending-protocol/README.md)
+  * [High Efficiency Mode](features/lending-protocol/high-efficiency-mode.md)
+  * [Isolation Mode](features/lending-protocol/isolation-mode.md)
+  * [Credit Delegation](features/lending-protocol/credit-delegation.md)
+  * [Liquidations](features/lending-protocol/liquidations.md)
+* [$ONEZ Stablecoin](features/onez.md)
+* [Account Abstraction](features/account-abstraction/README.md)
+  * [Login with Face ID / Socials](features/account-abstraction/login-with-face-id-socials.md)
+  * [Paymasters](features/account-abstraction/paymasters.md)
+* [RWA Lending](features/rwa-lending.md)
+* [HyperChains](features/hyperchains.md)
 
-## The ZERO Token
+## Zeronomics
 
-* [Token Overview](the-zero-token/token-overview.md)
-* [Zeronomics](the-zero-token/zeronomics.md)
-  * [zkSync Airdrop Distribution](the-zero-token/zeronomics/zksync-airdrop-distribution.md)
-  * [$veZERO Tokenomics](the-zero-token/zeronomics/usdvezero-tokenomics.md)
+* [Overview](zeronomics/token-overview.md)
+* [Token Distribution](zeronomics/token-distribution.md)
+* [Revenue Distribution](zeronomics/revenue-distribution.md)
+* [$veZERO Tokenomics](zeronomics/usdvezero-tokenomics.md)
+* [Emissions Distribution](zeronomics/emissions-distribution/README.md)
+  * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
+  * [Stablecoin Incentives](zeronomics/emissions-distribution/stablecoin-incentives.md)
+  * [Staking Rewards](zeronomics/emissions-distribution/staking-rewards.md)
+* [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
+  * [ZeroLend Airdrop](zeronomics/airdrop-incentives/zerolend-airdrop.md)
+  * [zkSync Airdrop](zeronomics/airdrop-incentives/zksync-airdrop.md)
+  * [LayerZero Airdrop](zeronomics/airdrop-incentives/layerzero-airdrop.md)
 
 ## Security
 
 * [Audits](security/audits.md)
 * [Oracles](security/oracles/README.md)
+  * [Using PYTH Oracles](security/oracles/using-pyth-oracles.md)
   * [Pricing LP Tokens](security/oracles/pricing-lp-tokens.md)
 * [Asset Listing Criteria](security/asset-listing-criteria.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
+* [Insurance Fund](security/insurance-fund.md)
 
 ## Tutorials
 
@@ -37,9 +51,13 @@
 * [How to mint the ONEZ Stablecoin?](tutorials/how-to-mint-the-onez-stablecoin.md)
 * [How to earn LP yields from DEXes using $ONEZ?](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/README.md)
   * [Farming $VS on veSync](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/farming-usdvs-on-vesync.md)
+* [Adding Liquidity & Staking LP Tokens on Velocore](tutorials/adding-liquidity-and-staking-lp-tokens-on-velocore.md)
+* [Adding Liquidity & Staking LP Tokens on eZKalibur](tutorials/adding-liquidity-and-staking-lp-tokens-on-ezkalibur.md)
+* [Adding Liquidity & Staking LP Tokens on SpaceFi](tutorials/adding-liquidity-and-staking-lp-tokens-on-spacefi.md)
 
 ## Important Links
 
 * [Twitter](https://twitter.com/zerolendxyz)
+* [Discord](https://discord.gg/zerolend)
 * [Github](https://github.com/zerolend)
 * [Telegram](https://t.me/zerolendxyz)

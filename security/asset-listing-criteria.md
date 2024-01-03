@@ -6,7 +6,7 @@ description: This page talks about the Security Assessment and SAFU practices
 
 Our comprehensive security practices prioritize user fund safety. These practices encompass stringent farm requirements, meticulous vault testing, strategy upgrades, vigilant timelock monitoring, and a rapid-response panic mechanism. In every aspect, we put security at the forefront of our mission to protect our users and maintain a secure DeFi ecosystem.
 
-### A Foundation Built on Safety
+## A Foundation Built on Safety
 
 **Verified Contracts:** Before any new farm can be vaulted on ZeroLend, it must meet strict safety standards. This includes the thorough verification of all smart contracts involved in the farm on blockchain explorers. Verifiability is our first line of defense against vulnerabilities.
 
@@ -22,7 +22,7 @@ Our comprehensive security practices prioritize user fund safety. These practice
 
 **Timelocked Proxy Changes:** Any changes or upgrades to contract proxy implementations must undergo a timelock, ensuring changes are thoroughly vetted.
 
-### Rapid Response: The Panic Mechanism
+## Rapid Response: The Panic Mechanism
 
 Even with our rigorous precautions, unforeseen issues can arise. In such cases, rapid response is vital. ZeroLend's strategies are equipped with a panic mechanism. This mechanism allows a designated keeper to take immediate action, such as pausing a market or liquidating positions. This ensures that funds are always available for users to withdraw in emergencies.
 

@@ -4,7 +4,7 @@ description: This tutorial explains how one can farm on veSync using the $ONEZ s
 
 # Farming $VS on veSync
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://twitter.com/zerolendxyz/status/1693578810393067832">https://twitter.com/zerolendxyz/status/1693578810393067832</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://twitter.com/zerolendxyz/status/1693578810393067832">https://twitter.com/zerolendxyz/status/1693578810393067832</a></p></figcaption></figure>
 
 ## What is veSync?
 
@@ -29,6 +29,6 @@ The following pools are currently available on veSync&#x20;
 
 Once you have opened the liquidity page, proceed to add how much tokens you'd like to deposit into LP and then click on the Deposit & Stake button to provide liquidity
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>A screenshot of the deposit screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>A screenshot of the deposit screen</p></figcaption></figure>
 
 And that's it! You are now providing liquidity to veSync and the $ONEZ stablecoin and farming LP rewards!
