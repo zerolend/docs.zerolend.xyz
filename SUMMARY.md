@@ -11,6 +11,7 @@
   * [Isolation Mode](features/lending-protocol/isolation-mode.md)
   * [Credit Delegation](features/lending-protocol/credit-delegation.md)
   * [Liquidations](features/lending-protocol/liquidations.md)
+  * [Supply/Borrow Caps](features/lending-protocol/supply-borrow-caps.md)
 * [$ONEZ Stablecoin](features/onez.md)
 * [Account Abstraction](features/account-abstraction/README.md)
   * [Login with Face ID / Socials](features/account-abstraction/login-with-face-id-socials.md)

@@ -29,5 +29,5 @@ There are many features that make ZeroLend attractive to use. The following list
 * [Isolation Mode](isolation-mode.md)
 * [Liquidations](liquidations.md)
 * [Credit Delegation](credit-delegation.md)
+* [Supply/Borrow Caps](supply-borrow-caps.md)
 * Supplying/Borrow assets
-* Supply/Borrow Caps
