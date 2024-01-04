@@ -15,6 +15,6 @@ While the criteria(s) mentioned here are not confirmed ways to become eligible f
 1. Bridge liquidity and supply assets into ZeroLend protocol
 2. Borrow assets from the ZeroLend protocol
 3. Mint the ONEZ stablecoin by depositing collateral at onez.cash
-4. Supply the ONEZ stablecoin as liquidity into various LP pools (See: [How to farm with ONEZ](../../tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/))
+4. Supply the ONEZ stablecoin as liquidity into various LP pools (See: [How to farm with ONEZ](broken-reference))
 
 To learn more about how the team airdrop is distributed across ZERO holders read the "[Airdrop Distribution Plan](./#airdrop-distribution-plan)".

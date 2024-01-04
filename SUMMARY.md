@@ -48,12 +48,6 @@
 
 * [Getting your assets onto zkSync](tutorials/getting-your-assets-onto-zksync.md)
 * [How to Leverage Exposure on Your Assets?](tutorials/how-to-leverage-yield-farm.md)
-* [How to mint the ONEZ Stablecoin?](tutorials/how-to-mint-the-onez-stablecoin.md)
-* [How to earn LP yields from DEXes using $ONEZ?](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/README.md)
-  * [Farming $VS on veSync](tutorials/how-to-earn-lp-yields-from-dexes-using-usdonez/farming-usdvs-on-vesync.md)
-* [Adding Liquidity & Staking LP Tokens on Velocore](tutorials/adding-liquidity-and-staking-lp-tokens-on-velocore.md)
-* [Adding Liquidity & Staking LP Tokens on eZKalibur](tutorials/adding-liquidity-and-staking-lp-tokens-on-ezkalibur.md)
-* [Adding Liquidity & Staking LP Tokens on SpaceFi](tutorials/adding-liquidity-and-staking-lp-tokens-on-spacefi.md)
 
 ## Important Links
 
