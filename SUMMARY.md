@@ -14,8 +14,8 @@
   * [Supply/Borrow Caps](features/lending-protocol/supply-borrow-caps.md)
 * [$ONEZ Stablecoin](features/onez.md)
 * [Account Abstraction](features/account-abstraction/README.md)
+  * [Paymasters](features/gasless-transactions.md)
   * [Login with Face ID / Socials](features/account-abstraction/login-with-face-id-socials.md)
-  * [Paymasters](features/account-abstraction/paymasters.md)
 * [RWA Lending](features/rwa-lending.md)
 * [HyperChains](features/hyperchains.md)
 

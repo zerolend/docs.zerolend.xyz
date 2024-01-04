@@ -14,5 +14,5 @@ To facilitate a frictionless transition into the gas-free era, ZeroLend is dilig
 
 ZeroLend integates various zkSync-native AA features in the following ways:
 
-* [Paymasters](paymasters.md): Allows the protocol to either subsidize or allow users to pay for transaction fees with ERC20 tokens without having any ETH in their wallets.
+* [Paymasters](../gasless-transactions.md): Allows the protocol to either subsidize or allow users to pay for transaction fees with ERC20 tokens without having any ETH in their wallets.
 * [Social Logins / Secure-Enclave wallets](login-with-face-id-socials.md): Allows users to have a wallet that is in control with their secure enclave device (Face ID, Fingerprint scanners etc..)
