@@ -23,7 +23,6 @@
 
 * [Overview](zeronomics/token-overview.md)
 * [Token Distribution](zeronomics/token-distribution.md)
-* [Revenue Distribution](zeronomics/revenue-distribution.md)
 * [$veZERO Tokenomics](zeronomics/usdvezero-tokenomics.md)
 * [Emissions Distribution](zeronomics/emissions-distribution/README.md)
   * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
