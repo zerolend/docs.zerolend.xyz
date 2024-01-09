@@ -26,6 +26,3 @@ In the event of a significant issue, such as a smart contract vulnerability or a
 
 ZeroLend is committed to maintaining the highest standards of security and transparency. The Insurance Fund is essential to our risk management strategy, allowing us to address potential threats and protect user assets.
 
-## Conclusion
-
-ZeroLend's Insurance Fund is a testament to our commitment to user safety and the integrity of our platform. While we strive to provide a secure and user-friendly lending experience, we also recognize the importance of being prepared for unexpected challenges. With the Insurance Fund in place, our users can have greater confidence in their interactions with ZeroLend, knowing that an additional layer of security protects their assets.

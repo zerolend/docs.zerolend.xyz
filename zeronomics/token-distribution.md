@@ -1,18 +1,10 @@
 ---
-description: >-
-  This page talks about the ZERO tokenomics and what makes the $ZERO token
-  decentralized.
+description: This page talks about the $ZERO tokenomics.
 ---
 
 # Token Distribution
 
-**$ZERO** is a scarce ERC20 token with a maximum circulation of 100 billion tokens. The majority of **$ZERO** tokens have been allocated to support community and ecosystem-related initiatives, reflecting **$ZERO**'s commitment to being a coin governed and controlled by its community.
-
-To achieve a high level of distribution and decentralization among token holders, the token supply will be gradually released over a 100-year period.&#x20;
-
-**Total Supply:** 100,000,000,000 $ZERO
-
-Furthermore, the supply of $ZERO is stretched across the period of 100 years to ensure the even distribution of tokens among the holders.
+**$ZERO** **Total Supply:** 100 Billion.&#x20;
 
 <table data-full-width="true"><thead><tr><th width="238.33333333333331">Category</th><th width="145">Vesting</th><th width="126">Allocation</th><th>Description</th></tr></thead><tbody><tr><td>Private Sale</td><td>Linear, 1Y</td><td>30%</td><td>Early funding stage to kickstart the project, crucial for development and initial partnerships.</td></tr><tr><td>Liquidity</td><td>Linear, 1Y</td><td>10%</td><td>Tokens added into a DEX liquidity on launch.</td></tr><tr><td>Team</td><td>Linear, 10Y</td><td>5%</td><td>Tokens held by the team.</td></tr><tr><td>Treasury</td><td>Linear, 1Y</td><td>10%</td><td>Tokens held by ZERO holders.</td></tr><tr><td>Advisors</td><td>Linear, 1Y</td><td>7%</td><td>Allocation for the experts who guide the protocol's development and governance</td></tr><tr><td>Airdrops</td><td>Linear, 6M</td><td>3%</td><td>Promotional tokens to drive adoption and reward the early supporters of ZeroLend. </td></tr><tr><td>Emissions</td><td>Exponential decay, 100Y</td><td>35%</td><td>A significant portion to incentivize ongoing platform activity and user participation.</td></tr></tbody></table>
 
@@ -20,11 +12,11 @@ Furthermore, the supply of $ZERO is stretched across the period of 100 years to 
 
 ## Token Generation Event (est Q1 2024)
 
-The TGE (Token Generation Event) for $ZERO is moment when the protocol goes live. During this phase the ZERO token becomes tradable across various markets and exchanges.
+During the TGE, a certain portion of the $ZERO supply will be realased into the market and will be tradable. This supply is called the circulating supply of the token.
 
-During the TGE, a certain portion of the supply is relased into the market and traded. This supply is called the circulating supply of the token.
-
-On launch it is estimated that roughly 15% of the supply will be circulating on launch. The table below showcases how much of the supply will released at the TGE.
+On launch it is estimated that roughly 18.8% of the supply will be circulating on launch. \
+\
+The table below showcases how much of the supply will released at the TGE.
 
 | Category                                   | % Amount                                  | % Released at TGE | % of supply at TGE                         |
 | ------------------------------------------ | ----------------------------------------- | ----------------- | ------------------------------------------ |

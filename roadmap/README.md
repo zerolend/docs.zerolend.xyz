@@ -10,7 +10,7 @@ description: >-
 It's important to note that the roadmap provided is a general outline and may be subject to adjustments and refinements based on market conditions, regulatory considerations, and community feedback.
 {% endhint %}
 
-## ~~Phase 0: Development and Testing (Q2 2023)~~
+## Phase 0: Development and Testing (Q2 2023)
 
 During the initial phase, the ZeroLend team focuses on developing and thoroughly testing the lending protocol. This involves designing and implementing the core smart contracts, building the user interface, and conducting extensive security audits to identify and resolve any vulnerabilities.&#x20;
 
@@ -35,7 +35,7 @@ Users can also participate within the community to earn points which makes them 
 
 1. Smart contract deployment on the mainnet.
 2. Launch of the ZeroLend platform to the public.
-3. Launch of the ZeroLend stablecoin ([ONEZ](../features/onez.md)).
+3. Launch of the ZeroLend stablecoin ([ONEZ](../onez.md)).
 4. Airdrop campaigns and co-marketing with projects
 5. Marketing and user acquisition efforts.
 
@@ -45,15 +45,15 @@ This is the current stage of the protocol.
 
 ## **Phase 2: Incentives & Official Protocol launch**
 
-ZeroLend embarks on a vital phase with the initiation of the public and private sales, leading up to the Token Generation Event (TGE). The $ZERO token makes its debut and becomes tradable across various markets (DEXes and CEXes).
+ZeroLend embarks on a vital phase with the initiation of public and private sales, leading up to the Token Generation Event (TGE). The $ZERO token makes its debut and becomes tradable across various markets (DEXes and CEXes).
 
-At this stage the various incentive mechanisms start to go live. This includes staking, liquidity mining etc.., to further grow the protocol.
+At this stage, the various incentive mechanisms start to go live. This includes staking, liquidity mining, etc.., to further grow the protocol.
 
 **Key Milestones:**
 
 1. Conducting Private and Public Sales of $ZERO.
 2. Launching $ZERO on multiple exchanges post-TGE.
-3. Launch of protocol incentives (Staking, Emissions etc..)
+3. Launch of protocol incentives (Staking, Emissions, etc..)
 
 {% hint style="warning" %}
 This phase is expected to take place in Q1 2024
