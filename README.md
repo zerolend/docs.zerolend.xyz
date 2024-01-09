@@ -2,7 +2,7 @@
 description: A lending protocol with native stablecoin built on zkSync.
 ---
 
-# 🌎 Welcome to ZeroLend
+# Welcome to ZeroLend
 
 <figure><img src=".gitbook/assets/Frame 10.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,7 +25,7 @@ The ZeroLend ecosystem comprises of various entities and features:
 
     \
     To know more about Real World Assets, read ["Real World Assets"](notion://www.notion.so/features/rwa-lending)
-6.  **Privacy Layer using zkStack (Q4 2024):** With compliance to regulations (such as KYC), users can lend/borrow assets using zk proofs and keep their transactions private.&#x20;
+6.  **Privacy Layer using zkStack (Q4 2024):** With compliance with regulations (such as KYC), users can lend/borrow assets using zk proofs and keep their transactions private.&#x20;
 
 
 

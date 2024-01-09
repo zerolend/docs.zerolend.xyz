@@ -1,20 +1,20 @@
 # Table of contents
 
-* [🌎 Welcome to ZeroLend](README.md)
+* [Welcome to ZeroLend](README.md)
 
 ## Overview
 
-* [💰 Decentralised Lending](overview/decentralised-lending/README.md)
+* [Decentralised Lending](overview/decentralised-lending/README.md)
   * [Get tokens on zkSync](overview/decentralised-lending/get-tokens-on-zksync.md)
   * [Lending](overview/decentralised-lending/lending.md)
   * [Borrowing](overview/decentralised-lending/borrowing.md)
   * [Liquidations](overview/decentralised-lending/liquidations.md)
-* [🖇 Account Abstraction (AA)](overview/account-abstraction-aa/README.md)
+* [Account Abstraction (AA)](overview/account-abstraction-aa/README.md)
   * [Paymasters](overview/account-abstraction-aa/paymasters.md)
   * [Secure-enclave and social logins](overview/account-abstraction-aa/secure-enclave-and-social-logins.md)
   * [Delegated transaction](overview/account-abstraction-aa/delegated-transaction.md)
-* [🥇 RWA Lending](overview/rwa-lending.md)
-* [⛓ HyperChains and Privacy Layer](overview/hyperchains-and-privacy-layer.md)
+* [RWA Lending](overview/rwa-lending.md)
+* [HyperChains and Privacy Layer](overview/hyperchains-and-privacy-layer.md)
 
 ## Capital Efficiency
 
