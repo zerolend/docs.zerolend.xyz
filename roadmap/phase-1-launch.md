@@ -15,7 +15,7 @@ As part of the launch phase, ZeroLend introduces an opportunity for users to rec
 
 To be eligible for the airdrop, you need to provide liquidity to the protocol and start farming $**earlyZERO**.
 
-You can become eligible for the ZERO airdrop by either having a history with interacting with other protocols or by interacting our social. To learn more about eligibility criterias read ["ZeroLend Airdrop"](../zeronomics/participation-incentives/engagement-for-potential-incentives..md).
+You can become eligible for the ZERO airdrop by either having a history with interacting with other protocols or by interacting our social. To learn more about eligibility criterias read ["ZeroLend Airdrop"](../zeronomics/participation-incentives/engagement-for-potential-incentives.md).
 
 Please feel free to visit [http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start interacting with the application.
 

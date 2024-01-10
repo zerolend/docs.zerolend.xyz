@@ -36,7 +36,7 @@
 * [Emissions Distribution](zeronomics/emissions-distribution/README.md)
   * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
 * [Participation Incentives](zeronomics/participation-incentives/README.md)
-  * [Engagement for Potential Incentives.](zeronomics/participation-incentives/engagement-for-potential-incentives..md)
+  * [Engagement for Potential Incentives](zeronomics/participation-incentives/engagement-for-potential-incentives.md)
 
 ## Security
 
