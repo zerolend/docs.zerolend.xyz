@@ -2,10 +2,10 @@
 description: >-
   This page talks about one of the main ZeroLend's features - Account
   Abstraction and how it is integrated in the protocol for better user
-  experience?
+  experience.
 ---
 
-# 🖇 Account Abstraction (AA)
+# Account Abstraction (AA)
 
 The DeFi ecosystem can be complex; therefore, enhancing the user experience in interacting with DeFi applications to make them more intuitive and competitive with conventional TradFi applications is crucial.
 

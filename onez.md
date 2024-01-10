@@ -5,7 +5,7 @@ description: This page talks about the $ONEZ stablecoin launched by ZeroLend
 # $ONEZ Stablecoin
 
 {% hint style="info" %}
-ONEZ is set to launch in Jan 2024.
+$ONEZ is set to launch sometime in 2024.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

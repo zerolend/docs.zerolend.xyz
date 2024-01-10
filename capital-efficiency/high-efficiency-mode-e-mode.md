@@ -2,9 +2,9 @@
 description: In this section we explain how we increase capital efficiency with E-Mode
 ---
 
-# High Efficiency Mode
+# High Efficiency Mode (E-Mode)
 
-eMode, or High Efficiency Mode, empowers borrowers to maximize their borrowing capacity by using correlated assets within the same category, such as stablecoins, as collateral. For instance, supplying $USDC in eMode allows for enhanced collateralization power when borrowing $ONEZ.
+E-Mode, or High Efficiency Mode, empowers borrowers to maximize their borrowing capacity by using correlated assets within the same category, such as stablecoins, as collateral. For instance, supplying $USDC in eMode allows for enhanced collateralization power when borrowing $ONEZ.
 
 In eMode, ZeroLend classifies assets based on:
 
@@ -13,10 +13,10 @@ In eMode, ZeroLend classifies assets based on:
 3. **Liquidation Bonus:** Borrowers receive rewards for early loan repayment in eMode, encouraging responsible borrowing behavior.
 
 {% hint style="info" %}
-Notably, eMode doesn't restrict the use of other assets as collateral; assets outside the eMode category can still be supplied with normal LTV and liquidation parameters.
+Notably, E-Mode doesn't restrict the use of other assets as collateral; assets outside the eMode category can still be supplied with normal LTV and liquidation parameters.
 {% endhint %}
 
-## How do I activate eMode?
+## How do I activate E-Mode?
 
 1. Go to "Dashboard".
 2. Locate the E-Mode "Disabled ⚙️" button beside "Your Borrows" and click on it.

@@ -6,20 +6,23 @@ description: This page is a comprehensive guide to borrowing on ZeroLend.
 
 Before engaging in the borrowing process, it is essential to ensure that you have appropriately deposited assets as collateral (refer to the [Lending](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/decentralised-lending/getting-started/lending) section for detailed information).
 
-After successfully depositing assets as collateral:\
-1\. Proceed to the dashboard page and select the desired assets for borrowing. \
-2\. Specify the desired borrowing amount.\
+After successfully depositing assets as collateral:
+
+1\. Proceed to the **"Dashboard"** page and select the desired assets for borrowing.&#x20;
+
+2\. Specify the desired borrowing amount.
+
 3\. Click "**Confirm**" and authorize the transaction through the provided pop-up wallet prompt.
 
 {% hint style="info" %}
-Note: Opting to borrow larger amounts will have a proportional impact on your overall Health Factor (further details are provided below).
+Note: Opting to borrow larger amounts will have a proportional impact on your overall [Health Factor ](borrowing.md#health-factor)(further details are provided below).
 {% endhint %}
 
 ## Borrowing Eligibility
 
 The maximum borrowing limit for users is determined by factors such as deposit value, asset type, and the liquidity of the deposited assets. The assets supplied by users directly influence the maximum allowable loan value. Additionally, borrowing limits are constrained by the health factor, meaning borrowing an asset becomes restricted if the Health Factor is too low.
 
-The maximum amount you can borrow against your collateral's value is the maximum **Loan-to-Value (LTV)** ratio. If you exceed this level, your collateral will start being sold to cover the debt. For example, with a max LTV of 80%, users can borrow up to 80% of their collateral's assessed value. To illustrate, if the collateral is valued at $100, the user can borrow up to $80.
+The maximum amount you can borrow against your collateral's value is the [maximum **Loan-to-Value (LTV)** ](./#important-parameters)ratio. If you exceed this level, your collateral will start being sold to cover the debt. For example, with a max LTV of 80%, users can borrow up to 80% of their collateral's assessed value. To illustrate, if the collateral is valued at $100, the user can borrow up to $80.
 
 ## Borrowing interest
 

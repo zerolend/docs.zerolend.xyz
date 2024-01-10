@@ -4,7 +4,7 @@ description: This page is a comprehensive guide to lending on ZeroLend.
 
 # Lending
 
-ZeroLend allows users to deposit supported tokens into the protocol and earn yield on them. This is made possible by borrowers on the platform who borrow these tokens and pay interest on them. The deposit yield on ZeroLend is typically expressed in terms of APY (Annual Percentage Yield). The APYs for lending each asset are usually exposed in ZeroLend’s web interfaces.
+ZeroLend allows users to deposit supported tokens into the protocol and earn yield on them. This is made possible by borrowers on the platform who borrow these tokens and pay interest on them. The deposit yield on ZeroLend is typically expressed in terms of APY (Annual Percentage Yield). The APYs for lending each asset are exposed in ZeroLend’s [web](https://app.zerolend.xyz/) interfaces.
 
 ### How to provide liquidity in ZeroLend?
 
@@ -20,7 +20,7 @@ ZeroLend allows users to deposit supported tokens into the protocol and earn yie
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 4. Search for the asset you want to supply as collateral and Click the **"Details"** button to view the asset information page.
-5. Input the amount you want to deposit and click the **“Supply”** button. Check the Supply APY, Rewards APR, and gas fees, then confirm.
+5. Input the amount you want to deposit and click the **“Supply”** button. Check the Supply APY, Rewards APR, and gas fees, then "**Confirm"**.
 
 ## Withdraw assets
 
@@ -32,3 +32,13 @@ Withdrawals are permitted under the following conditions:
 2. The withdrawal will not trigger a liquidation event on any existing loans.
 
 To initiate the withdrawal of an asset, first navigate to the **Dashboard,** choose the asset, and click on the "Withdraw" option. From there, select the desired amount and proceed to submit the transaction.
+
+## Lending Rewards
+
+**Supply APY:** The annual percentage yield that users earn as interest for supplying an aseet to ZeroLend pool.
+
+**Additional APY:** Extra rewards given to users on top of the standard supply interest for participating as lenders. This reward is generally given in $ZERO (ZeroLend’s native token) and other tokens.
+
+{% hint style="info" %}
+ZeroLend aims to provide lending\&borrowing on various supported assets across multiple chains. Powered by [LayerZero](https://layerzero.network/). To be integrated in 2024.&#x20;
+{% endhint %}

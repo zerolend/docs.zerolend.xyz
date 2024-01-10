@@ -8,11 +8,11 @@ description: >-
 
 Liquidations are one of the fundamental risks in DeFi lending protocols. Liquidation is the process that occurs when a borrower's [health factor](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/decentralised-lending/getting-started/borrowing#health-factor) goes below 1 due to their collateral value not properly covering their loan/debt position.  \
 \
-The exact amount of collateral that will be sold to cover the debt depends on several factors, including the liquidation threshold, the liquidation penalty, and the current value of the collateral and the debt.
+The exact amount of collateral that will be sold to cover the debt depends on several factors, including the [liquidation threshold](./#important-parameters), the [liquidation penalty](./#important-parameters), and the current value of the collateral and the debt.
 
 ## How does liquidation work in ZeroLend?
 
-Let's take your example where you have borrowed $10,000 worth of stablecoin against $18,000 worth of ETH as collateral. Assuming a liquidation threshold of 0.8, liquidation is triggered once your health factor hits this level. ZeroLend’s smart contract automatically sells enough collateral to cover the debt, often including a liquidation penalty.
+Let's take an example where you have borrowed $10,000 worth of stablecoins against $18,000 worth of ETH as collateral. Assuming a liquidation threshold of 0.8, liquidation is triggered once your health factor hits this level. ZeroLend’s smart contract automatically sells enough collateral to cover the debt, often including a liquidation penalty.
 
 * **Without considering a liquidation penalty**: If we assume that exactly enough collateral is sold to bring your health factor back to 1, liquidators would need to cover a debt of $10,000. Since the health factor is 0.8, it means that your $18,000 collateral is now only worth $12,500 (because $10,000 is 80% of $12,500).&#x20;
 * **Considering a liquidation penalty (e.g., 5%)**: ZeroLend liquidators would sell more than the $10,000 debt due to the liquidation penalty. For example, if the penalty is 5% of the amount to be liquidated, we would sell $10,000 + 5% of $10,000 ($500) = $10,500 worth of your collateral.

@@ -18,7 +18,7 @@
 
 ## Capital Efficiency
 
-* [High Efficiency Mode](capital-efficiency/high-efficiency-mode.md)
+* [High Efficiency Mode (E-Mode)](capital-efficiency/high-efficiency-mode-e-mode.md)
 * [Isolation Mode](capital-efficiency/isolation-mode.md)
 * [Credit Delegation](capital-efficiency/credit-delegation.md)
 * [Supply/Borrow Caps](capital-efficiency/supply-borrow-caps.md)
@@ -35,12 +35,8 @@
 * [Token Distribution](zeronomics/token-distribution.md)
 * [Emissions Distribution](zeronomics/emissions-distribution/README.md)
   * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
-  * [Stablecoin Incentives](zeronomics/emissions-distribution/stablecoin-incentives.md)
-  * [Staking Rewards](zeronomics/emissions-distribution/staking-rewards.md)
 * [Participation Incentives](zeronomics/participation-incentives/README.md)
-  * [ZeroLend Airdrop](zeronomics/participation-incentives/zerolend-airdrop.md)
-  * [zkSync Airdrop](zeronomics/participation-incentives/zksync-airdrop.md)
-  * [LayerZero Airdrop](zeronomics/participation-incentives/layerzero-airdrop.md)
+  * [Engagement for Potential Incentives.](zeronomics/participation-incentives/engagement-for-potential-incentives..md)
 
 ## Security
 
@@ -63,3 +59,7 @@
 * [Discord](https://discord.gg/zerolend)
 * [Github](https://github.com/zerolend)
 * [Telegram](https://t.me/zerolendxyz)
+
+***
+
+* [Integrations](integrations.md)

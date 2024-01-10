@@ -4,20 +4,18 @@ description: >-
   programs by participating within ZeroLend
 ---
 
-# Airdrop Incentives
+# Participation Incentives
 
-To know more about the various airdrops users can farm with ZeroLend, view the various airdrop opportunities below:
+Protocols are competing for liquidity by incentivizing depositors through the means of protocol tokens issuance. The ZeroLend Protocol will also incentivize its users through a scheduled distribution to benefit liquidity providers and users through delegated token distribution.&#x20;
 
-* [Farm the ZeroLend Airdrop](zerolend-airdrop.md)
-* [Farm the zkSync Airdrop](zksync-airdrop.md)
-* [Farm the LayerZero Airdrop](layerzero-airdrop.md)
-* Farm the Pyth Airdrop (Upcoming)
-* Farm the SyncSwap Airdrop (Upcoming)
+## **Token Distribution Plan**
 
-## **Airdrop Distribution Plan**
+We have designed a distribution plan to benefit our loyal community members and support the ongoing development of our ecosystem:
 
-Should ZeroLend receive governance tokens designated from any of the respective airdrops, we have designed a distribution plan designed to benefit our loyal community members and support the ongoing development of our ecosystem:
+{% hint style="info" %}
+3% of the total supple i.e 3B tokens will be allocated to incentivize the ZeroLend users and for Ecosystem growth and development.
+{% endhint %}
 
-1. **40% to ZERO Token Holders**: A substantial 40% of any governance token airdrop will be allocated to ZERO token holders (with a preference to ZERO stakers). These individuals have played a pivotal role in the growth and success of ZeroLend. This includes **earlyZERO** holders as well.
-2. **40% Reserved for Future Incentives and Initiatives**: We believe in continuously incentivizing and driving the growth of our ecosystem. As such, 40% of the airdrop will be reserved for future incentives and initiatives, ensuring that our community members continue to be rewarded for their active participation.
-3. **20% for the Development Fund**: Innovation and sustainability are at the core of ZeroLend. To support ongoing development efforts, 20% of the governance token airdrop will be allocated to our development fund. This ensures that we have the necessary resources to maintain and enhance our platform.
+1. **40% to ZERO Token Holders**: A substantial 40% will be allocated to $ZERO token holders (with a preference to $ZERO stakers). This includes **earlyZERO** holders as well.
+2. **40% Reserved for Future Incentives and Initiatives**:  40% will be reserved for future incentives and initiatives to continuously reward users for their active participation.
+3. **20% for the Development Fund**: 20% will be allocated to the development fund.&#x20;

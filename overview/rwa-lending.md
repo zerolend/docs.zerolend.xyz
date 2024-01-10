@@ -2,7 +2,7 @@
 description: This explains how ZeroLend aims to implement RWA (Real World Asset) Lending
 ---
 
-# 🥇 RWA Lending
+# RWA Lending
 
 ## What is RWA Lending?
 

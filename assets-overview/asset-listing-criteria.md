@@ -15,5 +15,5 @@ Hence, ZeroLend considers a comprehensive set of criteria to evaluate the suitab
 7. New, riskier assets with lower liquidity are considered for listing in [Isolation mode](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/decentralised-lending/capital-efficiency/isolation-mode) for both borrow and collateral use.
 
 {% hint style="info" %}
-Have assets in mind for ZeroLend? Join our Discord to share your suggestions.&#x20;
+Have assets in mind for ZeroLend? Join our [Discord ](https://discord.gg/zerolend)to share your suggestions.&#x20;
 {% endhint %}

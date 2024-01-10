@@ -2,7 +2,7 @@
 description: This page talks in detail about the lending protocol of ZeroLend.
 ---
 
-# 💰 Decentralised Lending
+# Decentralised Lending
 
 ZeroLend's core product is its decentralized non-custodial liquidity market. ZeroLend is a fork of [AAVE V3](https://aave.com/) with changes in the incentive mechanisms that make it very similar to [Radiant Capital](https://radiant.capital/).
 
@@ -32,7 +32,7 @@ Let’s understand this with an example. Let's say you're bullish on $ETH. Inste
 
 Many features make ZeroLend attractive to use. The following list below summarises each of them.
 
-* [High Efficiency Mode](../../capital-efficiency/high-efficiency-mode.md)
+* [High Efficiency Mode](../../capital-efficiency/high-efficiency-mode-e-mode.md)
 * [Isolation Mode](../../capital-efficiency/isolation-mode.md)
 * [Credit Delegation](../../capital-efficiency/credit-delegation.md)
 

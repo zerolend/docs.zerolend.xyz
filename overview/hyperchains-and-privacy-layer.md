@@ -2,7 +2,7 @@
 description: This page gives a brief introduction to Hyperchains
 ---
 
-# ⛓ HyperChains and Privacy Layer
+# HyperChains and Privacy Layer
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-12-20 at 2.21.44 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,3 +19,6 @@ The hyperchains can be strategically designed as Layer-3 dApps, offering unparal
 
 $ZERO holders will govern the chain, earning transaction fees in return. This authority extends to both validators and provers. Moreover, $ZERO will operate as the native currency for the chain and also be used to pay for transaction fees.
 
+{% hint style="info" %}
+Privacy chains will be launched in 2025. Powered by zkStack.&#x20;
+{% endhint %}
