@@ -18,7 +18,7 @@ The ZeroLend ecosystem comprises of various entities and features:
    To learn more, visit [docs.onez.cash](https://docs.onez.cash/).
 3. **ZeroLend** **Governance ($ZERO)**: A governance system for governing the ZeroLend Protocol, enabled by the $ZERO token. \
    \
-   To learn more, read "[Zeronomics](broken-reference)" and "[Participation Incentives](zeronomics/participation-incentives/)".
+   To learn more, read "[Zeronomics](broken-reference)" and "[Participation Incentives](zeronomics/airdrop-incentives/)".
 4.  **Account Abstraction (Live):** This feature allows for gas-less transactions, social logins, delegated transactions, etc.
 
     \

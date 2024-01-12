@@ -35,8 +35,8 @@
 * [Token Distribution](zeronomics/token-distribution.md)
 * [Emissions Distribution](zeronomics/emissions-distribution/README.md)
   * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
-* [Participation Incentives](zeronomics/participation-incentives/README.md)
-  * [Engagement for Potential Incentives](zeronomics/participation-incentives/engagement-for-potential-incentives.md)
+* [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
+  * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
 
 ## Security
 
