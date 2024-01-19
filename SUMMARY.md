@@ -37,6 +37,7 @@
   * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
 * [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
   * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
+* [Airdrop Point Reward System](zeronomics/airdrop-point-reward-system.md)
 
 ## Security
 
