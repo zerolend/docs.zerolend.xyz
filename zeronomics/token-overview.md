@@ -8,9 +8,9 @@ description: This page talks briefly summarizes  the $ZERO token.
 The $ZERO token is not yet live and will be made available during the TGE.
 {% endhint %}
 
-**$ZERO** serves as both a utility and governance token within the ZeroLend ecosystem. Token holders can use the token to access various benefits such as fee discounts, rewards, and voting rights.&#x20;
+**$ZERO** serves as both a utility and governance token within the ZeroLend ecosystem. The Total Supply of $ZERO is 100B.&#x20;
 
-### Utilities
+### Utilities of $ZERO
 
 1. **Staking:** $ZERO holders will have the option to stake their tokens in the protocol. By doing so, they will be rewarded with additional tokens as an incentive for their participation.
 2. **Fees & Validator Rewards:** The $ZERO token can be used to accumulate transaction fees and earn fees from validators securing the ZeroLend [Hyperchain](../overview/hyperchains-and-privacy-layer.md).

@@ -33,10 +33,15 @@
 
 * [Overview](zeronomics/token-overview.md)
 * [Token Distribution](zeronomics/token-distribution.md)
-* [Emissions Distribution](zeronomics/emissions-distribution/README.md)
-  * [Lending Incentives](zeronomics/emissions-distribution/lending-incentives.md)
+* [Ve-Tokenomics](zeronomics/ve-tokenomics/README.md)
+  * [Single Stake $ZERO](zeronomics/ve-tokenomics/single-stake-usdzero.md)
+  * [dLP $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
 * [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
   * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
+* [ZeroLend Emission Strategy](zeronomics/zerolend-emission-strategy/README.md)
+  * [Protocol Power/Weight](zeronomics/zerolend-emission-strategy/protocol-power-weight.md)
+  * [Deconstructing the Weighted Percentage (T\_p) Calculation](zeronomics/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
+  * [Construction of dLP & $ZERO Power](zeronomics/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
 
 ## Security
 
