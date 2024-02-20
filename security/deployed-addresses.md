@@ -10,8 +10,10 @@ The $ZERO token is not currently deployed. Once it is live, its address will be 
 
 ## Core & Periphery Contracts
 
-These are the addresses of the ZeroLend protocol on the zkSync chain.
+These are the addresses of the ZeroLend protocol on the various chains.
 
+{% tabs %}
+{% tab title="zkSync" %}
 | Contract Name                           | Address                                                                                                                              |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | AaveOracle-zkSync                       | [0x785765De3E9ac3D8eEb42B4724A7FEA8990142B8](https://explorer.zksync.io/address/0x785765De3E9ac3D8eEb42B4724A7FEA8990142B8)          |
@@ -42,10 +44,20 @@ These are the addresses of the ZeroLend protocol on the zkSync chain.
 | WalletBalanceProvider                   | [0xdeEa10da04D867e3303AB6E50FA26C2d8a5e9f70](https://explorer.zksync.io/address/0xdeEa10da04D867e3303AB6E50FA26C2d8a5e9f70)          |
 | WrappedTokenGatewayV3                   | [0x767b4A087c11d7581Ac95eaFfc1FeBFA26bad3d2](https://explorer.zksync.io/address/0x767b4A087c11d7581Ac95eaFfc1FeBFA26bad3d2)          |
 
+
+{% endtab %}
+
+{% tab title="Manta" %}
+todo
+{% endtab %}
+{% endtabs %}
+
 ## Libraries
 
 Libraries are where most of the business logic of the lending pool exists
 
+{% tabs %}
+{% tab title="zkSync" %}
 | Contract Name     | Address                                                                                                                              |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | BridgeLogic       | [0x6CDe8a8cEE9771A30dE4fEAB8eaccb58cb0d30aF](https://explorer.zksync.io/address/0x6CDe8a8cEE9771A30dE4fEAB8eaccb58cb0d30aF#contract) |
@@ -57,10 +69,20 @@ Libraries are where most of the business logic of the lending pool exists
 | FlashLoanLogic    | [0x424C0995114a614c12506D9A994d3eE140742f12](https://explorer.zksync.io/address/0x424C0995114a614c12506D9A994d3eE140742f12#contract) |
 | BorrowLogic       | [0x81D6b98Beb0A4288dCFab724FDeaE52E5Aa2F7b1](https://explorer.zksync.io/address/0x81D6b98Beb0A4288dCFab724FDeaE52E5Aa2F7b1#contract) |
 
+
+{% endtab %}
+
+{% tab title="Manta" %}
+todo
+{% endtab %}
+{% endtabs %}
+
 ## Tokens
 
-These are the addresses of the various debt tokens on the zkSync chain.
+These are the addresses of the various debt tokens on the various chains.
 
+{% tabs %}
+{% tab title="zkSync" %}
 | Contract Name                 | Address                                                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | WETH-AToken-zkSync            | [0x9002ecb8a06060e3b56669c6B8F18E1c3b119914](https://explorer.zksync.io/address/0x9002ecb8a06060e3b56669c6B8F18E1c3b119914) |
@@ -72,3 +94,9 @@ These are the addresses of the various debt tokens on the zkSync chain.
 | USDT-AToken-zkSync            | [0x9ca4806fa54984Bf5dA4E280b7AA8bB821D21505](https://explorer.zksync.io/address/0x9ca4806fa54984Bf5dA4E280b7AA8bB821D21505) |
 | USDT-StableDebtToken-zkSync   | [0x6F977fD05962d67Eb7B16b15684fbEa0462F442d](https://explorer.zksync.io/address/0x6F977fD05962d67Eb7B16b15684fbEa0462F442d) |
 | USDT-VariableDebtToken-zkSync | [0xa333c6FF89525939271E796FbDe2a2D9A970F831](https://explorer.zksync.io/address/0xa333c6FF89525939271E796FbDe2a2D9A970F831) |
+{% endtab %}
+
+{% tab title="Manta" %}
+todo
+{% endtab %}
+{% endtabs %}
