@@ -12,7 +12,7 @@ description: This page talks about the $ZERO tokenomics.
 
 ## Token Generation Event (est Q1 2024)
 
-During the TGE, a certain portion of the $ZERO supply will be realased into the market and will be tradable. This supply is called the circulating supply of the token.
+During the TGE, a certain portion of the $ZERO supply will be released into the market and will be tradable. This supply is called the circulating supply of the token.
 
 On launch it is estimated that roughly 18.8% of the supply will be circulating on launch. \
 \

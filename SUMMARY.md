@@ -38,6 +38,7 @@
   * [dLP $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
 * [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
   * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
+  * [Zero Gravity Points Reward System](zeronomics/airdrop-incentives/zero-gravity-points-reward-system.md)
 * [ZeroLend Emission Strategy](zeronomics/zerolend-emission-strategy/README.md)
   * [Protocol Power/Weight](zeronomics/zerolend-emission-strategy/protocol-power-weight.md)
   * [Deconstructing the Weighted Percentage (T\_p) Calculation](zeronomics/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
