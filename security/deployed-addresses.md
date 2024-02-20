@@ -139,6 +139,30 @@ These are the addresses of the various debt tokens on the various chains.
 | USDT-VariableDebtToken-zkSync | [0xa333c6FF89525939271E796FbDe2a2D9A970F831](https://explorer.zksync.io/address/0xa333c6FF89525939271E796FbDe2a2D9A970F831) |
 {% endtab %}
 
+| Contract Name                               | Address                                                                                                                                         |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| MATIC-AToken                                | [0x2E207ecA8B6Bf77a6ac82763EEEd2A94de4f081d](https://pacific-explorer.manta.network/address/0x2E207ecA8B6Bf77a6ac82763EEEd2A94de4f081d)         |
+| MATIC-StableDebtToken                       | [0xd07e6A4da4e360ba6EdDE42ce7867051ea4BE024](https://pacific-explorer.manta.network/address/0xd07e6A4da4e360ba6EdDE42ce7867051ea4BE024)         |
+| MATIC-VariableDebtToken                     | [0xa2703Dc9FbACCD6eC2e4CBfa700989D0238133f6](https://pacific-explorer.manta.network/address/0xa2703Dc9FbACCD6eC2e4CBfa700989D0238133f6)         |
+| TIA-AToken                                  | [0x508C39Cd02736535d5cB85f3925218E5e0e8F07A](https://pacific-explorer.manta.network/address/0x508C39Cd02736535d5cB85f3925218E5e0e8F07A)         |
+| TIA-StableDebtToken                         | [0x607f422f2e2de0FD1b084223ED16AE51c2453b06](https://pacific-explorer.manta.network/address/0x607f422f2e2de0FD1b084223ED16AE51c2453b06)         |
+| TIA-VariableDebtToken                       | [0x476F206511a18C9956fc79726108a03E647A1817](https://pacific-explorer.manta.network/address/0x476F206511a18C9956fc79726108a03E647A1817)         |
+| USDC-AToken                                 | [0xB4FFEf15daf4C02787bC5332580b838cE39805f5](https://pacific-explorer.manta.network/address/0xB4FFEf15daf4C02787bC5332580b838cE39805f5)         |
+| USDC-StableDebtToken                        | [0x27C7733D7A0F142720Af777E70eBc33CA485d014](https://pacific-explorer.manta.network/address/0x27C7733D7A0F142720Af777E70eBc33CA485d014)         |
+| USDC-VariableDebtToken                      | [0xCb2dA0F5aEce616e2Cbf29576CFc795fb15c6133](https://pacific-explorer.manta.network/address/0xCb2dA0F5aEce616e2Cbf29576CFc795fb15c6133)         |
+| USDT-AToken                                 | [0x759cb97fbc452BAFD49992BA88d3C5dA4Dd9B0e7](https://pacific-explorer.manta.network/address/0x759cb97fbc452BAFD49992BA88d3C5dA4Dd9B0e7)         |
+| USDT-StableDebtToken                        | [0xB8E26F3C4AFb4f56f430a390Dc3f3b12f8A50B26](https://pacific-explorer.manta.network/address/0xB8E26F3C4AFb4f56f430a390Dc3f3b12f8A50B26)         |
+| USDT-VariableDebtToken                      | [0xc1d9ca73f57930D4303D380C5DC668C40B38598B](https://pacific-explorer.manta.network/address/0xc1d9ca73f57930D4303D380C5DC668C40B38598B)         |
+| WBTC-AToken                                 | [0xE7e54ca3D6F8a5561f8cee361260E537BDc5bE48](https://pacific-explorer.manta.network/address/0xE7e54ca3D6F8a5561f8cee361260E537BDc5bE48)         |
+| WBTC-StableDebtToken                        | [0x7C2e57764eC33292fE098636AaA5D0357d814d16](https://pacific-explorer.manta.network/address/0x7C2e57764eC33292fE098636AaA5D0357d814d16)         |
+| WBTC-VariableDebtToken                      | [0xe6B9b00d42fA5831ccE4E44D9d6D8C51ba17cd1E](https://pacific-explorer.manta.network/address/0xe6B9b00d42fA5831ccE4E44D9d6D8C51ba17cd1E)         |
+| WETH-AToken                                 | [0x0684FC172a0B8e6A65cF4684eDb2082272fe9050](https://pacific-explorer.manta.network/address/0x0684FC172a0B8e6A65cF4684eDb2082272fe9050)         |
+| WETH-StableDebtToken                        | [0xFFa256Ad2487c4D989C3DFA6A6e9C13Fe33beba4](https://pacific-explorer.manta.network/address/0xFFa256Ad2487c4D989C3DFA6A6e9C13Fe33beba4)         |
+| WETH-VariableDebtToken                      | [0xcC7b5Fd2F290a61587352343b7Cf77bB35cB6f00](https://pacific-explorer.manta.network/address/0xcC7b5Fd2F290a61587352343b7Cf77bB35cB6f00)         |
+| wstETH-AToken                               | [0x0ab214F127998a36Ce7aB0087a9B0D20adc2d5AD](https://pacific-explorer.manta.network/address/0x0ab214F127998a36Ce7aB0087a9B0D20adc2d5AD)         |
+| wstETH-StableDebtToken                      | [0x28D7246cd9da102c75FAa7d4Cf1c5399B323F084](https://pacific-explorer.manta.network/address/0x28D7246cd9da102c75FAa7d4Cf1c5399B323F084)         |
+| wstETH-VariableDebtToken                    | [0xb5EEf4Df2e48Fb41E6eaE6778c14787bAAa181F1](https://pacific-explorer.manta.network/address/0xb5EEf4Df2e48Fb41E6eaE6778c14787bAAa181F1)         |
+
 {% tab title="Manta" %}
 todo
 {% endtab %}
