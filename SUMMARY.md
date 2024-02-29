@@ -49,6 +49,7 @@
 * [Audits](security/audits.md)
 * [Oracles](security/oracles/README.md)
   * [Using PYTH Oracles](security/oracles/using-pyth-oracles.md)
+  * [Using Redstone Oracles](security/oracles/using-redstone-oracles.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 * [Insurance Fund](security/insurance-fund.md)
