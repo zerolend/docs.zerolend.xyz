@@ -1,5 +1,7 @@
 ---
-description: This page contains all the deployed addresses on the zkSync chain
+description: >-
+  This page contains all the deployed addresses on zkSync, Manta, Linea, Blast
+  and ETH Mainnet chain
 ---
 
 # Deployed Addresses
@@ -76,6 +78,30 @@ These are the addresses of the ZeroLend protocol on the various chains.
 | VariableDebtToken                       | [0x0a8058203387c15a711204908ed9efeD9f76e6A8](https://pacific-explorer.manta.network/address/0x0a8058203387c15a711204908ed9efeD9f76e6A8) |
 | WalletBalanceProvider                   | [0xCbDc0aeD7CDf2472784068abEf23a902CafABb98](https://pacific-explorer.manta.network/address/0xCbDc0aeD7CDf2472784068abEf23a902CafABb98) |
 | WrappedTokenGatewayV3                   | [0xE05361EA51E20118072aec0fB0FD178e8b09D69e](https://pacific-explorer.manta.network/address/0xE05361EA51E20118072aec0fB0FD178e8b09D69e) |
+{% endtab %}
+
+{% tab title="Blast" %}
+| Contract Name    | Address                                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
+| ACLManager-blast | [0x7503A8823B523629E28587317901BA4C055791eb](https://app.gitbook.com/u/DXE7Uip2LhVFHQ3Yim2DAJiA6AG2) |
+|                  |                                                                                                      |
+|                  |                                                                                                      |
+{% endtab %}
+
+{% tab title="Linea" %}
+| Contract Name    | Wallet Address                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| AaveOracle-linea | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://lineascan.build/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
+|                  |                                                                                                                          |
+|                  |                                                                                                                          |
+{% endtab %}
+
+{% tab title="ETH Mainnet" %}
+| Contract Name          | Wallet Address                                                                                                        |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| AaveOracle-mainnet-lrt | [0x1cc993f2C8b6FbC43a9bafd2A44398E739733385](https://etherscan.io/address/0x1cc993f2C8b6FbC43a9bafd2A44398E739733385) |
+|                        |                                                                                                                       |
+|                        |                                                                                                                       |
 {% endtab %}
 {% endtabs %}
 
