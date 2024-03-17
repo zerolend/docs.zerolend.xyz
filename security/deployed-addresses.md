@@ -88,17 +88,10 @@ These are the addresses of the ZeroLend protocol on the various chains.
 | AaveOracle-blast                            | [0xBE0ab675a478A759ECA580f0D6c9d399085547D8](https://blastscan.io/address/0xBE0ab675a478A759ECA580f0D6c9d399085547D8) |
 | Blast-AToken-blast                          | [0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5](https://blastscan.io/address/0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5) |
 | BlastAToken                                 | [0xcfFe406e87ee9951696D910e63b0b22d7BC85401](https://blastscan.io/address/0xcfFe406e87ee9951696D910e63b0b22d7BC85401) |
-| BlastLogic                                  | [0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8](https://blastscan.io/address/0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8) |
-| BorrowLogic                                 | [0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF](https://blastscan.io/address/0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF) |
-| BridgeLogic                                 | [0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2](https://blastscan.io/address/0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2) |
-| ConfiguratorLogic                           | [0xC3B6dDc1c9876a922754f1d01D18893C7956A74D](https://blastscan.io/address/0xC3B6dDc1c9876a922754f1d01D18893C7956A74D) |
 | DelegationAwareAToken-blast                 | [0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26](https://blastscan.io/address/0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26) |
-| EModeLogic                                  | [0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663](https://blastscan.io/address/0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663) |
 | EmissionManager                             | [0xFD856E1a33225B86f70D686f9280435E3fF75FCF](https://blastscan.io/address/0xFD856E1a33225B86f70D686f9280435E3fF75FCF) |
-| FlashLoanLogic                              | [0x9660b39d0e38BE0f7E09cc6C516bd335746262ee](https://blastscan.io/address/0x9660b39d0e38BE0f7E09cc6C516bd335746262ee) |
 | IncentivesProxy                             | [0x94Dc19a5bd17E84d90E63ff3fBA9c3B76E5E4012](https://blastscan.io/address/0x94Dc19a5bd17E84d90E63ff3fBA9c3B76E5E4012) |
 | IncentivesV2-Implementation                 | [0xb47d417F55080081c6Fad95C3A470fe98A97e603](https://blastscan.io/address/0xb47d417F55080081c6Fad95C3A470fe98A97e603) |
-| LiquidationLogic                            | [0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3](https://blastscan.io/address/0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3) |
 | Pool-Implementation                         | [0x3fC90e521397b251D4aAA1FBeAC7cc32f25E78fa](https://blastscan.io/address/0x3fC90e521397b251D4aAA1FBeAC7cc32f25E78fa) |
 | Pool-Proxy-blast                            | [0xa70B0F3C2470AbBE104BdB3F3aaa9C7C54BEA7A8](https://blastscan.io/address/0xa70B0F3C2470AbBE104BdB3F3aaa9C7C54BEA7A8) |
 | PoolAddressesProvider-blast                 | [0xb0811a1FC9Fb9972ee683Ba04c32Cb828Bcf587B](https://blastscan.io/address/0xb0811a1FC9Fb9972ee683Ba04c32Cb828Bcf587B) |
@@ -106,14 +99,12 @@ These are the addresses of the ZeroLend protocol on the various chains.
 | PoolConfigurator-Implementation             | [0x844bd3eEf0E454c6e273E2061E17308677E35FB4](https://blastscan.io/address/0x844bd3eEf0E454c6e273E2061E17308677E35FB4) |
 | PoolConfigurator-Proxy-blast                | [0x22d3cDb2fbD1528a0eBb047EC4DE369098EFcda1](https://blastscan.io/address/0x22d3cDb2fbD1528a0eBb047EC4DE369098EFcda1) |
 | PoolDataProvider-blast                      | [0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10](https://blastscan.io/address/0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10) |
-| PoolLogic                                   | [0x15785C5D383Fa33339CF5D5720546C24313BC66D](https://blastscan.io/address/0x15785C5D383Fa33339CF5D5720546C24313BC66D) |
 | PullRewardsTransferStrategy                 | [0x72f7566116211Cd4940cB3452Df208C23297425A](https://blastscan.io/address/0x72f7566116211Cd4940cB3452Df208C23297425A) |
 | ReserveStrategy-rateStrategyStableOne       | [0x854138f891FE0A86270f6F153A06fBfabF69E0Ad](https://blastscan.io/address/0x854138f891FE0A86270f6F153A06fBfabF69E0Ad) |
 | ReserveStrategy-rateStrategyStableTwo       | [0x0a8058203387c15a711204908ed9efeD9f76e6A8](https://blastscan.io/address/0x0a8058203387c15a711204908ed9efeD9f76e6A8) |
 | ReserveStrategy-rateStrategyVolatileOne     | [0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8](https://blastscan.io/address/0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8) |
 | ReservesSetupHelper                         | [0xC44827C51d00381ed4C52646aeAB45b455d200eB](https://blastscan.io/address/0xC44827C51d00381ed4C52646aeAB45b455d200eB) |
 | StableDebtToken-blast                       | [0x1cc993f2C8b6FbC43a9bafd2A44398E739733385](https://blastscan.io/address/0x1cc993f2C8b6FbC43a9bafd2A44398E739733385) |
-| SupplyLogic                                 | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://blastscan.io/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
 | Treasury-Controller                         | [0x89fEc31daD373922879bd6279ccDc3666c5D1b7a](https://blastscan.io/address/0x89fEc31daD373922879bd6279ccDc3666c5D1b7a) |
 | Treasury-Implementation                     | [0x59423CCeB710266520dB98034ff62dD1E2090E10](https://blastscan.io/address/0x59423CCeB710266520dB98034ff62dD1E2090E10) |
 | TreasuryProxy                               | [0x9698FdF843cbe4531610aC231B0047d9FFc13bC6](https://blastscan.io/address/0x9698FdF843cbe4531610aC231B0047d9FFc13bC6) |
@@ -123,6 +114,7 @@ These are the addresses of the ZeroLend protocol on the various chains.
 | WalletBalanceProvider                       | [0x4Fcb7F18FA9255B52793dfd865d245bcec871468](https://blastscan.io/address/0x4Fcb7F18FA9255B52793dfd865d245bcec871468) |
 | WrappedTokenGatewayV3                       | [0xFaDFb0BC400427663020887e7c8073D03A35dc3c](https://blastscan.io/address/0xFaDFb0BC400427663020887e7c8073D03A35dc3c) |
 {% endtab %}
+
 
 {% tab title="Linea" %}
 | Contract Name    | Wallet Address                                                                                                           |
@@ -170,6 +162,20 @@ Libraries are where most of the business logic of the lending pool exists
 | LiquidationLogic  | [0x89fEc31daD373922879bd6279ccDc3666c5D1b7a](https://pacific-explorer.manta.network/address/0x89fEc31daD373922879bd6279ccDc3666c5D1b7a) |
 | PoolLogic         | [0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10](https://pacific-explorer.manta.network/address/0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10) |
 | SupplyLogic       | [0x15785C5D383Fa33339CF5D5720546C24313BC66D](https://pacific-explorer.manta.network/address/0x15785C5D383Fa33339CF5D5720546C24313BC66D) |
+{% endtab %}
+
+{% tab title="Blast" %}
+| Contract Name                               | Address                                                                                                               |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| BlastLogic                                  | [0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8](https://blastscan.io/address/0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8) |
+| BorrowLogic                                 | [0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF](https://blastscan.io/address/0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF) |
+| BridgeLogic                                 | [0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2](https://blastscan.io/address/0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2) |
+| ConfiguratorLogic                           | [0xC3B6dDc1c9876a922754f1d01D18893C7956A74D](https://blastscan.io/address/0xC3B6dDc1c9876a922754f1d01D18893C7956A74D) |
+| EModeLogic                                  | [0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663](https://blastscan.io/address/0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663) |
+| FlashLoanLogic                              | [0x9660b39d0e38BE0f7E09cc6C516bd335746262ee](https://blastscan.io/address/0x9660b39d0e38BE0f7E09cc6C516bd335746262ee) |
+| LiquidationLogic                            | [0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3](https://blastscan.io/address/0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3) |
+| PoolLogic                                   | [0x15785C5D383Fa33339CF5D5720546C24313BC66D](https://blastscan.io/address/0x15785C5D383Fa33339CF5D5720546C24313BC66D) |
+| SupplyLogic                                 | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://blastscan.io/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
 {% endtab %}
 {% endtabs %}
 
