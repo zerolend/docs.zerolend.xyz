@@ -117,11 +117,35 @@ These are the addresses of the ZeroLend protocol on the various chains.
 
 
 {% tab title="Linea" %}
-| Contract Name    | Wallet Address                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| AaveOracle-linea | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://lineascan.build/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
-|                  |                                                                                                                          |
-|                  |                                                                                                                          |
+| Contract Name                                  | Address                                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| AaveOracle-linea                               | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://lineascan.build/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
+| ACLManager-linea                               | [0xb2178109A414C3a869E5104283Fcf1a18923D0B8](https://lineascan.build/address/0xb2178109A414C3a869E5104283Fcf1a18923D0B8) |
+| AToken-linea                                   | [0xD2a2a567674E85Bedab9dcC402bCae6C4E0aaBb8](https://lineascan.build/address/0xD2a2a567674E85Bedab9dcC402bCae6C4E0aaBb8) |
+| DelegationAwareAToken-linea                    | [0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c](https://lineascan.build/address/0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c) |
+| EmissionManager                                | [0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5](https://lineascan.build/address/0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5) |
+| IncentivesProxy                                | [0x28F6899fF643261Ca9766ddc251b359A2d00b945](https://lineascan.build/address/0x28F6899fF643261Ca9766ddc251b359A2d00b945) |
+| IncentivesV2-Implementation                    | [0x6e9d0cE24d14fB1750Ba0369e300413B230CA947](https://lineascan.build/address/0x6e9d0cE24d14fB1750Ba0369e300413B230CA947) |
+| Pool-Implementation                            | [0x8676e39B5D2f0d6E0d78a4208a0cCBc50504972e](https://lineascan.build/address/0x8676e39B5D2f0d6E0d78a4208a0cCBc50504972e) |
+| Pool-Proxy-linea                               | [0x2f9bB73a8e98793e26Cb2F6C4ad037BDf1C6B269](https://lineascan.build/address/0x2f9bB73a8e98793e26Cb2F6C4ad037BDf1C6B269) |
+| PoolAddressesProvider-linea                    | [0xC44827C51d00381ed4C52646aeAB45b455d200eB](https://lineascan.build/address/0xC44827C51d00381ed4C52646aeAB45b455d200eB) |
+| PoolAddressesProviderRegistry                  | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://lineascan.build/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
+| PoolConfigurator-Implementation                | [0x78Ad3d53045b6582841e2a1a688C52Be2CA2A7a7](https://lineascan.build/address/0x78Ad3d53045b6582841e2a1a688C52Be2CA2A7a7) |
+| PoolConfigurator-Proxy-linea                   | [0xf17218B09699d0F7145e40E771e72130FF616498](https://lineascan.build/address/0xf17218B09699d0F7145e40E771e72130FF616498) |
+| PoolDataProvider-linea                         | [0x67f93d36792c49a4493652B91ad4bD59f428AD15](https://lineascan.build/address/0x67f93d36792c49a4493652B91ad4bD59f428AD15) |
+| ReservesSetupHelper                            | [0xb8634e0a320d0f4861062514a63B659E52A87E21](https://lineascan.build/address/0xb8634e0a320d0f4861062514a63B659E52A87E21) |
+| ReserveStrategy-rateStrategyStableOne          | [0xaa999eA356F925BF1e856038c5D182Ae5E8A4973](https://lineascan.build/address/0xaa999eA356F925BF1e856038c5D182Ae5E8A4973) |
+| ReserveStrategy-rateStrategyStableTwo          | [0xB7ED499e7570EE7691eeF4DF9D708d258DE2B512](https://lineascan.build/address/0xB7ED499e7570EE7691eeF4DF9D708d258DE2B512) |
+| ReserveStrategy-rateStrategyVolatileOne        | [0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E](https://lineascan.build/address/0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E) |
+| StableDebtToken-linea                          | [0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8](https://lineascan.build/address/0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8) |
+| Treasury-Controller                            | [0x59423CCeB710266520dB98034ff62dD1E2090E10](https://lineascan.build/address/0x59423CCeB710266520dB98034ff62dD1E2090E10) |
+| Treasury-Implementation                        | [0xCcCf56e2b6Ad4C06Af8214781b77Cd98446377Bf](https://lineascan.build/address/0xCcCf56e2b6Ad4C06Af8214781b77Cd98446377Bf) |
+| TreasuryProxy                                  | [0x89fEc31daD373922879bd6279ccDc3666c5D1b7a](https://lineascan.build/address/0x89fEc31daD373922879bd6279ccDc3666c5D1b7a) |
+| UiIncentiveDataProviderV3                      | [0xCbDc0aeD7CDf2472784068abEf23a902CafABb98](https://lineascan.build/address/0xCbDc0aeD7CDf2472784068abEf23a902CafABb98) |
+| UiPoolDataProviderV3                           | [0x81b3184A3B5d4612F2c26A53Da8D99474B91B2D2](https://lineascan.build/address/0x81b3184A3B5d4612F2c26A53Da8D99474B91B2D2) |
+| VariableDebtToken-linea                        | [0x0a8058203387c15a711204908ed9efeD9f76e6A8](https://lineascan.build/address/0x0a8058203387c15a711204908ed9efeD9f76e6A8) |
+| WalletBalanceProvider                          | [0xE05361EA51E20118072aec0fB0FD178e8b09D69e](https://lineascan.build/address/0xE05361EA51E20118072aec0fB0FD178e8b09D69e) |
+| WrappedTokenGatewayV3                          | [0x5d50bE703836C330Fc2d147a631CDd7bb8D7171c](https://lineascan.build/address/0x5d50bE703836C330Fc2d147a631CDd7bb8D7171c) |
 {% endtab %}
 
 {% tab title="ETH Mainnet" %}
@@ -177,6 +201,19 @@ Libraries are where most of the business logic of the lending pool exists
 | PoolLogic                                   | [0x15785C5D383Fa33339CF5D5720546C24313BC66D](https://blastscan.io/address/0x15785C5D383Fa33339CF5D5720546C24313BC66D) |
 | SupplyLogic                                 | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://blastscan.io/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
 {% endtab %}
+
+{% tab title="Linea" %}
+| Contract Name                                  | Address                                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| BorrowLogic                                    | [0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3](https://lineascan.build/address/0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3) |
+| BridgeLogic                                    | [0xC3B6dDc1c9876a922754f1d01D18893C7956A74D](https://lineascan.build/address/0xC3B6dDc1c9876a922754f1d01D18893C7956A74D) |
+| ConfiguratorLogic                              | [0x9660b39d0e38BE0f7E09cc6C516bd335746262ee](https://lineascan.build/address/0x9660b39d0e38BE0f7E09cc6C516bd335746262ee) |
+| EModeLogic                                     | [0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2](https://lineascan.build/address/0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2) |
+| FlashLoanLogic                                 | [0x15785C5D383Fa33339CF5D5720546C24313BC66D](https://lineascan.build/address/0x15785C5D383Fa33339CF5D5720546C24313BC66D) |
+| LiquidationLogic                               | [0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663](https://lineascan.build/address/0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663) |
+| PoolLogic                                      | [0x9698FdF843cbe4531610aC231B0047d9FFc13bC6](https://lineascan.build/address/0x9698FdF843cbe4531610aC231B0047d9FFc13bC6) |
+| SupplyLogic                                    | [0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF](https://lineascan.build/address/0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF) |
+{% endtab %}
 {% endtabs %}
 
 ## Tokens
@@ -222,5 +259,25 @@ These are the addresses of the various debt tokens on the various chains.
 | wstETH-AToken            | [0x0ab214F127998a36Ce7aB0087a9B0D20adc2d5AD](https://pacific-explorer.manta.network/address/0x0ab214F127998a36Ce7aB0087a9B0D20adc2d5AD) |
 | wstETH-StableDebtToken   | [0x28D7246cd9da102c75FAa7d4Cf1c5399B323F084](https://pacific-explorer.manta.network/address/0x28D7246cd9da102c75FAa7d4Cf1c5399B323F084) |
 | wstETH-VariableDebtToken | [0xb5EEf4Df2e48Fb41E6eaE6778c14787bAAa181F1](https://pacific-explorer.manta.network/address/0xb5EEf4Df2e48Fb41E6eaE6778c14787bAAa181F1) |
+{% endtab %}
+
+{% tab title="Linea" %}
+| Contract Name                                  | Address                                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| GRAI-AToken-linea                              | [0xE7e54ca3D6F8a5561f8cee361260E537BDc5bE48](https://lineascan.build/address/0xE7e54ca3D6F8a5561f8cee361260E537BDc5bE48) |
+| GRAI-StableDebtToken-linea                     | [0x7C2e57764eC33292fE098636AaA5D0357d814d16](https://lineascan.build/address/0x7C2e57764eC33292fE098636AaA5D0357d814d16) |
+| GRAI-VariableDebtToken-linea                   | [0xe6B9b00d42fA5831ccE4E44D9d6D8C51ba17cd1E](https://lineascan.build/address/0xe6B9b00d42fA5831ccE4E44D9d6D8C51ba17cd1E) |
+| MAI-AToken-linea                               | [0x759cb97fbc452BAFD49992BA88d3C5dA4Dd9B0e7](https://lineascan.build/address/0x759cb97fbc452BAFD49992BA88d3C5dA4Dd9B0e7) |
+| MAI-StableDebtToken-linea                      | [0xB8E26F3C4AFb4f56f430a390Dc3f3b12f8A50B26](https://lineascan.build/address/0xB8E26F3C4AFb4f56f430a390Dc3f3b12f8A50B26) |
+| MAI-VariableDebtToken-linea                    | [0xc1d9ca73f57930D4303D380C5DC668C40B38598B](https://lineascan.build/address/0xc1d9ca73f57930D4303D380C5DC668C40B38598B) |
+| USDC-AToken-linea                              | [0x2E207ecA8B6Bf77a6ac82763EEEd2A94de4f081d](https://lineascan.build/address/0x2E207ecA8B6Bf77a6ac82763EEEd2A94de4f081d) |
+| USDC-StableDebtToken-linea                     | [0xd07e6A4da4e360ba6EdDE42ce7867051ea4BE024](https://lineascan.build/address/0xd07e6A4da4e360ba6EdDE42ce7867051ea4BE024) |
+| USDC-VariableDebtToken-linea                   | [0xa2703Dc9FbACCD6eC2e4CBfa700989D0238133f6](https://lineascan.build/address/0xa2703Dc9FbACCD6eC2e4CBfa700989D0238133f6) |
+| USDT-AToken-linea                              | [0x508C39Cd02736535d5cB85f3925218E5e0e8F07A](https://lineascan.build/address/0x508C39Cd02736535d5cB85f3925218E5e0e8F07A) |
+| USDT-StableDebtToken-linea                     | [0x607f422f2e2de0FD1b084223ED16AE51c2453b06](https://lineascan.build/address/0x607f422f2e2de0FD1b084223ED16AE51c2453b06) |
+| USDT-VariableDebtToken-linea                   | [0x476F206511a18C9956fc79726108a03E647A1817](https://lineascan.build/address/0x476F206511a18C9956fc79726108a03E647A1817) |
+| WETH-AToken-linea                              | [0xB4FFEf15daf4C02787bC5332580b838cE39805f5](https://lineascan.build/address/0xB4FFEf15daf4C02787bC5332580b838cE39805f5) |
+| WETH-StableDebtToken-linea                     | [0x27C7733D7A0F142720Af777E70eBc33CA485d014](https://lineascan.build/address/0x27C7733D7A0F142720Af777E70eBc33CA485d014) |
+| WETH-VariableDebtToken-linea                   | [0xCb2dA0F5aEce616e2Cbf29576CFc795fb15c6133](https://lineascan.build/address/0xCb2dA0F5aEce616e2Cbf29576CFc795fb15c6133) |
 {% endtab %}
 {% endtabs %}
