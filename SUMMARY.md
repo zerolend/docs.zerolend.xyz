@@ -37,6 +37,7 @@
   * [Single Stake $ZERO](zeronomics/ve-tokenomics/single-stake-usdzero.md)
   * [dLP $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
 * [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
+  * [Blast Point Incentives](zeronomics/airdrop-incentives/blast-point-incentives.md)
   * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
   * [Zero Gravity Points Reward System](zeronomics/airdrop-incentives/zero-gravity-points-reward-system.md)
 * [ZeroLend Emission Strategy](zeronomics/zerolend-emission-strategy/README.md)
