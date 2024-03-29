@@ -8,7 +8,7 @@ description: This page talks about the $ONEZ stablecoin launched by ZeroLend
 $ONEZ is set to launch sometime in 2024.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 $ONEZ is a stablecoin created by the ZeroLend Protocol. It's always designed to be worth one U.S. Dollar and is made by users who provide collateral. When someone borrows, they must offer collateral at a certain ratio to get $ONEZ.
 

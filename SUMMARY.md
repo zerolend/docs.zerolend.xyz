@@ -54,16 +54,13 @@
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 * [Insurance Fund](security/insurance-fund.md)
+* [$ONEZ Stablecoin](security/onez.md)
+* [Roadmap](security/roadmap/README.md)
+  * [Phase 1 Launch](security/roadmap/phase-1-launch.md)
 
 ## Tutorials
 
 * [Borrow/Supply with Binance Web3 Wallet](tutorials/borrow-supply-with-binance-web3-wallet.md)
-
-***
-
-* [$ONEZ Stablecoin](onez.md)
-* [Roadmap](roadmap/README.md)
-  * [Phase 1 Launch](roadmap/phase-1-launch.md)
 
 ## Important Links
 
