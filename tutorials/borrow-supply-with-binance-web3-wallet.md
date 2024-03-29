@@ -76,7 +76,7 @@ Confirm the transaction in your Binance Wallet and complete the supply process
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-28 at 4.30.15 PM.png" alt="" width="314"><figcaption></figcaption></figure>
 
-## Guideline to Task 2: Borrow assets (USDT in this example) against supplied ETH on ZeroLend's ETH LRTs market
+## Task 2: Borrow assets (USDT in this example) against supplied ETH on ZeroLend's ETH LRTs market
 
 #### Step 1: Ensure Sufficient Collateral
 
