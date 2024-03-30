@@ -1,5 +1,7 @@
 ---
-description: A lending protocol with native stablecoin built on zkSync.
+description: >-
+  A lending protocol with native stablecoin built on zkSync, Linea, Manta
+  Network, ETH Mainnet, and Blast Network.
 ---
 
 # Welcome to ZeroLend
@@ -30,8 +32,6 @@ The ZeroLend ecosystem comprises of various entities and features:
 6. **Privacy Layer using zkStack (Q4 2024):** With compliance with regulations (such as KYC), users can lend/borrow assets using zk proofs and keep their transactions private. \
    \
    To know more, read "[Hyperchains and Privacy Layer](overview/hyperchains-and-privacy-layer.md)".
-
-
 
 
 
