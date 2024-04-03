@@ -28,6 +28,8 @@
 * [Asset Listing Criteria](assets-overview/asset-listing-criteria.md)
 * [Supported Assets](assets-overview/supported-assets.md)
 * [How to Leverage Exposure on Your Assets?](assets-overview/how-to-leverage-yield-farm.md)
+* [Liquidations](assets-overview/liquidations/README.md)
+  * [Liquidation Guide for Developers](assets-overview/liquidations/liquidation-guide-for-developers.md)
 
 ## Zeronomics
 
