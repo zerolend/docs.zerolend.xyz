@@ -49,7 +49,7 @@ To assess the profitability of a liquidation, consider:
 
 1. Collateral details (address, decimals, liquidation bonus).
 2. User's collateral balance.
-3. Asset prices from Zerolend's oracle using `getAssetPrice()`.
+3. Asset prices from ZeroLend's oracle using `getAssetPrice()`.
 4. Maximum collateral bonus and the cost of your transaction, including gas prices and usage.
 5. Your potential profit is calculated as the value of the collateral bonus minus the transaction cost.
 
