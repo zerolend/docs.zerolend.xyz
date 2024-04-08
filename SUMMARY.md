@@ -63,6 +63,8 @@
 ## Tutorials
 
 * [Borrow/Supply with Binance Web3 Wallet](tutorials/borrow-supply-with-binance-web3-wallet.md)
+* [How to Supply on ZeroLend?](tutorials/how-to-supply-on-zerolend.md)
+* [How to Borrow on ZeroLend?](tutorials/how-to-borrow-on-zerolend.md)
 
 ## Important Links
 
