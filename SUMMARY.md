@@ -72,7 +72,3 @@
 * [Discord](https://discord.gg/zerolend)
 * [Github](https://github.com/zerolend)
 * [Telegram](https://t.me/zerolendxyz)
-
-***
-
-* [Integrations](integrations.md)
