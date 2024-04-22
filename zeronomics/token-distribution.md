@@ -12,35 +12,35 @@ description: This page talks about the $ZERO tokenomics.
 
 During the TGE, a certain portion of the $ZERO supply will be released into the market and will be tradable. This supply is called the circulating supply of the token.
 
-On launch it is estimated that roughly 18.8% of the supply will be circulating on launch. \
+On launch it is estimated that roughly 18.8% of the supply will be circulating. \
 \
 The table below showcases how much of the supply will released at the TGE.
 
-| Category                                   | % Amount                                  | % Released at TGE | % of supply at TGE                         |
-| ------------------------------------------ | ----------------------------------------- | ----------------- | ------------------------------------------ |
-| Private Sale                               | 30%                                       | 25%               | 7.5%                                       |
-| Liquidity                                  | 10%                                       | 8%                | 0.8%                                       |
-| Team                                       | 5%                                        | 0.8%              | 0.04%                                      |
-| Treasury                                   | 10%                                       | 8%                | 0.8%                                       |
-| Advisors                                   | 7%                                        | 25%               | 1.75%                                      |
-| Airdrops                                   | 3%                                        | 33%               | 1%                                         |
-| Emissions                                  | 35%                                       | 19%               | 6.8%                                       |
-| <mark style="color:blue;">**Total**</mark> | <mark style="color:blue;">**100%**</mark> | -                 | <mark style="color:blue;">**18.8%**</mark> |
+| Category                                   | % Amount                                  | % Released at TGE (Upfront %) |
+| ------------------------------------------ | ----------------------------------------- | ----------------------------- |
+| Private Sale                               | 35%                                       | 25%                           |
+| Liquidity                                  | 10%                                       | 60%                           |
+| Team                                       | 5%                                        | 0%                            |
+| Treasury                                   | 5%                                        | 0%                            |
+| Advisors                                   | 7%                                        | 25%                           |
+| Airdrops                                   | 18%                                       | 40%                           |
+| Emissions                                  | 20%                                       | 0%                            |
+| <mark style="color:blue;">**Total**</mark> | <mark style="color:blue;">**100%**</mark> | -                             |
 
-Given that the initial FDV of the project is set at $25mn FDV and the initial circulating supply at TGE is 18.8%; This brings the **initial circulating market cap to be roughly $4.7mn.**
+Given that the project's initial FDV is set at $25mn FDV and the initial circulating supply at TGE is 18.8%, the initial circulating market cap is **roughly $4.7mn.**
 
 ## Distribution over time
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-12-31 at 10.48.15 PM.png" alt=""><figcaption><p>ZERO token's circulating supply over time. (<a href="https://docs.google.com/spreadsheets/d/1M-f0nKKN1_BwnSpnFm9FJ4XnscF9t968q8qwoRTUT6E/edit?usp=sharing">Link</a>)</p></figcaption></figure>
 
-To ensure that the ZERO token's tokenomics can sustain long-term, most of the ZERO token's inflation (from liquidity, treasury, private sale etc..) will end within the first one year.&#x20;
+To ensure that the ZERO token's tokenomics can sustain long-term, most of its inflation (from liquidity, treasury, private sale, etc.) will end within the first year.&#x20;
 
-After the one year period, the tokenomics are designed to start behaving scarcely with inflation for the emissions getting cut down by half every 12 months.
+After the one-year period, tokenomics is designed to behave scarcely with inflation, with emissions cut down by half every 12 months.
 
-By the end of the first one year, roughly 78% of the token supply will be circulating. After which the remaining 22% gets released across an exponential decay of time.
+By the end of the first year, roughly 78% of the token supply will be circulating. After that, the remaining 22% will be released over an exponential decay of time.
 
-## Detailed Month by Month Distribution
+## Detailed month-by-month distribution
 
-For those who'd like to take precise numbers on how much ZERO will get added into the circulation, month by month; an excel sheet (linked [here](https://docs.google.com/spreadsheets/d/1M-f0nKKN1\_BwnSpnFm9FJ4XnscF9t968q8qwoRTUT6E/edit?usp=sharing)) has been created, which goes into depth on how many new tokens get added into circulation.
+For those who'd like to examine precise numbers on how much ZERO will be added to circulation month by month, an Excel sheet (linked [here](https://docs.google.com/spreadsheets/d/1M-f0nKKN1\_BwnSpnFm9FJ4XnscF9t968q8qwoRTUT6E/edit#gid=736372284)) has been created, which digs deeper into how many new tokens are added.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1M-f0nKKN1_BwnSpnFm9FJ4XnscF9t968q8qwoRTUT6E/edit?usp=sharin" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1M-f0nKKN1_BwnSpnFm9FJ4XnscF9t968q8qwoRTUT6E/edit?usp=sharin" fullWidth="false" %}
