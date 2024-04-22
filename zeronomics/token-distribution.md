@@ -12,7 +12,7 @@ description: This page talks about the $ZERO tokenomics.
 
 During the TGE, a certain portion of the $ZERO supply will be released into the market and will be tradable. This supply is called the circulating supply of the token.
 
-On launch it is estimated that roughly 18.8% of the supply will be circulating. \
+On launch, roughly 25% of the supply is estimated to be circulating. \
 \
 The table below showcases how much of the supply will released at the TGE.
 
@@ -27,7 +27,7 @@ The table below showcases how much of the supply will released at the TGE.
 | Emissions                                  | 20%                                       | 0%                            |
 | <mark style="color:blue;">**Total**</mark> | <mark style="color:blue;">**100%**</mark> | -                             |
 
-Given that the project's initial FDV is set at $25mn FDV and the initial circulating supply at TGE is 18.8%, the initial circulating market cap is **roughly $4.7mn.**
+With a circulating supply of approximately 25% at the time of the Token Generation Event (TGE) and a Fixed Dollar Value (FDV) of $25 million, the initial circulating market capitalization is estimated to be around **$5.25 million**
 
 ## Distribution over time
 
