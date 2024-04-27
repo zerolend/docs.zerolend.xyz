@@ -1,23 +1,27 @@
 ---
-description: This page outlines all the assets users are allowed to collateralise
+description: This page outlines all major assets users can lend/borrow on ZeroLend.
 ---
 
 # Supported Assets
 
-ZeroLend has a diverse range of assets for lending/borrowing, categorized as follows:
+<figure><img src="../.gitbook/assets/ZL Doc - Supported Assets.png" alt=""><figcaption></figcaption></figure>
 
-### **Blue Chips:**
+### Blue Chips:
 
-* Criteria: Assets with a market capitalization exceeding $100 million and a liquidity of at least $100 million.
-* **Examples**: LUSD, DAI, USDC, USDT, WBTC, ETH.
+* Assets with a market capitalization exceeding $100 million and a liquidity of at least $100 million are included in this category.&#x20;
+* Examples:  $ETH, $WBTC.
 
-### **Yield Bearing:**
+### Stablecoins:&#x20;
 
-* These assets contribute to yield-bearing strategies, enhancing the earning potential within the ZeroLend ecosystem.
-* **Examples**: stETH (upcoming), rETH (upcoming), and other similar assets.
+* The stablecoins category includes crypto tokens backed by the value of US dollars in a 1:1 ratio.&#x20;
+* Examples: $USDT, $USDC, $DAI.&#x20;
 
-### **High Risk:**
+### Yield Bearing:
 
-* This category encompasses assets that do not fit into the Blue Chips criteria.
-* **Examples**: MUTE, VC, eZKalibur.
-* High-risk assets offer an opportunity for diversification but come with increased risk, providing users with choices that align with their risk tolerance.
+* These assets contribute to yield-bearing strategies, enhancing the earning potential within the ZeroLend ecosystem.&#x20;
+* Examples: $ezETH, $rsETH, $weETH, $pufETH.&#x20;
+
+### High Risk:
+
+* This category encompasses assets that do not fit into the Blue Chips criteria. High-risk assets offer an opportunity for diversification but come with increased risk.&#x20;
+* Examples: $GRAI, $MUTE, $VC.

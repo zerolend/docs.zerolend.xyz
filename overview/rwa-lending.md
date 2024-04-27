@@ -1,36 +1,37 @@
 ---
-description: This explains how ZeroLend aims to implement RWA (Real World Asset) Lending
+description: This explains how ZeroLend implements RWA (Real World Asset) lending
 ---
 
 # RWA Lending
 
+<figure><img src="../.gitbook/assets/ZL Doc - Tokenization process.png" alt=""><figcaption></figcaption></figure>
+
 ## What is RWA Lending?
 
-RWA lending protocols are a type of DeFi protocol that allows entities to tokenize and trade real-world assets, such as stocks, government bonds, real estate, and commodities.
+RWA lending protocols allow users to represent real-world assets, such as stocks, government bonds, real estate, and commodities, as crypto tokens and trade them on the blockchain. $USDT and $USDC are the most popular RWAs, representing the tokenized and on-chain versions of US dollars.
 
-In RWA-based lending, you have the flexibility to offer collateral that may be objectively valued at less than the borrowed amount.&#x20;
+According to the Boston Consulting Group, the RWA market will grow from $1.5 trillion in 2024 to $16 trillion by 2030. Zerolend helps you leverage this growing RWA narrative through our lending/borrowing services.&#x20;
 
-For example: a company seeking a $7 million loan might lack sufficient collateral for such a sizable loan. Through RWA lending, they can secure the necessary funds with collateral valued at $4 million. This approach also eliminates the bureaucratic processes of traditional banks, offering the company a favorable repayment schedule.
+<figure><img src="../.gitbook/assets/ZL Doc - Tokenization of illiquid assets.png" alt=""><figcaption></figcaption></figure>
 
-RWA-based loans play a crucial role in empowering businesses in developing economies like Kenya, Nigeria, and Uganda to underscore the potential for financial inclusion.
+### Benefits of RWA lending&#x20;
 
-Examples of Real World Assets (RWAs) include Cash, Precious Metals (gold and silver), Real Estate, Bonds, Credit Notes, Arts & Collectibles, etc.
+RWA lending has three major advantages:
 
-For instance, the market value of gold stands at about $11 trillion. In comparison, Crypto Native Assets currently have a market value of $1.1 trillion, constituting only 10% of the value of gold.
+* **Growth catalyst for developing countries:** RWA-based loans are crucial in empowering businesses in developing economies like Kenya, Nigeria, and Uganda to underscore the potential for financial inclusion. \
 
-Incorporating even a fraction of these RWAs into the DeFi space could substantially enhance the overall size of the DeFi market. Presently, USDT and USDC are the most popular RWAs, representing the tokenized and on-chain version of US dollars.
+* **On-chain process and better repayment terms:** RWA lending also eliminates the bureaucratic processes of traditional banks, offering the company a favorable repayment schedule.&#x20;
+* **Less collateral required for loans:** In RWA lending, you can offer collateral that may be objectively valued at less than the borrowed amount. For example, a company seeking a $7 million loan might lack sufficient collateral for such a sizable loan. Through RWA lending, they can secure the necessary funds with collateral valued at $4 million.&#x20;
 
-##
+### How is RWA solving the over-collateralization problem in DeFi?  &#x20;
 
-## How overcollateralisation is limiting the scope of DeFi lending?
+DeFi lending heavily relies on over-collateralization. Borrowers must provide more crypto collateral than the loan's value. Overcollaterization limits mass adoption, as individuals or entities seeking loans might not have significant crypto reserves to provide collateral. \
 
-The crypto lending ecosystem is huge, but it heavily relies on over-collateralization, i.e., borrowers have to provide more collateral than the value of the loan. This structure requires substantial collateral and limits access for businesses and individuals lacking the necessary assets. This model for loans would be unsustainable if the market were to become truly global. \
-\
-Example: An institution seeking a $1 million loan might not have a cryptocurrency asset worth a million dollars. However, they may possess other assets, such as real estate or bonds, that they want to use as collateral to secure the loan.
 
-##
+RWA lending solves this challenge. Borrowers seeking loans might not have massive crypto reserves. For example, an institution seeking a $1 million loan might not have over $1 million in crypto reserves. However, they might provide other assets, such as real estate, bonds, or gold, as collateral to secure the loan. RWA lending helps such borrowers tokenize their assets and secure loans.&#x20;
 
-{% hint style="info" %}
-ZeroLend aims to launch an RWA lending market in 2024 to provide liquidity to illiquid real-world assets.
-{% endhint %}
+### RWA lending on ZeroLend
 
+To help users leverage the growing RWA narrative, ZeroLend offers RWA lending/borrowing. We support RWA assets like $wUSDM on our [Manta Market](https://app.zerolend.xyz/?marketName=proto\_manta\_v3).&#x20;
+
+Read our detailed guide on [supplying](https://docs.zerolend.xyz/tutorials/how-to-supply-on-zerolend) and [borrowing](https://docs.zerolend.xyz/tutorials/how-to-supply-on-zerolend) assets on ZeroLend for a step-by-step walkthrough on how to supply/borrow $wUSDM on ZeroLend.&#x20;

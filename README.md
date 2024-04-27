@@ -1,40 +1,24 @@
 ---
 description: >-
-  A lending protocol with native stablecoin built on zkSync, Linea, Manta
-  Network, ETH Mainnet, and Blast Network.
+  A comprehensive guide to our multi-chain, non-custodial lending platform,
+  detailed token utilities, and innovative features like account abstraction and
+  real-world asset integration.
 ---
 
 # Welcome to ZeroLend
 
-<figure><img src=".gitbook/assets/Frame 10.png" alt=""><figcaption></figcaption></figure>
+ZeroLend is one of the fastest-growing multi-chain lending protocols, which focuses on Liquid Restaking Tokens (LRTs), Real World Assets (RWAs), privacy, and account abstraction.
+
+<figure><img src=".gitbook/assets/ZL Doc - Intro.png" alt=""><figcaption></figcaption></figure>
 
 ## The ZeroLend Ecosystem
 
-The ZeroLend ecosystem comprises of various entities and features:
+The core features of the ZeroLend ecosystem include:
 
-1. **DeFi Lending (Live):** A decentralized, non-custodial liquidity protocol enabling users to participate as liquidity providers or borrowers within the zkSync Ecosystem. ZeroLend also aims to provide lending and borrowing on various supported assets across multiple chains. Powered by [LayerZero](https://layerzero.network/). \
-   \
-   To learn more, read "[DeFi Lending](overview/decentralised-lending/)".&#x20;
-2. **$ONEZ - the yield-bearing Stablecoin:** ZeroLend has its own stablecoin that is designed to capture the native yield from the lending protocol and has self-loan repaying capability. Users can also mint $ONEZ and participate in DeFi within the zkSync ecosystem. \
-   \
-   To learn more, visit [docs.onez.cash](https://docs.onez.cash/).
-3. **ZeroLend** **Governance ($ZERO)**: A governance system for governing the ZeroLend Protocol, enabled by the $ZERO token. \
-   \
-   To learn more, read "[Zeronomics](broken-reference)" and "[Participation Incentives](zeronomics/airdrop-incentives/)."
-4.  **Account Abstraction (Live):** This feature allows for gas-less transactions, social logins, delegated transactions, etc.
-
-    \
-    To know more, read ["Account Abstraction"](overview/account-abstraction-aa/)
-5.  **Support for Real-World Assets (Q2 2024):** Real World Assets (RWA) is a trillion-dollar market. ZeroLend is at the forefront of integrating these assets into our lending protocol.
-
-    \
-    To know more, read ["Real World Assets"](overview/rwa-lending.md)
-6. **Privacy Layer using zkStack (Q4 2024):** With compliance with regulations (such as KYC), users can lend/borrow assets using zk proofs and keep their transactions private. \
-   \
-   To know more, read "[Hyperchains and Privacy Layer](overview/hyperchains-and-privacy-layer.md)".
-
-
+1. **DeFi Lending (Live):** A decentralized, non-custodial liquidity protocol enabling users to participate as liquidity providers or borrowers. ZeroLend also aims to provide lending and borrowing on various supported assets across multiple chains. To learn more, read "[DeFi Lending](overview/decentralised-lending.md)".&#x20;
+2. **ZeroLend** **Governance ($ZERO)**: A governance system for governing the ZeroLend Protocol, enabled by the $ZERO token. To learn more, read "[Zeronomics](broken-reference)" and "[Participation Incentives](zeronomics/airdrop-incentives/)."
+3. **Account Abstraction (Live):** This feature allows for gas-less transactions, social logins, delegated transactions, etc. To know more, read ["Account Abstraction"](overview/account-abstraction-aa/)
 
 {% hint style="info" %}
-If you still have any questions or issues, feel free to reach the ZeroLend team through [discord](https://discord.gg/zerolend).
+If you still have any questions or issues, contact the ZeroLend team through [Discord](https://discord.gg/zerolend).
 {% endhint %}

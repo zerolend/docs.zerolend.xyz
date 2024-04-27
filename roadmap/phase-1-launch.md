@@ -1,31 +1,30 @@
 ---
-description: >-
-  As part of the launch of ZeroLend, the developers are excited to share the
-  launch of Phase 1 of ZeroLend, where we plan to launch the $ZERO token on
-  zkSync.
+description: This page discussed Phase 1 of ZeroLend.
 ---
 
 # Phase 1 Launch
 
-During the launch phase, ZeroLend actively seeks out strategic partnerships within the decentralized finance (DeFi) ecosystem. The team engages with prominent DeFi projects, blockchain platforms, and liquidity providers to establish mutually beneficial collaborations. These partnerships can range from technical integrations to marketing initiatives aimed at increasing liquidity, expanding the range of supported assets, and enhancing the overall user experience within the lending protocol.
+We are excited to share the launch of ZeroLend's Phase 1, where we plan to launch the $ZERO token on zkSync.
 
-## $ZERO Airdrop for Users&#x20;
+ZeroLend will seek strategic partnerships within the DeFi ecosystem during the launch phase. We will engage with prominent DeFi projects, blockchain platforms, and liquidity providers to establish mutually beneficial collaborations.&#x20;
 
-As part of the launch phase, ZeroLend introduces an opportunity for users to receive a $**ZERO** token airdrop. Any user interacting with the lending protocol during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $**ZERO** tokens as a reward.
+These partnerships can range from technical integrations to marketing initiatives to increase liquidity, expand the range of supported assets, and enhance the overall user experience on ZeroLend.&#x20;
 
-To be eligible for the airdrop, you need to provide liquidity to the protocol and start farming $**earlyZERO**.
+### $ZERO Airdrop for Users
 
-You can become eligible for the ZERO airdrop by either having a history with interacting with other protocols or by interacting our social. To learn more about eligibility criterias read ["ZeroLend Airdrop"](../zeronomics/airdrop-incentives/engagement-for-potential-incentives.md).
+Users can earn $ZERO tokens during the launch phase by participating in $ZERO Gravity and other $ZERO airdrop campaigns. Any user interacting with ZeroLend during this phase, either by borrowing or lending, will be eligible to receive a predetermined amount of $ZERO tokens as a reward.
 
-Please feel free to visit [http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start interacting with the application.
+To learn more about $ZERO airdrop eligibility, read [ZeroLend Airdrop](https://docs.zerolend.xyz/zeronomics/airdrop-incentives/engagement-for-potential-incentives).
 
-## About $earlyZERO Rewards <a href="#ad5f" id="ad5f"></a>
+Visit[ http://app.zerolend.xyz/](http://app.zerolend.xyz/) and start using ZeroLend to farm $ZERO.&#x20;
 
-To allow farming before the TGE, users who provide liquidity can claim **$earlyZERO**, a non-transferrable ERC20 token that can be claimed by users from the farming portal before the TGE.
+### About $earlyZERO Rewards
 
-Users can convert the earned **$earlyZERO to $ZERO** after **$ZERO** TGE. Received **$ZERO** may have a vesting period.
+Liquidity providers on ZeroLend will receive $earlyZERO, a non-transferrable ERC-20 token that can be redeemed for $ZERO after TGE.&#x20;
 
-* **Exchange Rate**: 1 $earlyZERO = 1 $ZERO (1:1)
-* **Total $ZERO supply**: 100,000,000,000 $ZERO
+Please note that $ZERO redeemed using $earlyZERO may have a vesting period.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>
+* Exchange Rate: 1 $earlyZERO = 1 $ZERO (1:1)
+* Total $ZERO supply: 100,000,000,000 &#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 11.19.28 AM.png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>

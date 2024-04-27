@@ -1,18 +1,18 @@
 ---
 description: >-
-  This page contains all the deployed addresses on zkSync, Manta, Linea, Blast
-  and ETH Mainnet chain
+  This page contains all our deployed addresses on zkSync, Manta, Linea, Blast,
+  and Ethereum mainnet.
 ---
 
 # Deployed Addresses
 
 ## $ZERO
 
-The $ZERO token is not currently deployed. Once it is live, its address will be updated here.
+$ZERO token is not currently launched. Once it is live, its address will be updated here.
 
 ## Core & Periphery Contracts
 
-These are the addresses of the ZeroLend protocol on the various chains.
+These are the addresses of the ZeroLend protocol on our supported chains.
 
 {% tabs %}
 {% tab title="zkSync" %}
@@ -160,7 +160,7 @@ These are the addresses of the ZeroLend protocol on the various chains.
 
 ## Libraries
 
-Libraries are where most of the business logic of the lending pool exists
+Libraries are where most of our lending pool's business logic exists.&#x20;
 
 {% tabs %}
 {% tab title="zkSync" %}
@@ -219,7 +219,7 @@ Libraries are where most of the business logic of the lending pool exists
 
 ## Tokens
 
-These are the addresses of the various debt tokens on the various chains.
+These are the addresses of ZeroLend's supported debt tokens on various chains.
 
 {% tabs %}
 {% tab title="zkSync" %}

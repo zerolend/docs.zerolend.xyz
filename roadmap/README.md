@@ -1,102 +1,48 @@
 ---
-description: >-
-  The ZeroLend protocol's roadmap is comprised of 6 unique phases. This page
-  goes into more detail about each phase
+description: This page outlines ZeroLend’s roadmap phases.
 ---
 
 # Roadmap
 
 {% hint style="info" %}
-It's important to note that the roadmap provided is a general outline and may be subject to adjustments and refinements based on market conditions, regulatory considerations, and community feedback.
+Please note that this roadmap is a general outline and is subject to adjustments based on market conditions, regulatory considerations, and community feedback.
 {% endhint %}
 
-## Phase 0: Development and Testing (Q2 2023)
+### Milestone 0: Pre-mine of ZERO
 
-During the initial phase, the ZeroLend team focuses on developing and thoroughly testing the lending protocol. This involves designing and implementing the core smart contracts, building the user interface, and conducting extensive security audits to identify and resolve any vulnerabilities.&#x20;
+This is the first phase of our roadmap. It will be used to bootstrap liquidity for the protocol.
 
-#### Key Milestones:
+### Milestone 1: Launch of veTokenomics
 
-1. Smart contract development and auditing.
-2. User interface design and development.
-3. Internal testing and bug fixing.
-4. Security audits and code optimization.
+Once the $ZERO token is live, we will introduce veTokenomics and decentralize its incentive mechanism across supported chains. With veTokenomics, $ZERO holders will lock their $ZERO tokens for a set period and receive non-transferable veTokens.
 
-{% hint style="success" %}
-This phase is complete ✅
-{% endhint %}
+Although users cannot sell veTokens, they can use them to participate in protocol governance. This step will help us achieve minimal governance and decentralize the token utility at scale.
 
-## Phase 1: Launch and Pre-mining
+Adopting veTokenomics will help us reduce the token supply while encouraging holders for long-term participation in the ZeroLend ecosystem.
 
-Once the development and testing phase is complete, ZeroLend launches the lending protocol on zkSync and starts the pre-mine phase of the token. Users can provide liquidity and farm $ZERO pre-launch.
+### Milestone 2: Introduction of Isolated Immutable Markets
 
-Users can also participate within the community to earn points which makes them eligible for the $ZERO airdrop
+ZeroLend will introduce isolated, immutable markets to scale our protocol across multiple markets. Isolated immutable markets work similarly to Morpho Blue. Unlike other markets, these markets do not impact the lending pools when operating at scale.&#x20;
 
-#### Key Milestones:
+### Milestone 3: Vaults &#x20;
 
-1. Smart contract deployment on the mainnet.
-2. Launch of the ZeroLend platform to the public.
-3. Launch of the ZeroLend stablecoin ([ONEZ](../onez.md)).
-4. Airdrop campaigns and co-marketing with projects
-5. Marketing and user acquisition efforts.
+Once our isolated markets are live, we will launch vaults. These vaults will enable users to access more yields and strategies through simple one-click vaults.&#x20;
 
-{% hint style="info" %}
-This is the current stage of the protocol.
-{% endhint %}
+Vaults can further be curated with risk managers to ensure risk parameters are continuously updated individually. In the future, sub-DAOs could actively manage risks and create their managed vaults.&#x20;
 
-## **Phase 2: Incentives & Official Protocol launch**
+### Milestone 4: Scaling markets across EVM-based chains&#x20;
 
-ZeroLend embarks on a vital phase with the initiation of public and private sales, leading up to the Token Generation Event (TGE). The $ZERO token makes its debut and becomes tradable across various markets (DEXes and CEXes).
+In Phase 4, we will provide guidelines and open up the markets to allow users to scale up markets on ZeroLend rapidly.
 
-At this stage, the various incentive mechanisms start to go live. This includes staking, liquidity mining, etc.., to further grow the protocol.
+We will enable anyone to create a deployment on any chain or list assets on the ZeroLend UI using a whitelisted factory contract.&#x20;
 
-**Key Milestones:**
+### Milestone 5: Work on UI redesign
 
-1. Conducting Private and Public Sales of $ZERO.
-2. Launching $ZERO on multiple exchanges post-TGE.
-3. Launch of protocol incentives (Staking, Emissions, etc..)
+Once the ZeroLend protocol is live, we will rebuild the user interface to improve user experience across all ZeroLend services. This UI revamp involves integrating points within the user interface, enabling multiple chains to be integrated on ZeroLend, etc.&#x20;
 
-{% hint style="warning" %}
-This phase is expected to take place in Q1 2024
-{% endhint %}
+This is not an isolated phase in our roadmap. We will work on ZeroLend’s user interface in sync with other protocol development phases.&#x20;
 
-## **Phase 3: RWA Lending**
+### Final Milestone: Open-source ZeroLend Protocol&#x20;
 
-In this stage, ZeroLend focuses on integrating Real World Assets (RWAs) like Treasury Bills, Bonds, and Real Estate, thus merging traditional financial assets with the efficiency and accessibility of DeFi lending.
+The final phase of our roadmap is to open-source our protocol and decentralize its governance. Read our [decentralization roadmap](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/153/security/roadmap/decentralized-roadmap) to learn more about our open-source commitment.&#x20;
 
-**Key Milestones:**
-
-1. Onboarding a variety of RWAs onto the lending platform.
-2. Creating new opportunities for asset-backed lending and borrowing.
-3. Facilitating a seamless market for both digital and traditional investors.
-
-{% hint style="warning" %}
-This phase is expected to take place sometime in 2024
-{% endhint %}
-
-## **Phase 4: Account Abstraction & Hyperchains**
-
-Building upon Account Abstraction and zk hyperchains, this phase is dedicated to achieving low gas fees and enhanced user privacy, aligning with our vision of providing a cost-efficient and secure DeFi environment.
-
-**Key Milestones:**
-
-1. Integrating Account Abstraction for Simplified User Transactions.
-2. Leveraging zkSync's hyperchains to ensure low-cost operations and privacy.
-3. Enhancing the overall protocol infrastructure for better performance.
-
-{% hint style="warning" %}
-This phase is expected to take place sometime in 2024
-{% endhint %}
-
-## **Phase 5: Global Expansion**
-
-With a focus on global expansion, ZeroLend aims to position itself as a formidable competitor to traditional banking by tapping into international markets and extending its DeFi services on a global scale.
-
-**Key Milestones:**
-
-1. Expanding the user base across different countries and regions.
-2. Cultivating strategic partnerships for broader ecosystem integration.
-3. Continuing to innovate and adapt services for a diverse global audience.
-
-{% hint style="warning" %}
-This phase is expected to take place sometime in 2025
-{% endhint %}

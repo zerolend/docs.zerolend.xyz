@@ -1,18 +1,20 @@
 ---
-description: This page talks briefly summarizes  the $ZERO token.
+description: This page discusses the utility of ZeroLend’s native token - $ZERO.
 ---
 
 # Overview
 
 {% hint style="warning" %}
-The $ZERO token is not yet live and will be made available during the TGE.
+$ZERO is expected to be launched in April 2024.&#x20;
 {% endhint %}
 
-**$ZERO** serves as both a utility and governance token within the ZeroLend ecosystem. The Total Supply of $ZERO is 100B.&#x20;
+## Utility&#x20;
 
-### Utilities of $ZERO
+$ZERO is an ERC-20 token that will serve as a utility and governance token within the ZeroLend ecosystem. The total supply of $ZERO tokens is capped at 100 billion.&#x20;
 
-1. **Staking:** $ZERO holders will have the option to stake their tokens in the protocol. By doing so, they will be rewarded with additional tokens as an incentive for their participation.
-2. **Fees & Validator Rewards:** The $ZERO token can be used to accumulate transaction fees and earn fees from validators securing the ZeroLend [Hyperchain](../overview/hyperchains-and-privacy-layer.md).
-3. **Incentive Programs:** The protocol will conduct various incentive programs to encourage users to engage with the platform actively. These programs can offer token rewards or other benefits to participants who perform certain actions, such as providing liquidity, referring new users, or completing specific tasks within the ecosystem.
-4. **Integration with DeFi Ecosystem:** The token could be integrated with other decentralized finance (DeFi) platforms, allowing users to use it as collateral, participate in yield farming, or leverage its utility within a broader range of applications and services.
+### $ZERO token utility&#x20;
+
+1. **Staking:** $ZERO holders can stake their tokens and receive incentives to secure the ZeroLend Hyperchain.&#x20;
+2. **Fees and Validator Rewards:** $ZERO tokens can be used to pay fees and validation rewards on the ZeroLend Hyperchain.&#x20;
+3. **Incentives:** Users who add liquidity on ZeroLend, refer users to ZeroLend, or complete other tasks to grow the protocol will be rewarded using $ZERO tokens.&#x20;
+4. **Integration with other DeFi protocols:** ZeroLend will secure partnerships with other DeFi protocols. We will enable $ZERO holders to use $ZERO to lend/borrow, farm yields, and participate in the broader DeFi ecosystem across major DeFi protocols.&#x20;

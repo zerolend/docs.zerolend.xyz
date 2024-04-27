@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide provides a comprehensive overview for developers looking to
-  participate in the liquidation process within the ZeroLend Protocol.
+  This guide discusses how developers can participate in the liquidation process
+  on ZeroLend.
 ---
 
 # Liquidation Guide for Developers
@@ -9,11 +9,11 @@ description: >-
 Developers and traders can participate in liquidations through:
 
 1. **Direct Calls:** Execute the `liquidationCall()` directly on the Pool or L2Pool contracts.&#x20;
-2. **Automation:** Use or develop automated systems or bots designed to identify and execute profitable liquidation opportunities.
+2. **Automation:** Use or develop automated systems or bots to identify and execute profitable liquidation opportunities.
 
 ### **Profitability Considerations**
 
-To ensure liquidation actions are profitable, consider the gas costs involved. The liquidation may not be economically feasible if the gas price is too high.
+While finding profitable liquidation actions, consider the gas costs to calculate the economic feasibility accurately. The liquidation may not be economically feasible if the gas price is too high.
 
 **Liquidation Details in Zerolend v3**
 
@@ -29,7 +29,9 @@ Before making a `liquidationCall()`, ensure you:
 
 ### **Obtaining Liquidation Targets**
 
-User accounts in ZeroLend are individual addresses that have interacted with the protocol. These can be either externally owned accounts or contracts. Accounts eligible for liquidation have an HF < 1. You can identify these accounts:
+User accounts in ZeroLend are individual addresses that have interacted with the protocol. These can be either externally owned accounts or contracts. Accounts eligible for liquidation have an HF < 1.&#x20;
+
+You can identify these accounts:
 
 * **On-Chain:** Monitor protocol events and maintain an up-to-date index of user data. Use `getUserAccountData()` to check an account's current HF.
 * **GraphQL:** Utilize GraphQL to gather user account data and compute health factors using Zerolend utilities or SDKs, as real-time data like HF may not be directly available.

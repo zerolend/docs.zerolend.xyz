@@ -1,30 +1,37 @@
 ---
 description: >-
-  This page talks about one of the main ZeroLend's features - Account
-  Abstraction and how it is integrated in the protocol for better user
-  experience.
+  This page will discuss Account Abstraction and how it is integrated into the
+  ZeroLend protocol to enhance user experience.
 ---
 
 # Account Abstraction (AA)
 
-The DeFi ecosystem can be complex; therefore, enhancing the user experience in interacting with DeFi applications to make them more intuitive and competitive with conventional TradFi applications is crucial.
+<figure><img src="../../.gitbook/assets/ZL Doc - Account Abstraction.png" alt=""><figcaption></figcaption></figure>
+
+The DeFi ecosystem can be complex for beginners because it involves storing seed phrases, bridging crypto to different chains, paying gas fees in native tokens, etc. Therefore, enhancing the user experience of DeFi applications and making them as intuitive as TradFi applications is crucial to increasing user adoption.
 
 There are two types of accounts in Ethereum:
 
 1. Smart contract accounts where developers store their code (smart contracts).
 2. Externally owned accounts (EOAs) where users store their tokens (wallets like Metamask).
 
-Users generally interact with DApps using EOA wallets, which is the only way to start a transaction or execute a smart contract. This has many downsides like -&#x20;
+Users interact with DApps using EOA wallets, the only way to start a transaction or execute a smart contract code. However, using this approach has many downsides:&#x20;
 
-* The wallets are tightly coupled with a single key
-* They are hard to secure - keys get stolen
-* They are hard to recover - keys get lost
-* Wallets don't support multi-sig
-* No social-logins
-* The user must pay the gas fees
-* Must have ETH or native chain token to pay gas fees
+* The wallets are tightly coupled with a single key.
+* Wallets are hard to secure as private keys might get compromised.
+* Wallet keys cannot be recovered if lost. &#x20;
+* Wallets don't support multi-sig.
+* Users cannot use social logins.&#x20;
+* Users must pay gas fees.&#x20;
+* Users must have $ETH or other native chain tokens to pay gas fees.&#x20;
 
-“Abstraction” is the act of pulling or drawing something away. Account abstraction is a change to the current model that aims to abstract away the details of blockchain from users and enable a Web3 user experience that is seamless. From a user's perspective, account abstraction utilizes a smart account that eliminates the need for storing seed phrases/private keys, paying gas for transactions, etc.
+Account Abstraction (AA) is a computer science concept that hides such complexities. In DeFi, account abstraction removes all these complexities by storing assets in smart contracts rather than externally owned accounts (EOAs). Thus, it helps developers create ‘programmable wallets.’
+
+Technically, account abstraction enables developers to create account-abstracted wallets or smart accounts that can initiate and execute transactions on behalf of the user. For example, with smart accounts, dApps can pay gas fees on behalf of the user, saving users from the hassle of acquiring native tokens to pay gas fees.&#x20;
+
+Unlike EOAs, which send regular transactions, smart accounts use objects called UserOperations that include metadata to describe the operation to be executed on behalf of the user. Some examples of this metadata include type of transaction, gas price, transaction signature, etc.&#x20;
+
+Account Abstraction unlocks several use cases to improve user experience. For example, with AA, DApps can pay gas fees on users’ behalf, users can pay gas fees in any ERC-20 token, users can login using social media accounts, etc.&#x20;
 
 ## Does zkSync support Account Abstraction?
 
@@ -41,10 +48,10 @@ The differences between Native Account Abstraction and EIP 4337:
 
 ## How Does ZeroLend Implement AA?
 
-ZeroLend integrates various zkSync-native AA features in the following ways:
+ZeroLend integrates several zkSync-native AA features in the following ways:
 
-[**Paymasters**](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/paymasters)**:** Allows the protocol to either subsidize or allow users to pay for transaction fees with ERC20 tokens without having any ETH in their wallets.
+[Paymasters](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/paymasters): Allows the protocol to subsidize or allow users to pay for transaction fees with ERC20 tokens rather than $ETH.&#x20;
 
-[**Social Logins & other authentication options**](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/login-with-face-id-socials)**:** Allows users to have a wallet that is in control of their secure enclave device (Face ID, Fingerprint scanners, etc..)
+[Social Logins & other authentication options](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/login-with-face-id-socials): Allows users to have a wallet that controls their secure enclave device (Face ID, Fingerprint scanners, etc..)
 
-[**Delegated transaction**](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/delegated-transaction)**:** Allows users to authorize ZeroLend to execute limited actions on their behalf without losing custody of their funds.
+[Delegated transaction](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/delegated-transaction): Allows users to authorize ZeroLend to execute limited actions on their behalf without losing custody of their funds.
