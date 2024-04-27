@@ -27,4 +27,4 @@ Please note that $ZERO redeemed using $earlyZERO may have a vesting period.
 * Exchange Rate: 1 $earlyZERO = 1 $ZERO (1:1)
 * Total $ZERO supply: 100,000,000,000 &#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-18 at 11.19.28 AM.png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-18 at 11.19.28 AM.png" alt=""><figcaption><p>An example of the APR given out in earlyZERO which can be sold for ZERO on TGE</p></figcaption></figure>
