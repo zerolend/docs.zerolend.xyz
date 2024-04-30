@@ -4,7 +4,7 @@ description: This page discussed Phase 1 of ZeroLend.
 
 # Phase 1 Launch
 
-We are excited to share the launch of ZeroLend's Phase 1, where we plan to launch the $ZERO token on zkSync.
+
 
 ZeroLend will seek strategic partnerships within the DeFi ecosystem during the launch phase. We will engage with prominent DeFi projects, blockchain platforms, and liquidity providers to establish mutually beneficial collaborations.&#x20;
 

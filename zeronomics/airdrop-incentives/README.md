@@ -9,7 +9,7 @@ description: >-
 To know more about the various airdrops users can farm with ZeroLend, view the various airdrop opportunities below:
 
 * [Farm the ZeroLend Airdrop](engagement-for-potential-incentives.md)
-* Farm the Pyth Airdrop (Upcoming)
+* Farm the Pyth Airdrop&#x20;
 
 ## **Airdrop Distribution Plan**
 

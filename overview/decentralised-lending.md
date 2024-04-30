@@ -6,9 +6,7 @@ description: This page talks in detail about ZeroLend’s lending protocol.
 
 ZeroLend's core product is its decentralized non-custodial liquidity market. It is a fork of[ AAVE V3](https://aave.com/) with different incentive mechanisms that make it similar to [Radiant Capital](https://radiant.capital/).
 
-## How does lending work in TradFi?
-
-Securing a loan in traditional banking involves lengthy paperwork and a credit score assessment, among other processes. Loan intermediaries like banks often charge hefty fees for their services. They collect deposits from lenders at significantly lower interest rates and loan these funds to borrowers at a higher interest rate to profit from this interest spread.        &#x20;
+## How does lending work in TradFi?      &#x20;
 
 TradFi loans are not inclusive and permissionless, as intermediaries like banks and credit agencies manage user data and dictate loan terms. Unlike DeFi, where you can get a loan within a few seconds, securing a massive loan in traditional banking involves lengthy approval processes.&#x20;
 
@@ -33,7 +31,7 @@ Let's understand this with an example.\
 Suppose you're an $ETH investor who believes in the long-term potential of ETH-based tokens. Instead of holding $ETH in your wallet, you can deposit it as collateral on ZeroLend and borrow $USDT to buy other tokens in the $ETH ecosystem. Of course, all of this comes with the added risk of leverage. However, if you manage your positions well, you can combat this risk and multiply your yields. \
 
 
-ZeroLend also features RWA lending for borrowers who want undercollateralized loans.&#x20;
+
 
 ## The Basics of ZeroLend
 

@@ -22,13 +22,13 @@ Adopting veTokenomics will help us reduce the token supply while encouraging hol
 
 ### Milestone 2: Introduction of Isolated Immutable Markets
 
-ZeroLend will introduce isolated, immutable markets to scale our protocol across multiple markets. Isolated immutable markets work similarly to Morpho Blue. Unlike other markets, these markets do not impact the lending pools when operating at scale.&#x20;
+ZeroLend will introduce isolated, immutable markets to scale our protocol across multiple markets.
 
 ### Milestone 3: Vaults &#x20;
 
 Once our isolated markets are live, we will launch vaults. These vaults will enable users to access more yields and strategies through simple one-click vaults.&#x20;
 
-Vaults can further be curated with risk managers to ensure risk parameters are continuously updated individually. In the future, sub-DAOs could actively manage risks and create their managed vaults.&#x20;
+Vaults can further be curated with risk managers to ensure risk parameters are continuously updated. In the future, sub-DAOs could actively manage risks and create their managed vaults.&#x20;
 
 ### Milestone 4: Scaling markets across EVM-based chains&#x20;
 

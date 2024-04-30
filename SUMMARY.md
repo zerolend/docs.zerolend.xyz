@@ -19,12 +19,10 @@
 * [Overview](zeronomics/token-overview.md)
 * [Token Distribution](zeronomics/token-distribution.md)
 * [Emissions](zeronomics/emissions.md)
-* [Vesting and airdrop allocation](zeronomics/vesting-and-airdrop-allocation.md)
 * [Locking](zeronomics/locking.md)
-* [Staking](zeronomics/staking.md)
 * [Ve-Tokenomics](zeronomics/ve-tokenomics/README.md)
   * [Single Stake $ZERO](zeronomics/ve-tokenomics/single-stake-usdzero.md)
-  * [dLP $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
+  * [dynamic Liquidity Provision (dLP) $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
 * [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
   * [Blast Point Incentives](zeronomics/airdrop-incentives/blast-point-incentives.md)
   * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
@@ -38,7 +36,6 @@
     * [Chapter 1: Ignition 🔥](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-1-ignition.md)
     * [Chapter 2: LiftOff 🚀](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-2-liftoff.md)
     * [Chapter 3: Boost ⚡](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-3-boost.md)
-  * [0 Protocol Fees](zeronomics/zero-gravity-airdrop/0-protocol-fees.md)
   * [FAQs](zeronomics/zero-gravity-airdrop/faqs.md)
 
 ## Capital Efficiency

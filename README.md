@@ -9,7 +9,7 @@ description: >-
 
 ZeroLend is one of the fastest-growing multi-chain lending protocols, which focuses on Liquid Restaking Tokens (LRTs), Real World Assets (RWAs), privacy, and account abstraction.
 
-<figure><img src=".gitbook/assets/ZeroLend Documentation Banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ZL Logo.png" alt=""><figcaption></figcaption></figure>
 
 ## The ZeroLend Ecosystem
 
