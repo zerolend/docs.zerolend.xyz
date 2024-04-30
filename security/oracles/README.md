@@ -1,7 +1,7 @@
 ---
 description: >-
-  This section explains how ZeroLend uses oracles to determine the price of the
-  assets listed on our platform.
+  This section explains how ZeroLend uses oracles to determine the price of
+  various assets.
 ---
 
 # Oracles

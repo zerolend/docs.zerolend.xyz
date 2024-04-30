@@ -33,6 +33,13 @@
   * [Protocol Power/Weight](zeronomics/zerolend-emission-strategy/protocol-power-weight.md)
   * [Deconstructing the Weighted Percentage (T\_p) Calculation](zeronomics/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
   * [Construction of dLP & $ZERO Power](zeronomics/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
+* [Zero Gravity Airdrop](zeronomics/zero-gravity-airdrop/README.md)
+  * [Voyage 1: ZERO to Zillion](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/README.md)
+    * [Chapter 1: Ignition 🔥](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-1-ignition.md)
+    * [Chapter 2: LiftOff 🚀](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-2-liftoff.md)
+    * [Chapter 3: Boost ⚡](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-3-boost.md)
+  * [0 Protocol Fees](zeronomics/zero-gravity-airdrop/0-protocol-fees.md)
+  * [FAQs](zeronomics/zero-gravity-airdrop/faqs.md)
 
 ## Capital Efficiency
 

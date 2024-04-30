@@ -1,5 +1,5 @@
 ---
-description: This page discusses the $ZERO token launch plan and token distribution.
+description: This page talks about the $ZERO tokenomics.
 ---
 
 # Token Distribution

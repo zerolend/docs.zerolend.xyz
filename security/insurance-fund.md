@@ -1,5 +1,7 @@
 ---
-description: This section talks about our native 'Insurance Fund' for users.
+description: >-
+  This section talks about our unique approach to add another safety layer for
+  our users.
 ---
 
 # Insurance Fund

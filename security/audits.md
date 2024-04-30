@@ -1,5 +1,5 @@
 ---
-description: This section discusses ZeroLend’s security audits in detail.
+description: This section explains about the audits done for ZeroLend
 cover: ../.gitbook/assets/Tokenomics GITBOOK Size.png
 coverY: 0
 ---
