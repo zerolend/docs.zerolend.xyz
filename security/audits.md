@@ -31,8 +31,6 @@ Visit our GitHub page to read the Mundus audit report in detail:&#x20;
 
 Following the report, all ownership of the protocol has been moved into a [Timelock contract and Multisig wallet](timelocked-multisig-admin.md).
 
-{% embed url="https://twitter.com/zerolendxyz/status/1699619482447290547" %}
-
 ### External Audit by Peckshield&#x20;
 
 Peckshield conducted an in-depth audit for ZeroLend. It analyzed coding bugs, executed semantic checks, and performed advanced DeFi scrutiny (including Oracle security, business logic, and escrow).&#x20;
@@ -66,7 +64,7 @@ You can find a list of audits done over here:
 
 ZeroLend also organized bug bounty contests in collaboration with the leading bug bounty platforms. These contests invite white-hat security analysts to dive deep into our codebase to find vulnerabilities.&#x20;
 
-We hosted bug bounty competitions on Cantina and Immunefi with a combined reward pool of nearly $200,000.
+We hosted bug bounty competitions on Cantina and Immunefi with a combined reward pool of nearly $300,000.
 
 Cantina Bug Bounty: [https://twitter.com/cantinaxyz/status/1743332737074020704](https://twitter.com/cantinaxyz/status/1743332737074020704)
 

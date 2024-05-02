@@ -4,76 +4,68 @@
 
 ## Overview
 
-* [Decentralized Lending](overview/decentralised-lending.md)
-* [Account Abstraction (AA)](overview/account-abstraction-aa/README.md)
-  * [Paymasters](overview/account-abstraction-aa/paymasters.md)
-  * [Secure-enclave and social logins](overview/account-abstraction-aa/secure-enclave-and-social-logins.md)
-  * [Delegated transaction](overview/account-abstraction-aa/delegated-transaction.md)
-* [RWA Lending](overview/rwa-lending.md)
-* [Roadmap](overview/roadmap/README.md)
-  * [Phase 1 Launch](overview/roadmap/phase-1-launch.md)
-  * [Decentralized Roadmap](overview/roadmap/decentralized-roadmap.md)
+* [Lending and Borrowing](overview/lending-and-borrowing/README.md)
+  * [Parameters](overview/lending-and-borrowing/parameters.md)
+* [Assets Listings](overview/assets-listings.md)
+* [Roadmap](overview/roadmap.md)
 
-## Zeronomics
+## Features
 
-* [Overview](zeronomics/token-overview.md)
-* [Token Distribution](zeronomics/token-distribution.md)
-* [Emissions](zeronomics/emissions.md)
-* [Locking](zeronomics/locking.md)
-* [Ve-Tokenomics](zeronomics/ve-tokenomics/README.md)
-  * [Single Stake $ZERO](zeronomics/ve-tokenomics/single-stake-usdzero.md)
-  * [dynamic Liquidity Provision (dLP) $ZERO](zeronomics/ve-tokenomics/dlp-usdzero.md)
-* [Airdrop Incentives](zeronomics/airdrop-incentives/README.md)
-  * [Blast Point Incentives](zeronomics/airdrop-incentives/blast-point-incentives.md)
-  * [Engagement for Potential Incentives](zeronomics/airdrop-incentives/engagement-for-potential-incentives.md)
-  * [Zero Gravity Points Reward System](zeronomics/airdrop-incentives/zero-gravity-points-reward-system.md)
-* [ZeroLend Emission Strategy](zeronomics/zerolend-emission-strategy/README.md)
-  * [Protocol Power/Weight](zeronomics/zerolend-emission-strategy/protocol-power-weight.md)
-  * [Deconstructing the Weighted Percentage (T\_p) Calculation](zeronomics/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
-  * [Construction of dLP & $ZERO Power](zeronomics/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
-* [Zero Gravity Airdrop](zeronomics/zero-gravity-airdrop/README.md)
-  * [Voyage 1: ZERO to Zillion](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/README.md)
-    * [Chapter 1: Ignition 🔥](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-1-ignition.md)
-    * [Chapter 2: LiftOff 🚀](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-2-liftoff.md)
-    * [Chapter 3: Boost ⚡](zeronomics/zero-gravity-airdrop/voyage-1-zero-to-zillion/chapter-3-boost.md)
-  * [FAQs](zeronomics/zero-gravity-airdrop/faqs.md)
+* [LRT Lending](features/lrt-lending.md)
+* [RWA Lending](features/rwa-lending.md)
+* [Account Abstraction (AA)](features/account-abstraction-aa.md)
+* [Capital Efficiency](features/capital-efficiency/README.md)
+  * [High Efficiency Mode (E-Mode)](features/capital-efficiency/high-efficiency-mode-e-mode.md)
+  * [Isolation Mode](features/capital-efficiency/isolation-mode.md)
+  * [Credit Delegation](features/capital-efficiency/credit-delegation.md)
+  * [Supply/Borrow Caps](features/capital-efficiency/supply-borrow-caps.md)
+* [Liquidations](features/liquidations/README.md)
+  * [Liquidation Guide for Developers](features/liquidations/liquidation-guide-for-developers.md)
 
-## Capital Efficiency
+## Airdrop Incentives
 
-* [High Efficiency Mode (E-Mode)](capital-efficiency/high-efficiency-mode-e-mode.md)
-* [Isolation Mode](capital-efficiency/isolation-mode.md)
-* [Credit Delegation](capital-efficiency/credit-delegation.md)
-* [Supply/Borrow Caps](capital-efficiency/supply-borrow-caps.md)
+* [Zero Gravity](airdrop-incentives/zero-gravity/README.md)
+  * [Voyage 1: Zero to Zillion](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/README.md)
+    * [Chapter 1: Ignition 🔥](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-1-ignition.md)
+    * [Chapter 2: LiftOff 🚀](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-2-liftoff.md)
+    * [Chapter 3: Boost ⚡](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-3-boost.md)
+* [$earlyZERO incentives](airdrop-incentives/usdearlyzero-incentives.md)
+* [Protocol Eligible Incentives](airdrop-incentives/protocol-eligible-incentives.md)
 
-## Assets Overview
+## Governance
 
-* [Asset Listing Criteria](assets-overview/asset-listing-criteria.md)
-* [Supported Assets](assets-overview/supported-assets.md)
-* [Liquidations](assets-overview/liquidations/README.md)
-  * [Liquidation Guide for Developers](assets-overview/liquidations/liquidation-guide-for-developers.md)
+* [Zeronomics](governance/token-overview/README.md)
+  * [Token Utility](governance/token-overview/token-utility.md)
+  * [Token Distribution](governance/token-overview/token-distribution.md)
+  * [Staking](governance/token-overview/staking/README.md)
+    * [Single Token Staking](governance/token-overview/staking/single-token-staking.md)
+    * [dLP Staking](governance/token-overview/staking/dlp-staking.md)
+  * [Emissions](governance/token-overview/emissions/README.md)
+    * [Emission Strategy](governance/token-overview/emissions/zerolend-emission-strategy/README.md)
+      * [Protocol Power/Weight](governance/token-overview/emissions/zerolend-emission-strategy/protocol-power-weight.md)
+      * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
+      * [Construction of dLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
+* [Discussion Forum](https://discuss.zerolend.xyz/)
 
 ## Security
 
 * [Audits](security/audits.md)
-* [Oracles](security/oracles/README.md)
-  * [Using PYTH Oracles](security/oracles/using-pyth-oracles.md)
-  * [Using Redstone Oracles](security/oracles/using-redstone-oracles.md)
+* [Oracles](security/oracles.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 * [Insurance Fund](security/insurance-fund.md)
 
 ## Tutorials
 
-* [Borrow/Supply with Binance Web3 Wallet](tutorials/borrow-supply-with-binance-web3-wallet.md)
-* [How to Supply on ZeroLend?](tutorials/how-to-supply-on-zerolend.md)
-* [How to Borrow on ZeroLend?](tutorials/how-to-borrow-on-zerolend.md)
-* [Passive strategies to farm boosted LRT yields](tutorials/passive-strategies-to-farm-boosted-lrt-yields.md)
-* [How to Leverage Exposure on Your Assets?](tutorials/how-to-leverage-yield-farm.md)
-* [Supported Chains for LRTs on ZeroLend](tutorials/supported-chains-for-lrts-on-zerolend.md)
+* [Basic Tutorials](tutorials/basic-tutorials/README.md)
+  * [Supply Assets](tutorials/basic-tutorials/supply-assets.md)
+  * [Borrow Collateral](tutorials/basic-tutorials/borrow-collateral.md)
+* [Yield Strategies](tutorials/yield-strategies/README.md)
+  * [Passive LRT Strategies](tutorials/yield-strategies/passive-lrt-strategies.md)
+  * [Leverage Exposure](tutorials/yield-strategies/how-to-leverage-yield-farm.md)
 
 ## Important Links
 
 * [Twitter](https://twitter.com/zerolendxyz)
 * [Discord](https://discord.gg/zerolend)
 * [Github](https://github.com/zerolend)
-* [Telegram](https://t.me/zerolendxyz)
