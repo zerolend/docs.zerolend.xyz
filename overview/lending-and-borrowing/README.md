@@ -4,8 +4,6 @@ description: This page talks in detail about ZeroLend’s lending protocol.
 
 # Lending and Borrowing
 
-<figure><img src="../../.gitbook/assets/ZL Doc - Lending Borrowing.png" alt=""><figcaption></figcaption></figure>
-
 ## How does lending work in TradFi?      &#x20;
 
 TradFi loans are not inclusive and permissionless, as intermediaries like banks and credit agencies manage user data and dictate loan terms. Unlike DeFi, where you can get a loan within a few seconds, securing a massive loan in traditional banking involves lengthy approval processes.&#x20;
