@@ -14,7 +14,7 @@ ZeroLend considers a comprehensive set of criteria to evaluate the suitability o
 * Supporting assets with the best risk profiles as collateral.
 * Assets with oracles that can be easily manipulated are listed as single-borrow assets.
 * Examining the level of community support and engagement for the token.
-* New, volatile assets with lower liquidity are considered for listing in [Isolation mode](../../features/capital-efficiency/isolation-mode.md) to enable supplying/borrowing for such assets.&#x20;
+* New, volatile assets with lower liquidity are considered for listing in [Isolation mode](../features/capital-efficiency/isolation-mode.md) to enable supplying/borrowing for such assets.&#x20;
 
 {% hint style="info" %}
 Want us to list your favorite assets? Share your suggestions on ZeroLend’s [Discord](https://discord.gg/zerolend) server.&#x20;
