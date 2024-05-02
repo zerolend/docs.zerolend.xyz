@@ -72,14 +72,13 @@ $weETH is EtherFi's restaked token.&#x20;
 
 **Step 5:** If you agree to the supply terms, click ‘Supply,’ enter the $weETH amount you wish to supply, and complete the deposit.&#x20;
 
-### Supported Chains for LRTs on ZeroLend
 
-| LRT Name | LRT     | Supported Chain        |
-| -------- | ------- | ---------------------- |
-| Renzo    | $ezETH  | Ethereum, Linea, Blast |
-| Puffer   | $pufETH | Ethereum               |
-| KelpDAO  | $rsETH  | Ethereum               |
-| Ether.fi | $eETH   | Ethereum               |
+
+***
+
+
+
+Please find the list of supported LRTs and chains [here](../../features/lrt-lending.md#lrts-on-zerolend).&#x20;
 
 
 

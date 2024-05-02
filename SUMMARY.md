@@ -30,7 +30,7 @@
     * [Chapter 1: Ignition 🔥](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-1-ignition.md)
     * [Chapter 2: LiftOff 🚀](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-2-liftoff.md)
     * [Chapter 3: Boost ⚡](airdrop-incentives/zero-gravity/voyage-1-zero-to-zillion/chapter-3-boost.md)
-* [$earlyZERO incentives](airdrop-incentives/usdearlyzero-incentives.md)
+* [$earlyZERO](airdrop-incentives/usdearlyzero.md)
 * [Protocol Eligible Incentives](airdrop-incentives/protocol-eligible-incentives.md)
 
 ## Governance

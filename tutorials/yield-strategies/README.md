@@ -14,14 +14,10 @@ layout:
 
 # Yield Strategies
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="passive-lrt-strategies.md" %}
+[passive-lrt-strategies.md](passive-lrt-strategies.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-leverage-yield-farm.md" %}
 [how-to-leverage-yield-farm.md](how-to-leverage-yield-farm.md)
-{% endcontent-ref %}
-
-{% content-ref url="passive-lrt-strategies.md" %}
-[passive-lrt-strategies.md](passive-lrt-strategies.md)
 {% endcontent-ref %}

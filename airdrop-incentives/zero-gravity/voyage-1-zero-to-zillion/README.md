@@ -16,9 +16,9 @@ A total of 10% of $ZERO's token supply, equivalent to 10 billion tokens, has bee
   * **Supply Allocation:** 2% of the total token supply
   * **Dates:** To be announced (TBA)
 
-
-
-Let’s dive into the first chapter of Voyage: Zero to Zillion
+{% hint style="info" %}
+Read more about Voyage 1: Zero To Zillion [here](https://mirror.xyz/0xb32591b2D8b8129702A4214CE344D2F87A9250F2/vpp5LlkSw4\_nnQZrRTkVsb3bLk4V3wD3hbYhdykx5bc).&#x20;
+{% endhint %}
 
 {% content-ref url="chapter-1-ignition.md" %}
 [chapter-1-ignition.md](chapter-1-ignition.md)

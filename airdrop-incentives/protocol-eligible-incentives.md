@@ -64,6 +64,6 @@ As a lending market, we scale by deploying our money markets on other chains. Ze
 | Chain          | Deployment | Token |
 | -------------- | ---------- | ----- |
 | Linea          | Done       | TBA   |
-| zkSync         | TBD        | TBA   |
+| zkSync         | TBA        | TBA   |
 | Blast Network  | Done       | TBA   |
 | Manta Network  | Done       | ✔     |

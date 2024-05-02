@@ -7,7 +7,7 @@ description: >-
 # Zeronomics
 
 {% hint style="warning" %}
-$ZERO is expected to be launched in May 2024.&#x20;
+$ZERO is expected to launch on May 06th, 2024.
 {% endhint %}
 
 $ZERO is a Linea ERC-20 token, serving as a utility and governance token within the ZeroLend ecosystem and bridgable to all chains using LayerZero.

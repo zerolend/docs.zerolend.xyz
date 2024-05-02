@@ -25,5 +25,3 @@ Here’s a basic structure:
 * Voyage 3
 
 **With each passing Voyage and Chapter, the supply % decreases to reward the early adopters of the protocol.**
-
-The earliest adopters are users who used Zero Gravity since its [soft launch](https://twitter.com/zerolendxyz/status/1748367922475745556) on Jan 19, 2024. They are eligible for the highest drop.

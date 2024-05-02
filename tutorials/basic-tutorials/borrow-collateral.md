@@ -18,7 +18,7 @@ You can borrow assets on ZeroLend in 3 simple steps:
 
 ### Step 1: Supply the required collateral
 
-1. If you haven’t supplied any assets on ZeroLend yet. Follow this [guide](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/153/tutorials/how-to-supply-on-zerolend) and deposit any of our supported assets on ZeroLend.&#x20;
+1. If you haven’t supplied any assets on ZeroLend yet. Follow this [guide](supply-assets.md) and deposit any of our supported assets on ZeroLend.&#x20;
 2. If collateralization is not enabled by default, enable it. To do so, visit the ZeroLend dashboard and enable the collateralization option for the asset you wish to pledge under the ‘Your supplies’ tab.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-04-08 at 9.01.54 PM.png" alt=""><figcaption></figcaption></figure>
