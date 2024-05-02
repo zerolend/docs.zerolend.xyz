@@ -35,11 +35,11 @@ Account Abstraction unlocks several use cases to improve user experience. With A
 
 ZeroLend integrates several zkSync-native AA features in the following ways:
 
-[Paymasters](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/paymasters) (Live on zkSync): Allows the protocol to subsidize or allow users to pay for transaction fees with ERC20 tokens rather than $ETH.&#x20;
+**Paymasters (Live on zkSync)**: Allows the protocol to subsidize or allow users to pay for transaction fees with ERC20 tokens rather than $ETH.&#x20;
 
-[Social Logins & other authentication options](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/login-with-face-id-socials) (Not Live): Allows users to have a wallet that controls their secure enclave device (Face ID, Fingerprint scanners, etc..)&#x20;
+**Social Logins & other authentication options** (Not Live): Allows users to have a wallet that controls their secure enclave device (Face ID, Fingerprint scanners, etc..)&#x20;
 
-[Delegated transaction](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/account-abstraction-aa/delegated-transaction) (Not Live): Allows users to authorize ZeroLend to execute limited actions on their behalf without losing custody of their funds.
+**Delegated transaction** (Not Live): Allows users to authorize ZeroLend to execute limited actions on their behalf without losing custody of their funds.
 
 
 

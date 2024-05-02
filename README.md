@@ -14,7 +14,7 @@ ZeroLend is the largest lending market on L2s—Linea, zkSync, Manta, Blast, and
 
 The core products and features within the ecosystem:&#x20;
 
-1. **DeFi Lending (Live):** A decentralized, non-custodial liquidity protocol enabling users to participate as liquidity providers and borrowers. ZeroLend also aims to provide lending and borrowing on various supported assets across multiple chains. To learn more, read "[DeFi Lending](./)".&#x20;
+1. **DeFi Lending (Live):** A decentralized, non-custodial liquidity protocol enabling users to participate as liquidity providers and borrowers. ZeroLend also aims to provide lending and borrowing on various supported assets across multiple chains.&#x20;
 2. **ZeroLend** **Governance ($ZERO)**: A governance system for governing the ZeroLend Protocol, enabled by the $ZERO token. To learn more, read "[Zeronomics](governance/token-overview/)"
 3. **Liquid Restaking Token Lending (Live)**: Users can deposit LRTs like EtherFi, Puffer, Renzo, and Kelp and take loans in stablecoins/ETH. To know more, read, "[LRT Lending](features/lrt-lending.md)"
 4. **L2 / Airdrop Narrative**: Users who use the protocol will be eligible for the upcoming chain airdrops. To know more, read "[Protocol Eligible Incentives](airdrop-incentives/protocol-eligible-incentives.md)"

@@ -41,7 +41,7 @@ For example, you borrowed $10,000 worth of stablecoins against $18,000 worth of 
 
 To avoid liquidation, it is important to understand how your loan's health factor can drop below 1. Here are a few instances that might lead to liquidation:
 
-1. If you borrow funds against volatile assets, the price of those assets might fluctuate exponentially, leading to liquidation. However, ZeroLend helps you mitigate this risk to some extent by listing volatile assets under[ Isolation Mode](https://app.gitbook.com/o/Akzp3BDVzd6MoCyLbMoK/s/i9DDwWcSwiiTEJZZlm8R/\~/changes/126/features/decentralised-lending/capital-efficiency/isolation-mode).
+1. If you borrow funds against volatile assets, the price of those assets might fluctuate exponentially, leading to liquidation. However, ZeroLend helps you mitigate this risk to some extent by listing volatile assets under [Isolation Mode](../capital-efficiency/isolation-mode.md).
 2. Your deposited collateral asset decreases in value.
 3. The borrowed debt increases in value against the deposited collateral.&#x20;
 4. The user fails to meet their interest payments.
@@ -81,16 +81,6 @@ It involves:&#x20;
 * Utilizing flash loans if needed.
 * Executing necessary collateral swaps.
 * Completing the liquidation process.
-
-### Liquidation Penalty & Risk Parameters&#x20;
-
-Each supported asset on ZeroLend has different liquidation parameters:
-
-### Liquidation Penalty & Risk Parameters&#x20;
-
-Each asset within ZeroLend has different liquidation parameters:
-
-<table><thead><tr><th width="170">Asset </th><th width="125">Max LTV</th><th width="200">Liquidation Threshold</th><th>Liquidation Penalty</th></tr></thead><tbody><tr><td>DAI</td><td>75%</td><td>80%</td><td>5%</td></tr><tr><td>LUSD</td><td>75%</td><td>80%</td><td>5%</td></tr><tr><td>USDC</td><td>80%</td><td>85%</td><td>5%</td></tr><tr><td>USDT</td><td>75%</td><td>80%</td><td>5%</td></tr><tr><td>MUTE</td><td>60%</td><td>90%</td><td>10%</td></tr><tr><td>WBTC</td><td>70%</td><td>75%</td><td>10%</td></tr><tr><td>ETH</td><td>80%</td><td>82.5%</td><td>5%</td></tr></tbody></table>
 
 ### How do I avoid liquidation?
 

@@ -28,10 +28,6 @@ In addition to staking rewards, users earn points from the respective liquid sta
 
 For example, if you restake $ETH on Renzo Protocol, you get $ezETH and EigenLayer points.&#x20;
 
-{% hint style="info" %}
-Earn boosted rewards by supplying LRTs on ZeroLend’s ETH LRTs Market: [https://app.zerolend.xyz/?marketName=proto\_mainnet\_lrt\_v3](https://app.zerolend.xyz/?marketName=proto\_mainnet\_lrt\_v3)&#x20;
-{% endhint %}
-
 ### LRTs on ZeroLend&#x20;
 
 ZeroLend features a dedicated ETH LRTs Market to help users leverage the emerging LRT trend and earn boosted rewards.\
@@ -46,8 +42,6 @@ Here’s a list of LRT assets listed on ZeroLend:&#x20;
 | Kelp DAO     | $rsETH            | Ethereum                   |
 | Puffer       | $pufETH           | Ethereum                   |
 
-
-
 {% hint style="info" %}
-Follow our [how to supply crypto assets on ZeroLend](https://docs.zerolend.xyz/tutorials/how-to-supply-on-zerolend) guide to supply LRTs on ZeroLend.&#x20;
+Read our [Passive Strategies guide](../tutorials/yield-strategies/passive-lrt-strategies.md) on LRTs to learn more.&#x20;
 {% endhint %}
