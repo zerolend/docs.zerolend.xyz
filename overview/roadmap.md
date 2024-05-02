@@ -20,7 +20,7 @@ This is the first phase of our roadmap, which is used to bootstrap liquidity for
 
 ## Milestone 1: Launch of veTokenomics
 
-Once the ZERO token is live and trading, we introduce the veTokenomics and decentralize the incentive mechanics for the ZERO token across various chains.
+Once the ZERO token is live and trading, we introduce veTokenomics and decentralize the incentive mechanics for it across various chains.
 
 This is inline with our philosophy of minimal governance and decentralizing the token use case at scale.
 

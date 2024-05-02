@@ -29,7 +29,7 @@ Technically, account abstraction enables developers to create account-abstracted
 
 Unlike EOAs, which send regular transactions, smart accounts use objects called UserOperations that include metadata to describe the operation to be executed on behalf of the user. Some examples of this metadata include type of transaction, gas price, transaction signature, etc.&#x20;
 
-Account Abstraction unlocks several use cases to improve user experience. With AA, dApps can pay gas fees on users’ behalf, users can pay gas fees in any ERC-20 token and users can log in using social media accounts.&#x20;
+Account Abstraction unlocks several use cases to improve user experience. With AA, dApps can pay gas fees on users’ behalf, users can pay gas fees in any ERC-20 token, and users can log in using social media accounts.&#x20;
 
 ## How Does ZeroLend Implement AA?
 
@@ -41,7 +41,7 @@ ZeroLend integrates several zkSync-native AA features in the following ways:
 
 **Delegated transaction** (Not Live): Allows users to authorize ZeroLend to execute limited actions on their behalf without losing custody of their funds.
 
-
+***
 
 ## Paymasters (Live)
 
@@ -99,7 +99,7 @@ ZeroLend will support biometric authentication by incorporating fingerprint reco
 ZeroLend will implement a secure enclave and social logins in 2024.
 {% endhint %}
 
-
+***
 
 ## Delegated transaction
 

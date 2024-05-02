@@ -12,13 +12,13 @@ Liquidation is the process of selling borrowers’ deposited collateral to repay
 
 The amount of collateral to be sold is determined by several factors, including the liquidation threshold, liquidation penalty, the current value of the collateral, and the debt amount.&#x20;
 
-### Monitoring Loan Health
+## Monitoring Loan Health
 
 ZeroLend tracks loan health using two pivotal metrics: the Loan-to-Value (LTV) ratio and the liquidation threshold.&#x20;
 
 The LTV ratio defines the maximum borrowing capacity against specific collateral. The liquidation threshold marks the point at which a loan is considered under-collateralized and at risk of liquidation.
 
-### How does liquidation work on ZeroLend?
+## How does liquidation work on ZeroLend?
 
 <figure><img src="../../.gitbook/assets/ZL Doc - How liquidation works.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ For example, you borrowed $10,000 worth of stablecoins against $18,000 worth of 
 
 **Considering a liquidation penalty (e.g., 5%):** ZeroLend would sell more than the $10,000 debt due to the liquidation penalty. For example, if the penalty is 5% of the amount to be liquidated, we would sell $10,000 + 5% of $10,000 ($500), i.e., $10,500 worth of your collateral.
 
-### When will your collateral be liquidated on ZeroLend?&#x20;
+## When will your collateral be liquidated on ZeroLend?&#x20;
 
 To avoid liquidation, it is important to understand how your loan's health factor can drop below 1. Here are a few instances that might lead to liquidation:
 
@@ -46,7 +46,7 @@ To avoid liquidation, it is important to understand how your loan's health facto
 3. The borrowed debt increases in value against the deposited collateral.&#x20;
 4. The user fails to meet their interest payments.
 
-### Liquidators
+## Liquidators
 
 Liquidators are advanced DeFi users with automated systems (i.e., bots) to monitor collateralized positions and seek out loans that are eligible for liquidation. These bots then interact with ZeroLend's L2Pool contract and initiate a `liquidationCall().`&#x20;
 
@@ -54,13 +54,13 @@ This enables Liquidators to pay back part of the debt owed and receive discounte
 
 Such a liquidation mechanism incentivizes third parties to participate in the health of the overall protocol by acting in their own interest (to receive the discounted collateral). Liquidators ensure borrows are sufficiently collateralized across the protocol.
 
-### Liquidation Bonuses and Risks
+## Liquidation Bonuses and Risks
 
 The incentive for executing a liquidation, known as the liquidation bonus, varies with the collateral's risk profile.&#x20;
 
 Higher-risk collateral results in more significant bonuses for the liquidator, encouraging proactive identification and resolution of risky loans. ZeroLend closely monitors market trends to offer competitive liquidation bonuses to strengthen the protocol's risk management framework.
 
-### Liquidation Mechanics
+## Liquidation Mechanics
 
 To initiate a liquidation on ZeroLend, the following inputs are required:
 
@@ -70,7 +70,7 @@ To initiate a liquidation on ZeroLend, the following inputs are required:
 * Collateral Asset: Initially provided by the user.
 * Profit Asset: Chosen by the liquidator, either in Zerolend's native tokens or the underlying asset.
 
-### Executing a Liquidation
+## Executing a Liquidation
 
 Liquidation is a multistep process that can be automated using bots.&#x20;
 
@@ -82,6 +82,6 @@ It involves:&#x20;
 * Executing necessary collateral swaps.
 * Completing the liquidation process.
 
-### How do I avoid liquidation?
+## How do I avoid liquidation?
 
 To avoid liquidation, you should improve the health factor of your borrowed loan by repaying it or depositing more assets. Out of these two available options, repaying the loan would improve your health significantly.

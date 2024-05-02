@@ -19,13 +19,13 @@ $earlyZERO is a non-transferrable ERC-20 token that can be redeemed for $ZERO in
 Liquidity providers and borrowers on ZeroLend receive $earlyZERO depending on the yield of the selected asset and the respective lending market.&#x20;
 
 \
-For example, by supplying $ETH on ZeroLend’s Linea Market users receive $earlyZERO tokens. Once $ZERO token is live, earlyZERO will be 1:1 convertible with ZERO.&#x20;
+For example, by supplying $ETH on ZeroLend’s Linea Market, users receive $earlyZERO tokens. Once the $ZERO token is live, earlyZERO will be 1:1 convertible with ZERO.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-05-02 at 1.07.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 _Please note that $ZERO redeemed using $earlyZERO may have a vesting period._
 
-### How to convert $earlyZERO to $ZERO?
+## How to convert $earlyZERO to $ZERO?
 
 ZeroLend features a dedicated ‘Rewards’ tab where users can check their accumulated $earlyZERO and Zero Gravity points.&#x20;
 

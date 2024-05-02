@@ -1,6 +1,6 @@
 # Voyage 1: Zero to Zillion
 
-Voyage 1 of the Zero Gravity program, titled "Zero to Zillion," is designed to bootstrap ZeroLend's total value locked (TVL). This ambitious first Voyage is segmented into three distinct chapters: Ignition, LiftOff, and Boost, each with designated token distributions to incentivize participant engagement and liquidity provisioning.
+Voyage 1 of the Zero Gravity program, titled "**Zero to Zillion,**" is designed to bootstrap ZeroLend's total value locked (TVL). This ambitious first Voyage is segmented into three distinct chapters: Ignition, LiftOff, and Boost, each with designated token distributions to incentivize participant engagement and liquidity provisioning.
 
 ### **Token Distribution Overview for Voyage 1: Zero to Zillion**
 

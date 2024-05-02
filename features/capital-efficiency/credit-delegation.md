@@ -6,7 +6,7 @@ description: This page discusses ZeroLend’s credit delegation feature.
 
 Credit Delegation is a feature that allows a depositor to deposit funds into ZeroLend to earn interest while delegating borrowing power (credit) to other users. The loan terms are agreed upon between the depositor and borrowers on-chain via smart contracts. This feature facilitates extra yield for the depositor and provides uncollateralized loan access for borrowers.
 
-### Key points to remember while using credit delegation on ZeroLend&#x20;
+## Key points to remember while using credit delegation on ZeroLend&#x20;
 
 * Depositors (delegators) earn additional yield on top of the protocol's standard yield.
 * Borrowers (delegatees) gain access to uncollateralized loans.

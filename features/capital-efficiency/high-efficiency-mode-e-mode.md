@@ -10,7 +10,7 @@ E-Mode, or High-Efficiency Mode, empowers borrowers to maximize their borrowing 
 
 <figure><img src="../../.gitbook/assets/ZL Doc - High-Efficiency Mode.png" alt=""><figcaption></figcaption></figure>
 
-In eMode, ZeroLend classifies assets based on:
+In E-Mode, ZeroLend classifies assets based on:
 
 1. **Loan-to-Value (LTV):** Higher LTV enables borrowers to access more funds relative to collateral value within the same category. E-mode allows for LTV ratios of up to 97%.&#x20;
 2. **Liquidation Threshold:** This is the minimum collateral amount needed to avoid liquidation, offering borrowers greater control over risk exposure.

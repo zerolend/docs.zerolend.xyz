@@ -11,15 +11,15 @@ Developers and traders can participate in liquidations through:
 1. **Direct Calls:** Execute the `liquidationCall()` directly on the Pool or L2Pool contracts.&#x20;
 2. **Automation:** Use or develop automated systems or bots to identify and execute profitable liquidation opportunities.
 
-### **Profitability Considerations**
+## **Profitability Considerations**
 
 While finding profitable liquidation actions, consider the gas costs to calculate the economic feasibility accurately. The liquidation may not be economically feasible if the gas price is too high.
 
-**Liquidation Details in Zerolend v3**
+#### **Liquidation Details in Zerolend v3**
 
 ZeroLend allows for up to 100% of the debt to be liquidated in a single `liquidationCall()` if the HF is below a certain threshold (CLOSE\_FACTOR\_HF\_THRESHOLD).
 
-### **Prerequisites for Liquidation**
+## **Prerequisites for Liquidation**
 
 Before making a `liquidationCall()`, ensure you:
 
@@ -27,7 +27,7 @@ Before making a `liquidationCall()`, ensure you:
 * Know the valid debt amount and the asset to cover (debtToCover & debtAsset).
 * Understand the applicable liquidation close factor based on the HF.
 
-### **Obtaining Liquidation Targets**
+## **Obtaining Liquidation Targets**
 
 User accounts in ZeroLend are individual addresses that have interacted with the protocol. These can be either externally owned accounts or contracts. Accounts eligible for liquidation have an HF < 1.&#x20;
 
@@ -36,7 +36,7 @@ You can identify these accounts:
 * **On-Chain:** Monitor protocol events and maintain an up-to-date index of user data. Use `getUserAccountData()` to check an account's current HF.
 * **GraphQL:** Utilize GraphQL to gather user account data and compute health factors using Zerolend utilities or SDKs, as real-time data like HF may not be directly available.
 
-### **Executing a Liquidation Call**
+## **Executing a Liquidation Call**
 
 To liquidate an account, calculate the collateral that can be liquidated:
 
@@ -45,7 +45,7 @@ To liquidate an account, calculate the collateral that can be liquidated:
 3. Optionally, set `debtToCover` to uint(-1) to liquidate the maximum amount permitted.
 4. Calculate the maximum collateral that can be liquidated based on the liquidation bonus and current asset prices.
 
-### **Calculating Profitability vs. Gas Cost**
+## **Calculating Profitability vs. Gas Cost**
 
 To assess the profitability of a liquidation, consider:
 

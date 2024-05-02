@@ -17,9 +17,9 @@ layout:
 
 # Protocol Eligible Incentives
 
-Protocol Incentives are airdrops provided by other protocols to encourage engagement and growth within their ecosystems. ZeroLend, operational across Ethereum, Linea, Blast, zkSync, Manta, and XLayer, benefits from these incentives.&#x20;
+Protocol Incentives are airdrops provided by other protocols to encourage engagement and growth within their ecosystems. ZeroLend, operational across Ethereum, Linea, Blast, zkSync, Manta, and X Layer, benefits from these incentives.&#x20;
 
-ZeroLend is operational across several blockchain networks, including zkSync, Manta, Blast, X Layer, and Linea. Engagement with ZeroLend and its integrated protocols enhances users' likelihood of receiving various incentives.&#x20;
+Engagement with ZeroLend and its integrated protocols enhances users' likelihood of receiving various incentives.&#x20;
 
 As active participants in this thriving DeFi ecosystem, we are eligible for various airdrops and incentives from the protocols and networks we integrate.&#x20;
 
@@ -57,7 +57,7 @@ Our lending and borrowing markets rely on high-fidelity price data from premium 
 | Pyth            | Done               | ✔     |
 | Redstone        | Done               | TBA   |
 
-### Layer 2s&#x20;
+## Layer 2s&#x20;
 
 As a lending market, we scale by deploying our money markets on other chains. ZeroLend is currently the leading lending market on a number of L2s.&#x20;
 
