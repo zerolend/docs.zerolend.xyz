@@ -65,9 +65,9 @@ Step 3: Click on **Stake**, and it will open a modal&#x20;
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051620 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click on Stake Vest&#x20;
+Step 4: Click on **Stake Vest.**
 
-Step 5: Confirm the transactions on your wallet&#x20;
+Step 5: Confirm the transactions on your wallet.
 
 ***
 

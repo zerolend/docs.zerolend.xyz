@@ -44,7 +44,7 @@ Step 1: Go to the rewards tab on app.zerolend.xyz and connect your wallet.
 
 Step 2: Your accumulated ZERO will show under the airdrop section.
 
-Step 3: Click on the Claim button. This will open up a modal where users can either:&#x20;
+Step 3: Click on the **Claim** button. This will open up a modal where users can either:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-06 at 2.28.51 AM copy 2 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,9 +52,9 @@ Step 3: Click on the Claim button. This will open up a modal where users can eit
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051622.jpg" alt=""><figcaption></figcaption></figure>
 
-Step 4a: Click on the claim and stake button&#x20;
+Step 4a: Click on the **claim and stake** button.&#x20;
 
-Step 4b: Confirm transactions on your wallet&#x20;
+Step 4b: Confirm transactions on your wallet.&#x20;
 
 OR&#x20;
 
@@ -62,7 +62,7 @@ OR&#x20;
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051623.jpg" alt=""><figcaption></figcaption></figure>
 
-Step 4a: Click on the claim and vest button.
+Step 4a: Click on the **claim and vest** button.
 
 Step 4b: Confirm transactions on your wallet.
 
@@ -92,11 +92,11 @@ Step 2: Your vest will show up here:
 
 Step 3: Investors have an option to:
 
-Claim - this will claim your upfront tokens in your wallet
+Claim - this will claim your upfront tokens in your wallet.
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051619 (5).jpg" alt=""><figcaption></figcaption></figure>
 
-Step 4a: Click on the claim button.
+Step 4a: Click on the **claim** button.
 
 Step 4b: Confirm transactions on your wallet.
 
@@ -104,7 +104,7 @@ OR&#x20;
 
 Stake - this will stake the rest of the vested tokens that are not yet unlocked.
 
-Step 4a: Click on the Stake Vest button
+Step 4a: Click on the **Stake Vest** button
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051620.jpg" alt=""><figcaption></figcaption></figure>
 
