@@ -61,7 +61,7 @@
 * [Basic Tutorials](tutorials/basic-tutorials/README.md)
   * [Supply Assets](tutorials/basic-tutorials/supply-assets.md)
   * [Borrow Collateral](tutorials/basic-tutorials/borrow-collateral.md)
-  * [Claim $ZERO](tutorials/basic-tutorials/claim-usdzero.md)
+  * [Claim ZERO](tutorials/basic-tutorials/claim-zero.md)
   * [Stake ZERO](tutorials/basic-tutorials/stake-zero.md)
 * [Yield Strategies](tutorials/yield-strategies/README.md)
   * [Passive LRT Strategies](tutorials/yield-strategies/passive-lrt-strategies.md)
