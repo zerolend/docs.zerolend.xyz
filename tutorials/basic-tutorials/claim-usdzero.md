@@ -11,8 +11,6 @@ $ZERO allocation for users who redeem their Zero Gravity points or $earlyZERO to
 
 * 40% of the airdrop allocation will be distributed upfront to users.&#x20;
 * The remaining 60% will have a 6-month vesting schedule - 3 months cliff and 3-months linear vesting
-
-Read our detailed blog to know more about $ZERO airdrop allocation.&#x20;
 {% endhint %}
 
 ZeroLend users and investors can claim the upfront $ZERO tokens and stake / vest the remaining tokens.&#x20;
