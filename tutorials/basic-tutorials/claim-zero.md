@@ -13,7 +13,7 @@ $ZERO allocation for users who redeem their Zero Gravity points or $earlyZERO to
 * The remaining 60% will have a 6-month vesting schedule - 3 months cliff and 3-months linear vesting
 {% endhint %}
 
-ZeroLend users and investors can claim the upfront $ZERO tokens and stake / vest the remaining tokens.&#x20;
+ZeroLend users and investors can claim the upfront $ZERO tokens and stake the remaining tokens.&#x20;
 
 Let's dive into the 2 categories of users and the step-by-step guide for both:&#x20;
 
@@ -38,36 +38,26 @@ Tokens earned are vested with 40% unlock, 3 months cliff, followed by 3 months l
 
 Users can claim upfront tokens and stake vested tokens without waiting for the vesting period to end, and they will receive staking benefits.
 
-#### Here's a simple guide that users can refer to:&#x20;
+#### Here's a simple guide that users can refer to for claiming:&#x20;
 
 Step 1: Go to the rewards tab on app.zerolend.xyz and connect your wallet.
 
 Step 2: Your accumulated ZERO will show under the airdrop section.
 
-Step 3: Click on the **Claim** button. This will open up a modal where users can either:&#x20;
+Step 3: Click on the **Claim** button. This will open up a claim modal.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-06 at 2.28.51 AM copy 2 (2).png" alt=""><figcaption></figcaption></figure>
 
-**Claim and Stake: This will claim your upfront tokens in your wallet and stake the rest of the vested tokens.**&#x20;
+Step 5: After confirming the details on this screen, you can click on the claim ZERO button &#x20;
 
-<figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051622.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/telegram-cloud-photo-size-5-6179343348142291353-y (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Step 4a: Click on the **claim and stake** button.&#x20;
+Step 6: Confirm the transactions on your wallet. &#x20;
 
-Step 4b: Confirm transactions on your wallet.&#x20;
-
-OR&#x20;
-
-**Claim and Vest: This will claim your upfront tokens in your wallet and vest the rest of the vested tokens.**&#x20;
-
-<figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051623.jpg" alt=""><figcaption></figcaption></figure>
-
-Step 4a: Click on the **claim and vest** button.
-
-Step 4b: Confirm transactions on your wallet.
+After claiming, you will receive the claimed ZERO tokens on your wallet and the rest of the vested tokens will be converted into a vest and be visible on the same rewards tab.&#x20;
 
 {% hint style="warning" %}
-[If you fail to claim your airdrop tokens for 30 days from May 06, 2024 (TGE), your tokens will be returned back to the treasury. ](#user-content-fn-1)[^1]
+[If you fail to claim your airdrop tokens for 30 days from May 06, 2024 (TGE), your tokens will be returned to the treasury. ](#user-content-fn-1)[^1]
 {% endhint %}
 
 ***
@@ -92,7 +82,7 @@ Step 2: Your vest will show up here:
 
 Step 3: Investors have an option to:
 
-Claim - this will claim your upfront tokens in your wallet.
+**Claim - this will claim your upfront tokens in your wallet.**
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051619 (5).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -102,12 +92,14 @@ Step 4b: Confirm transactions on your wallet.
 
 OR&#x20;
 
-Stake - this will stake the rest of the vested tokens that are not yet unlocked.
-
-Step 4a: Click on the **Stake Vest** button
+**Stake - this will stake any unclaimed upfront tokens and the rest of the vested tokens that are not yet unlocked.**
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051620.jpg" alt=""><figcaption></figcaption></figure>
 
+Step 4a: Click on the **Stake Vest** button
+
 Step 4b: Confirm transactions on your wallet.
+
+Once you have staked, your staked positions will be visible under the stake page as an NFT.&#x20;
 
 [^1]: 
