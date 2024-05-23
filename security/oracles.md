@@ -48,10 +48,9 @@ The source for these oracles can be found here:[ https://github.com/zerolend/pyt
 
 ## Using Redstone Oracles
 
-RedStone is a multi-chain Oracle service that provides frequently updated, reliable, and diverse data feeds.ZeroLend utilizes price feeds from Redstone Oracles to calculate collateral value and liquidations.\
+RedStone is a multi-chain Oracle service that provides frequently updated, reliable, and diverse data feeds. ZeroLend utilizes price feeds from Redstone Oracles to calculate collateral value and liquidations.
 
-
-RedStone protects all ZeroLend's markets on Manta. You can find the exact contract addresses in RedStone Docs:
+RedStone protects all ZeroLend's markets on Manta, Blast and also provides LRT feeds on ETH mainnet and Linea. You can find the exact contract addresses in RedStone Docs:
 
 {% embed url="https://docs.redstone.finance/docs/smart-contract-devs/price-feeds" %}
 
