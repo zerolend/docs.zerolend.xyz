@@ -46,7 +46,7 @@ layout:
 
 ### Support
 
-* Join the ZeroLend Discord community.
+* Join the [ZeroLend Discord](https://discord.com/invite/zerolend) community.
 
 ### Additional Resources
 
