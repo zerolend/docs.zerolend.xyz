@@ -66,6 +66,7 @@
 * [Yield Strategies](tutorials/yield-strategies/README.md)
   * [Passive LRT Strategies](tutorials/yield-strategies/passive-lrt-strategies.md)
   * [Leverage Exposure](tutorials/yield-strategies/how-to-leverage-yield-farm.md)
+  * [Guidebook: Farm on Linea Market](tutorials/yield-strategies/guidebook-farm-on-linea-market.md)
 
 ## Important Links
 
