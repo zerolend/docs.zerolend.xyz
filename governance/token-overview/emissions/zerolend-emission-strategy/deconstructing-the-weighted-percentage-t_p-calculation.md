@@ -16,12 +16,12 @@ layout:
 
 In ZeroLend's model, T\_p represents the Total or Weighted Percentage, crucial for determining rewards. This metric combines the proportions of dynamic Liquidity Provision (dLP\_p) and single-staked $ZERO (Z\_p) relative to the total USD value of a user's lending deposits. Here's a clearer breakdown:
 
-### **Calculating dLP\_p and Z\_p**&#x20;
+### **Calculating zLP\_p and Z\_p**&#x20;
 
-**dLP\_p Calculation**: Measures the USD value of dLP locked, factoring in the double valuation of $ZERO within LP tokens.
+**zLP\_p Calculation**: Measures the USD value of zLP locked, factoring in the double valuation of $ZERO within LP tokens.
 
 $$
-dLP_p = \frac{dLP}{Deposits}  = \frac{\$\textrm{ZERO}_2 \times 2}{Deposits}
+zLP_p = \frac{zLP}{Deposits}  = \frac{\$\textrm{ZERO}_2 \times 2}{Deposits}
 $$
 
 **Note:** $$\$\textrm{ZERO}_2$$ adjusts with LP token ratios, while $veZERO earnings depend solely on the $ZERO quantity at deposit time.
@@ -35,7 +35,7 @@ $$
 Combining for Total Percentage (T\_p)
 
 $$
-T_p = 4 \times dLP_p+1\times Z_p = 4 \times \frac{\$\textrm{ZERO}_2 \times 2}{Deposits} + 1 \times \frac{\$\textrm{ZERO}_1}{Deposits}
+T_p = 4 \times zLP_p+1\times Z_p = 4 \times \frac{\$\textrm{ZERO}_2 \times 2}{Deposits} + 1 \times \frac{\$\textrm{ZERO}_1}{Deposits}
 $$
 
 and,&#x20;

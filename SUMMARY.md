@@ -40,12 +40,12 @@
   * [Token Distribution](governance/token-overview/token-distribution.md)
   * [Staking](governance/token-overview/staking/README.md)
     * [Single Token Staking](governance/token-overview/staking/single-token-staking.md)
-    * [dLP Staking](governance/token-overview/staking/dlp-staking.md)
+    * [zLP Staking](governance/token-overview/staking/zlp-staking.md)
   * [Emissions](governance/token-overview/emissions/README.md)
     * [Emission Strategy](governance/token-overview/emissions/zerolend-emission-strategy/README.md)
       * [Protocol Power/Weight](governance/token-overview/emissions/zerolend-emission-strategy/protocol-power-weight.md)
       * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
-      * [Construction of dLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
+      * [Construction of zLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
 * [Discussion Forum](https://discuss.zerolend.xyz/)
 
 ## Security

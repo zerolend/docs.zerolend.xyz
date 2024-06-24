@@ -37,7 +37,6 @@ With this model, we aim to foster a community of engaged stakeholders, contribut
 Zerolend introduces a unique ve-model that incorporates both:&#x20;
 
 1. Single Stake $ZERO
-2. dLP $ZERO
+2. zLP $ZERO
 
 This dual approach enables users to engage with the platform through direct token staking or by participating in dynamic liquidity provision.
-
