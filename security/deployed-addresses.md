@@ -6,13 +6,23 @@ description: >-
 
 # Deployed Addresses
 
-## $ZERO
+## ZERO Token
 
 The $ZERO token is native to the Linea blockchain. Users will be able to bridge it via a custom bridge available on [app.zeroled.xyz](https://app.zeroled.xyz/), which will become operational after the Token Generation Event (TGE).
 
 {% hint style="success" %}
 Contract address: [https://lineascan.build/token/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7](https://lineascan.build/token/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7)
 {% endhint %}
+
+| Network             | Address                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Linea               | [0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7](https://lineascan.build/token/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7)                    |
+| Linea (OFT Adapter) | [0x1dad693787c5817ef3102f513025fa6a66039e8e](https://lineascan.build/address/0x1dad693787c5817ef3102f513025fa6a66039e8e)                  |
+| Ethereum (OFT)      | [0x11dCc26d4bDAc03FFa8841f69313C38240FC429e](https://etherscan.io/address/0x11dcc26d4bdac03ffa8841f69313c38240fc429e)                     |
+| Blast (OFT)         | [0x357f93E17FdabEcd3fEFc488a2d27dff8065d00f](https://blastscan.io/address/0x357f93E17FdabEcd3fEFc488a2d27dff8065d00f#code)                |
+| Manta (OFT)         | [0x35a57eFB9b4ae833e9A200bb191ff69420caFa1D](https://pacific-explorer.manta.network/token/0x35a57eFB9b4ae833e9A200bb191ff69420caFa1D)     |
+| zkSync (OFT)        | [0x27d0A2b5316b98088294378692F4EAbfB3222e36](https://explorer.zksync.io/address/0x27d0A2b5316b98088294378692F4EAbfB3222e36#contract)      |
+| X Layer (OFT)       | [0x843D794eD4335b27d02184ca86787C14e6247074](https://www.okx.com/web3/explorer/xlayer/address/0x843D794eD4335b27d02184ca86787C14e6247074) |
 
 ## Core & Periphery Contracts & Pool Contracts
 
