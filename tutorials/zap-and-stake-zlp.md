@@ -14,8 +14,6 @@ layout:
 
 # Zap & Stake zLP
 
-## **Introduction to zLP**
-
 The zLP (ZeroLend Liquidity Provider) functionality allows users to stake their assets into ZeroLend’s liquidity pools easily and efficiently. With the **Zap and Stake functionality**, you can convert ETH into LP tokens and stake them in a single click.
 
 This tutorial will guide you through the process of staking via Zap and provide information on staking your LP tokens directly.
