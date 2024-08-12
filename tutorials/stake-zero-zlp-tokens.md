@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Stake ZERO zLP)
+# Stake ZERO (zLP) Tokens
 
 The zLP (ZeroLend Liquidity Provider) functionality allows users to stake their ZERO/ETH LP.
 

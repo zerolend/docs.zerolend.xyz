@@ -67,7 +67,7 @@
   * [Passive LRT Strategies](tutorials/yield-strategies/passive-lrt-strategies.md)
   * [Leverage Exposure](tutorials/yield-strategies/how-to-leverage-yield-farm.md)
 * [Guidebook: Farm on Linea Market](tutorials/guidebook-farm-on-linea-market.md)
-* [Stake ZERO zLP)](tutorials/stake-zero-zlp.md)
+* [Stake ZERO (zLP) Tokens](tutorials/stake-zero-zlp-tokens.md)
 
 ## Important Links
 
