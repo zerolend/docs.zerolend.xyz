@@ -23,7 +23,7 @@ But before that, let's cover the benefits of zLP staking.
 ## **Benefits of zLP Staking**
 
 * **LXP-L from Linea:** As $ZERO is a whitelisted asset on Linea Surge, users who supply liquidity or stake it is eligible for LXP-L and, therefore, the Linea airdrop.
-* **Daily Revenue:** All revenue from borrowing and lending is distributed to LP stakers daily in $ETH.
+* **Revenue:** All revenue from borrowing and lending is distributed to LP stakers in $ETH.
 * **Voting Power:** Staked LP tokens provide voting power in the ZeroLend ecosystem.
 
 ## **Stake via Zap Functionality**
@@ -31,8 +31,6 @@ But before that, let's cover the benefits of zLP staking.
 The Zap functionality is designed to simplify the staking process by allowing users to stake their ETH directly into ZeroLend LP with just one click.
 
 You just need ETH with this method.
-
-### **Steps to Stake via Zap**
 
 1.  **Go to the Staking Page:**
 
