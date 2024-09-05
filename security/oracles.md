@@ -50,7 +50,7 @@ The source for these oracles can be found here:[ https://github.com/zerolend/pyt
 
 RedStone is a multi-chain Oracle service that provides frequently updated, reliable, and diverse data feeds. ZeroLend utilizes price feeds from Redstone Oracles to calculate collateral value and liquidations.
 
-RedStone protects all ZeroLend's markets on Manta, Blast and also provides LRT feeds on ETH mainnet and Linea. You can find the exact contract addresses in RedStone Docs:
+RedStone protects all ZeroLend's markets on Zircuit, Manta, and Blast and also provides LRT feeds on ETH mainnet and Linea. You can find the exact contract addresses in RedStone Docs:
 
 {% embed url="https://docs.redstone.finance/docs/smart-contract-devs/price-feeds" %}
 
@@ -63,7 +63,7 @@ For $STONE on ZeroLend, RedStone provides oracle price feeds essential for marke
 * Overview:[ $STONE on ZeroLend](https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xec901da9c68e90798bbbb74c11406a32a70652c3\&marketName=proto\_manta\_v3)
 * Oracle Address:[ RedStone Oracle for $STONE](https://pacific-explorer.manta.network/address/0x36c44B353a340fbC5c7a6A0b8C56269CAC6967A3)
 
-$wUSDM&#x20;
+**$wUSDM**&#x20;
 
 RedStone provides $wUSDM price feed for [ZeroLend's Manta Market](https://app.zerolend.xyz/?marketName=proto\_manta\_v3), ensuring reliable and up-to-date pricing information.
 
@@ -77,9 +77,9 @@ RedStone provides $wUSDM price feed for [ZeroLend's Manta Market](https://app.ze
 This page talks about ZeroLend’s API3 Oracle integration.
 
 \
-dAPIs are on-chain data feeds sourced from off-chain first-party oracle nodes owned and operated by API providers themselves. Thanks to the first-party architecture, source transparency is realized, enabling the independent verification of whether an oracle uses multiple data sources and is thus decentralized.&#x20;
+dAPIs are on-chain data feeds sourced from off-chain first-party Oracle nodes owned and operated by API providers. Thanks to the first-party architecture, source transparency is realized, enabling the independent verification of whether an oracle uses multiple data sources and is thus decentralized.&#x20;
 
-dAPIs operate in a familiar push model, meaning the price is updated on-chain according to pre-determined oracle specifications. These are 0.25%, 0.5%, 1% and 5% update thresholds, with all oracles having a 24hr heartbeat.
+dAPIs operate in a familiar push model, meaning the price is updated on-chain according to pre-determined Oracle specifications. These are 0.25%, 0.5%, 1% and 5% update thresholds, with all Oracles having a 24hr heartbeat.
 
 {% hint style="info" %}
 You can learn more about dAPIs in the API3 documentation: [https://docs.api3.org/reference/dapis/understand/](https://docs.api3.org/reference/dapis/understand/)
