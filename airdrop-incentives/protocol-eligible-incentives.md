@@ -35,12 +35,12 @@ ZeroLend provides dedicated markets for LRTs like Renzo. Users can supply their 
 
 | LRT Partners   | Token  | Integration Status |
 | -------------- | ------ | ------------------ |
-| Kelp DAO       | TBA    | Done               |
+| Kelp DAO       | ✔      | Done               |
 | Renzo          | ✔      | Done               |
 | ether.fi       | ✔      | Done               |
-| Puffer Finance | TBA    | Done               |
-| Swell          | TBA    | Pending            |
-| Bedrock        | TBA    | Pending            |
+| Puffer Finance | ✔      | Done               |
+| Swell          | ✔      | Done               |
+| Bedrock        | ✔      | Done               |
 
 {% hint style="info" %}
 Read further about different yield strategies with LRTs [here](broken-reference).&#x20;
@@ -64,6 +64,6 @@ As a lending market, we scale by deploying our money markets on other chains. Ze
 | Chain          | Deployment | Token |
 | -------------- | ---------- | ----- |
 | Linea          | Done       | TBA   |
-| zkSync         | TBA        | TBA   |
-| Blast Network  | Done       | TBA   |
+| zkSync         | Done       | ✔     |
+| Blast Network  | Done       | ✔     |
 | Manta Network  | Done       | ✔     |
