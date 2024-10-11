@@ -1,7 +1,7 @@
 ---
 description: >-
   This page contains all our deployed addresses on zkSync, Manta, Linea, Blast,
-  Ethereum mainnet and X Layer.
+  Ethereum mainnet, Base and X Layer.
 ---
 
 # Deployed Addresses
@@ -225,6 +225,36 @@ These are the addresses of the ZeroLend protocol on our supported chains.
 | WalletBalanceProvider                   | [0xaa999eA356F925BF1e856038c5D182Ae5E8A4973](https://www.okx.com/explorer/xlayer/address/0xaa999eA356F925BF1e856038c5D182Ae5E8A4973) |
 | WrappedTokenGatewayV3                   | [0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E](https://www.okx.com/explorer/xlayer/address/0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E) |
 {% endtab %}
+
+{% tab title="Base" %}
+| Contract Name                                        | Contract Name                                                                                                         |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| AToken-base-mainnet                                  | [0xE230cF9Cee7b299F69778EF950A61de0dE520ba7](https://basescan.org/address/0xe230cf9cee7b299f69778ef950a61de0de520ba7) |
+| ACLManager-base-mainnet                              | [0x1cc993f2C8b6FbC43a9bafd2A44398E739733385](https://basescan.org/address/0x1cc993f2C8b6FbC43a9bafd2A44398E739733385) |
+| AaveOracle-base-mainnet                              | [0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c](https://basescan.org/address/0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c) |
+| TreasuryProxy                                        | [0x6F5Ae60d89dbbc4EeD4B08d08A68dD5679Ac61B4](https://basescan.org/address/0x6F5Ae60d89dbbc4EeD4B08d08A68dD5679Ac61B4) |
+| EmissionManager-base-mainnet                         | [0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E](https://basescan.org/address/0x0f9bfa294bE6e3CA8c39221Bb5DFB88032C8936E) |
+| IncentivesProxy-base-mainnet                         | [0x73a7a4B40f3FE11e0BcaB5538c75D3B984082CAE](https://basescan.org/address/0x73a7a4B40f3FE11e0BcaB5538c75D3B984082CAE) |
+| IncentivesV2-Implementation                          | [0xaa999eA356F925BF1e856038c5D182Ae5E8A4973](https://basescan.org/address/0xaa999eA356F925BF1e856038c5D182Ae5E8A4973) |
+| ReserveStrategy-rateStrategyStableOne-base-mainnet   | [0x65fc5280E838751eDafB6f171391FE0AC5C1d05a](https://basescan.org/address/0x65fc5280E838751eDafB6f171391FE0AC5C1d05a) |
+| ReserveStrategy-rateStrategyStableTwo-base-mainnet   | [0x795B70FD08A538598E19a927f5400FEbFaEb92C7](https://basescan.org/address/0x795B70FD08A538598E19a927f5400FEbFaEb92C7) |
+| ReserveStrategy-rateStrategyVolatileOne-base-mainnet | [0xa32Eb787F2A3DC1F2c2da0E5d8caE7Ff74E6fD32](https://basescan.org/address/0xa32Eb787F2A3DC1F2c2da0E5d8caE7Ff74E6fD32) |
+| ReservesSetupHelper-base-mainnet                     | [0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26](https://basescan.org/address/0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26) |
+| StableDebtToken-base-mainnet                         | [0x5d50bE703836C330Fc2d147a631CDd7bb8D7171c](https://basescan.org/address/0x5d50bE703836C330Fc2d147a631CDd7bb8D7171c) |
+| Pool-Implementation-base-mainnet                     | [0x80102a3cbAcADa39560555340e1bC567B83C3A80](https://basescan.org/address/0x80102a3cbAcADa39560555340e1bC567B83C3A80) |
+| Pool-Proxy-base-mainnet                              | [0x766f21277087E18967c1b10bF602d8Fe56d0c671](https://basescan.org/address/0x766f21277087E18967c1b10bF602d8Fe56d0c671) |
+| PoolAddressesProvider-base-mainnet                   | [0x5213ab3997a596c75Ac6ebF81f8aEb9cf9A31007](https://basescan.org/address/0x5213ab3997a596c75Ac6ebF81f8aEb9cf9A31007) |
+| PoolConfigurator-Implementation                      | [0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5](https://basescan.org/address/0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5) |
+| PoolConfigurator-Proxy-base-mainnet                  | [0xB40e21D5cD8E9E192B0da3107883f8b0f4e4e6E3](https://basescan.org/address/0xB40e21D5cD8E9E192B0da3107883f8b0f4e4e6E3) |
+| PoolDataProvider-base-mainnet                        | [0xA754b2f1535287957933db6e2AEE2b2FE6f38588](https://basescan.org/address/0xA754b2f1535287957933db6e2AEE2b2FE6f38588) |
+| WalletBalanceProvider-base-mainnet                   | [0x6eA9d99c6653DF987bDEa11ffcd56DFB4B5d38b4](https://basescan.org/address/0x6eA9d99c6653DF987bDEa11ffcd56DFB4B5d38b4) |
+| WrappedGateway-base-mainnet                          | [0x11CCDcFb19151FEb086ee6F1f62bfA0940C85612](https://basescan.org/address/0x11CCDcFb19151FEb086ee6F1f62bfA0940C85612) |
+| UiIncentiveDataProviderV3-base-mainnet               | [0xa1e6BcDab01B9d7De83647d1Bbd4113c6c2B4e0d](https://basescan.org/address/0xa1e6BcDab01B9d7De83647d1Bbd4113c6c2B4e0d) |
+| UiPoolDataProviderV3-base-mainnet                    | [0x0A1198DDb5247a283F76077Bb1E45e5858ee100b](https://basescan.org/address/0x0A1198DDb5247a283F76077Bb1E45e5858ee100b) |
+| VariableDebtToken-base-mainnet                       | [0xCbDc0aeD7CDf2472784068abEf23a902CafABb98](https://basescan.org/address/0xCbDc0aeD7CDf2472784068abEf23a902CafABb98) |
+
+
+{% endtab %}
 {% endtabs %}
 
 ## Libraries
@@ -311,6 +341,21 @@ Libraries are where most of our lending pool's business logic exists.&#x20;
 | LiquidationLogic  | [0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF](https://www.okx.com/explorer/xlayer/address/0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF) |
 | PoolLogic         | [0x9660b39d0e38BE0f7E09cc6C516bd335746262ee](https://www.okx.com/explorer/xlayer/address/0x9660b39d0e38BE0f7E09cc6C516bd335746262ee) |
 | SupplyLogic       | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://www.okx.com/explorer/xlayer/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
+{% endtab %}
+
+{% tab title="Base" %}
+| Contract Name     | Contract Address                                                                                                      |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| BorrowLogic       | [0xb8634e0a320d0f4861062514a63B659E52A87E21](https://basescan.org/address/0xb8634e0a320d0f4861062514a63B659E52A87E21) |
+| BridgeLogic       | [0xFD856E1a33225B86f70D686f9280435E3fF75FCF](https://basescan.org/address/0xFD856E1a33225B86f70D686f9280435E3fF75FCF) |
+| ConfiguratorLogic | [0xb47d417F55080081c6Fad95C3A470fe98A97e603](https://basescan.org/address/0xb47d417F55080081c6Fad95C3A470fe98A97e603) |
+| EModeLogic        | [0xb2178109A414C3a869E5104283Fcf1a18923D0B8](https://basescan.org/address/0xb2178109A414C3a869E5104283Fcf1a18923D0B8) |
+| SupplyLogic       | [0x3365D8691cD54313Fa3dF201BB33Bd1eC37B9F9D](https://basescan.org/address/0x3365D8691cD54313Fa3dF201BB33Bd1eC37B9F9D) |
+| FlashLoanLogic    | [0x91900E4ae0c7e8bFf1b537B10f7AD093b9F9Ed85](https://basescan.org/address/0x91900E4ae0c7e8bFf1b537B10f7AD093b9F9Ed85) |
+| LiquidationLogic  | [0x86B07C01b10545c7e093521cdeacf90D909db5a1](https://basescan.org/address/0x86B07C01b10545c7e093521cdeacf90D909db5a1) |
+| PoolLogic         | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://basescan.org/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -442,5 +487,33 @@ These are the addresses of ZeroLend's supported debt tokens on various chains.
 | WBTC-VariableDebtToken-x-layer | [0x0c87Ca5de4b9313D15337CDC0dbDE5f835558bDE](https://www.okx.com/explorer/xlayer/address/0x0c87Ca5de4b9313D15337CDC0dbDE5f835558bDE) |
 | WETH-VariableDebtToken-x-layer | [0x0D78fac08b5DC929219ed534dF28ce3616d8b9de](https://www.okx.com/explorer/xlayer/address/0x0D78fac08b5DC929219ed534dF28ce3616d8b9de) |
 | WOKB-VariableDebtToken-x-layer | 0x099963068180E0f616A0040f31144b4F6218A1FC                                                                                           |
+{% endtab %}
+
+{% tab title="Base" %}
+| Contract Name                               | Contract Address                                                                                                      |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| AERO-AToken-base-mainnet                    | [0x3c2b86d6308c24632Bb8716ED013567C952b53AE](https://basescan.org/address/0x3c2b86d6308c24632Bb8716ED013567C952b53AE) |
+| AERO-StableDebtToken-base-mainnet           | [0xE37b9Dd1cDF9F411A9F6BB8D0c1Fa2af6B960A47](https://basescan.org/address/0xE37b9Dd1cDF9F411A9F6BB8D0c1Fa2af6B960A47) |
+| AERO-VariableDebtToken-base-mainnet         | [0x98Ef767a6184323Bf2788a0936706432698D3400](https://basescan.org/address/0x98Ef767a6184323Bf2788a0936706432698D3400) |
+| AEROUSDC\_LP-AToken-base-mainnet            | [0xB6ccD85f92FB9a8bBC99b55091855714aAeEBFEE](https://basescan.org/address/0xB6ccD85f92FB9a8bBC99b55091855714aAeEBFEE) |
+| AEROUSDC\_LP-StableDebtToken-base-mainnet   | [0xCD18e7d74d8aE9228c3405149725d7813363fcde](https://basescan.org/address/0xCD18e7d74d8aE9228c3405149725d7813363fcde) |
+| AEROUSDC\_LP-VariableDebtToken-base-mainnet | [0x80E898E5AD81940fE094AC3159b08a3494198570](https://basescan.org/address/0x80E898E5AD81940fE094AC3159b08a3494198570) |
+| USDC-AToken-base-mainnet                    | [0xd09600475435CaB0E40DabDb161Fb5A3311EFcB3](https://basescan.org/address/0xd09600475435CaB0E40DabDb161Fb5A3311EFcB3) |
+| USDC-StableDebtToken-base-mainnet           | [0x1d32fD6F0dDa3F3ef74E5BC3Da3166FEBdd698B5](https://basescan.org/address/0x1d32fD6F0dDa3F3ef74E5BC3Da3166FEBdd698B5) |
+| USDC-VariableDebtToken-base-mainnet         | [0xA397391B718f3c7F21c63E8bEb09b66607419C38](https://basescan.org/address/0xA397391B718f3c7F21c63E8bEb09b66607419C38) |
+| USDz-AToken-base-mainnet                    | [0x2e1f66d89a95a88AFe594f6ED936B1ca76Efb74C](https://basescan.org/address/0x2e1f66d89a95a88AFe594f6ED936B1ca76Efb74C) |
+| USDz-StableDebtToken-base-mainnet           | [0x6017B28d5b8a46474673aD7a4914318Ad5E6dB5E](https://basescan.org/address/0x6017B28d5b8a46474673aD7a4914318Ad5E6dB5E) |
+| USDz-VariableDebtToken-base-mainnet         | [0x5E4043a302a827bfA4cb51Fa18C66109683D08eE](https://basescan.org/address/0x5E4043a302a827bfA4cb51Fa18C66109683D08eE) |
+| WETH-AToken-base-mainnet                    | [0x4677201DbB575D485ad69E5c5B1e7e7888c3Ab29](https://basescan.org/address/0x4677201DbB575D485ad69E5c5B1e7e7888c3Ab29) |
+| WETH-StableDebtToken-base-mainnet           | [0xb375197dC09E06382A05bE306df6a551F08a3B7B](https://basescan.org/address/0xb375197dC09E06382A05bE306df6a551F08a3B7B) |
+| WETH-VariableDebtToken-base-mainnet         | [0xfec889b48d8cb51BFd988bF211d4CfE854AF085C](https://basescan.org/address/0xfec889b48d8cb51BFd988bF211d4CfE854AF085C) |
+| cbBTC-AToken-base-mainnet                   | [0x0a9de6A7f62754C94b8C98D2e19786CE16E52E2F](https://basescan.org/address/0x0a9de6A7f62754C94b8C98D2e19786CE16E52E2F) |
+| cbBTC-StableDebtToken-base-mainnet          | [0x421b63D457466Bb1376Bc5b9d4832790C796FB6a](https://basescan.org/address/0x421b63D457466Bb1376Bc5b9d4832790C796FB6a) |
+| cbBTC-VariableDebtToken-base-mainnet        | [0xf71DAd0D9113Ebf3021fDfE2f9d69A77e8ea2bF7](https://basescan.org/address/0xf71DAd0D9113Ebf3021fDfE2f9d69A77e8ea2bF7) |
+| cbETH-AToken-base-mainnet                   | [0x033F5d67d4262D53C300A90c01cC2686AD08E3d4](https://basescan.org/address/0x033F5d67d4262D53C300A90c01cC2686AD08E3d4) |
+| cbETH-StableDebtToken-base-mainnet          | [0x3b225e017180fd328598d8822D932837716C4802](https://basescan.org/address/0x3b225e017180fd328598d8822D932837716C4802) |
+| cbETH-VariableDebtToken-base-mainnet        | [0x316a441f8aD92153807124bB617FAe60dBdDD1c5](https://basescan.org/address/0x316a441f8aD92153807124bB617FAe60dBdDD1c5) |
+
+
 {% endtab %}
 {% endtabs %}

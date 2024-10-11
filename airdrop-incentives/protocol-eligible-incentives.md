@@ -39,8 +39,8 @@ ZeroLend provides dedicated markets for LRTs like Renzo. Users can supply their 
 | Renzo          | ✔      | Done               |
 | ether.fi       | ✔      | Done               |
 | Puffer Finance | ✔      | Done               |
-| Swell          | ✔      | Done               |
-| Bedrock        | ✔      | Done               |
+| Swell          | ✔      | TBA                |
+| Bedrock        | ✔      | TBA                |
 
 {% hint style="info" %}
 Read further about different yield strategies with LRTs [here](broken-reference).&#x20;
