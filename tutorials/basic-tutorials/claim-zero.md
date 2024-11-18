@@ -10,7 +10,7 @@ description: >-
 $ZERO allocation for users who redeem their Zero Gravity points or $earlyZERO tokens for $ZERO follows the same vesting schedule:&#x20;
 
 * 40% of the airdrop allocation will be distributed upfront to users.&#x20;
-* The remaining 60% will have a 6-month vesting schedule - 3 months cliff and 3-months linear vesting
+* The remaining 60% will have a 6-month cliff and 3-month linear vesting schedule
 {% endhint %}
 
 ZeroLend users and investors can claim the upfront $ZERO tokens and stake the remaining tokens.&#x20;
@@ -92,7 +92,7 @@ Step 4b: Confirm transactions on your wallet.
 
 OR&#x20;
 
-**Stake - this will stake any unclaimed upfront tokens and the rest of the vested tokens that are not yet unlocked.**
+**Stake—This will stake any unclaimed upfront tokens and the rest of the vested tokens that have yet to be unlocked.**
 
 <figure><img src="../../.gitbook/assets/telegram-cloud-document-5-6179343347686051620.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -100,6 +100,6 @@ Step 4a: Click on the **Stake Vest** button
 
 Step 4b: Confirm transactions on your wallet.
 
-Once you have staked, your staked positions will be visible under the stake page as an NFT.&#x20;
+Once you staked, your positions will be visible under the stake page as an NFT.&#x20;
 
 [^1]: 

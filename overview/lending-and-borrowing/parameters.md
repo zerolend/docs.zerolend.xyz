@@ -6,19 +6,117 @@ description: This page talks about important parameters related to DeFi Lending/
 
 ### **Max LTV (Loan to Value)**
 
-Maximum LTV indicates the maximum amount you can borrow against your deposited collateral. For instance, $WETH has an 80% LTV on ZeroLend's Linea Market. Here, you can borrow 0.8 $WETH for every $WETH you deposit as collateral on ZeroLend.&#x20;
+The Loan to Value ratio represents the maximum amount you can borrow against your collateral. It's expressed as a percentage of the collateral's value.
+
+For instance, $WETH has an 80% LTV on ZeroLend's Linea Market. Here, you can borrow 0.8 $WETH for every $WETH you deposit as collateral on ZeroLend.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
+#### How LTV Works:
+
+* If an asset has an LTV of 75%, you can borrow up to 75% of your collateral's value
+* Example: With $10,000 worth of ETH as collateral at 75% LTV:
+  * Maximum borrowing capacity = $10,000 × 75% = $7,500
+* Different assets have different LTV ratios based on their volatility and risk profile
+* Stablecoins typically have higher LTVs than volatile assets
+
+#### Formula
+
+$$
+LTV = (Borrowed Amount / Collateral Value) × 100%
+$$
+
+### Health Factor
+
+A key risk metric that represents the safety of your borrowed position relative to your collateral value and liquidation threshold.
+
+<figure><img src="../../.gitbook/assets/Health Factor Documentation.png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### **Formula**
+
+$$
+Health Factor = (Collateral Value × Liquidation Threshold) / Total Borrowed Value
+$$
+
+#### Health Factor Interpretation:
+
+* Health Factor > 1: Position is safe
+* Health Factor = 1: Position at liquidation point
+* Health Factor < 1: Position can be liquidated
+
+#### Example Health Factor Calculation:
+
+_Scenario_:
+
+* Collateral: $10,000 ETH
+* Liquidation Threshold: 82%
+* Borrowed: $7,000 USDC
+
+$$
+Health Factor = ($10,000 × 82%) / $7,000 = 1.17
+$$
+
+###
+
+### Utilization Rate
+
+Measures how much available capital in a lending pool is currently being borrowed.
+
+<figure><img src="../../.gitbook/assets/Utilisation.png" alt=""><figcaption></figcaption></figure>
+
+$$
+Utilization Rate = (Total Borrowed / Total Available) × 100%'
+$$
+
+### Impact on Protocol:
+
+* Influences interest rates dynamically
+* Higher utilization → Higher interest rates
+* Optimal utilization target: 80%
+
+{% hint style="info" %}
+The interest rate model adjusts to maintain balanced utilization
+{% endhint %}
+
+#### Interest Rate Correlation:
+
+* Low utilization (<80%): Gradual APY increase
+* High utilization (>80%): Steep APY increase to encourage repayments
+* Maximum utilization (>95%): Emergency APY levels
+
 ### **Liquidation Threshold**
 
-The liquidation threshold is the value at which your loan becomes undercollateralized and is at risk of liquidation. On ZeroLend's Linea Market, the liquidation threshold for $WETH loans is 82.50%. This means if your $WETH debt value becomes worth 82.50% of your deposited collateral, the protocol can sell the collateral to pay back the loan.
+The Liquidation Threshold is the percentage at which your position becomes eligible for liquidation. It's always higher than the LTV to provide a safety buffer.
+
+For example, on ZeroLend's Linea Market, the liquidation threshold for $WETH loans is 82.50%. If your $WETH debt value becomes worth 82.50% of your deposited collateral, the protocol can sell the collateral to repay the loan.
+
+
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
+#### Key Points:
+
+* Represents the maximum ratio of borrowed amount to collateral before liquidation
+* Creates a safety margin between maximum borrowing capacity and liquidation point
+* Example: If ETH has:
+  * LTV: 75%
+  * Liquidation Threshold: 82% This creates a 7% buffer zone between maximum borrowing and liquidation
+
+#### Safety Buffer Calculation
+
+$$
+Safety Buffer = Liquidation Threshold - LTV
+$$
+
+
+
+
+
 ### **Liquidation Penalty**
 
-&#x20;If your deposited collateral is liquidated, a liquidation penalty will be added to your loan amount. If you borrow a loan on ZeroLend and your collateral is liquidated, you pay a 5% liquidation penalty.&#x20;
+A fee charged during liquidation events is added to the amount that must be repaid.
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
