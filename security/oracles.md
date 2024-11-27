@@ -40,7 +40,7 @@ ZeroLed uses Pyth for major protocol operations:&#x20;
 
 ### Deployments
 
-ZeroLend has also created Chainlink interfaces for Pyth Network. It helps us seamlessly integrate the robustness of Chainlink's oracle infrastructure with Pyth's real-time price data, ensuring a secure and reliable lending ecosystem for our users.
+ZeroLend has also created Chainlink interfaces for Pyth Network. It helps us seamlessly integrate the robustness of Chainlink's Oracle infrastructure with Pyth's real-time price data, ensuring a secure and reliable lending ecosystem for our users.
 
 The source for these oracles can be found here:[ https://github.com/zerolend/pyth-oracles](https://github.com/zerolend/pyth-oracles)
 
@@ -60,14 +60,14 @@ RedStone protects all ZeroLend's markets on Zircuit, Manta, and Blast and also p
 
 For $STONE on ZeroLend, RedStone provides oracle price feeds essential for market operations.
 
-* Overview:[ $STONE on ZeroLend](https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xec901da9c68e90798bbbb74c11406a32a70652c3\&marketName=proto\_manta\_v3)
+* Overview:[ $STONE on ZeroLend](https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xec901da9c68e90798bbbb74c11406a32a70652c3\&marketName=proto_manta_v3)
 * Oracle Address:[ RedStone Oracle for $STONE](https://pacific-explorer.manta.network/address/0x36c44B353a340fbC5c7a6A0b8C56269CAC6967A3)
 
 **$wUSDM**&#x20;
 
-RedStone provides $wUSDM price feed for [ZeroLend's Manta Market](https://app.zerolend.xyz/?marketName=proto\_manta\_v3), ensuring reliable and up-to-date pricing information.
+RedStone provides $wUSDM price feed for [ZeroLend's Manta Market](https://app.zerolend.xyz/?marketName=proto_manta_v3), ensuring reliable and up-to-date pricing information.
 
-* Overview:[ $wUSDM on ZeroLend](https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xbdad407f77f44f7da6684b416b1951eca461fb07\&marketName=proto\_manta\_v3)
+* Overview:[ $wUSDM on ZeroLend](https://app.zerolend.xyz/reserve-overview/?underlyingAsset=0xbdad407f77f44f7da6684b416b1951eca461fb07\&marketName=proto_manta_v3)
 * Oracle address:[ RedStone Oracle for $wUSDM](https://pacific-explorer.manta.network/address/0x06D3ddB240A0848FF6d6952742fe814306F86356)
 
 ***
@@ -90,3 +90,26 @@ You can learn more about dAPIs in the API3 documentation: [https://docs.api3.org
 API3 provides the following dAPIs for Zerolend to operate the correlating markets on the respective chain.
 
 <table><thead><tr><th width="266">Data feed </th><th>Chain</th></tr></thead><tbody><tr><td>DAI/USD</td><td>X Layer </td></tr><tr><td>USDT/USD</td><td>X Layer </td></tr><tr><td>USDC/USD</td><td>X Layer </td></tr><tr><td>BTC/USD</td><td>X Layer </td></tr><tr><td>ETH/USD</td><td>X Layer</td></tr><tr><td>OKB/USD</td><td>X Layer </td></tr></tbody></table>
+
+***
+
+## Using ChainLink Oracles
+
+ZeroLend utilizes Chainlink oracles across various networks, including Base, Linea, and Ethereum Mainnet, for accurate and decentralized asset price feeds.&#x20;
+
+**Why Chainlink?**
+
+Chainlink's decentralized oracle network ensures:
+
+* Reliable and tamper-proof data.
+* Seamless integration with smart contracts.
+* Support for multi-chain operations is essential for ZeroLend's expanding ecosystem.
+
+**Referencing Chainlink Developer Resources**
+
+For developers, detailed documentation on Chainlink integration can be found here:
+
+* [Chainlink GitHub Documentation](https://github.com/smartcontractkit/documentation?tab=readme-ov-file#referencing-chainlink-documentation)
+* [Chainlink Quick Links](https://docs.chain.link/builders-quick-links)
+
+These resources provide guidance on fetching on-chain data, deploying price feeds, and testing integrations.
