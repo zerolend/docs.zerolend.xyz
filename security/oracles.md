@@ -14,7 +14,7 @@ ZeroLend uses three Oracle providers to determine price feeds for various assets
 
 * [Pyth Network](oracles.md#using-pyth-oracles)
 * [Redstone](oracles.md#using-redstone-oracles)
-* Chainlink
+* [Chainlink](oracles.md#using-chainlink-oracles)
 * [API3](oracles.md#api3-oracles)
 
 ## Using PYTH Oracles
@@ -109,6 +109,7 @@ Chainlink's decentralized oracle network ensures:
 
 For developers, detailed documentation on Chainlink integration can be found here:
 
+* [Chainlink Data Feeds](https://docs.chain.link/data-feeds)
 * [Chainlink GitHub Documentation](https://github.com/smartcontractkit/documentation?tab=readme-ov-file#referencing-chainlink-documentation)
 * [Chainlink Quick Links](https://docs.chain.link/builders-quick-links)
 
