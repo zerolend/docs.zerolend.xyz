@@ -261,7 +261,6 @@ These are the addresses of the ZeroLend protocol on our supported chains.
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pool address provider | [0xe3c3c5ead58fc2bed4e577e38985b8f7f1ddff00](https://etherscan.io/address/0xe3c3c5ead58fc2bed4e577e38985b8f7f1ddff00)                                     |
 | Rewards Controller    | [0xbc2FDC58E3E06D265B46E32771442b7f5098725b#readProxyContract](https://etherscan.io/address/0xbc2FDC58E3E06D265B46E32771442b7f5098725b#readProxyContract) |
-|                       |                                                                                                                                                           |
 
 
 {% endtab %}
