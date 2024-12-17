@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Token Utility
 
 The ZeroLend ecosystem is designed to create value for token holders and stakers. Here are some of the utilities of the ZERO token. \

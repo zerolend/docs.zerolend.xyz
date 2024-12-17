@@ -1,5 +1,6 @@
 ---
 description: This page discusses ZeroLend’s credit delegation feature.
+hidden: true
 ---
 
 # Credit Delegation

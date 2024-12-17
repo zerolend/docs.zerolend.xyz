@@ -14,18 +14,13 @@ Borrow/supply caps are vital for minimizing bad debt when collateral value drops
 
 ## Borrow Caps
 
-Borrow caps define the maximum amount of an asset users can borrow on ZeroLend. It prevents excessive borrowing, especially during volatile market conditions, to avoid the risk of insolvency.
-
-Example: If the borrowing cap for a particular asset is set at 500 units and the total borrowed amount reaches 450 units, borrowers cannot initiate new borrowings for that asset.
+Borrow caps limit the maximum amount of each asset that can be borrowed, protecting against over-leverage during market volatility. For instance, if a cap is 500 units and 450 are borrowed, new borrowing is halted at 500 units.
 
 ## Supply Caps
 
-Supply caps define the maximum amount of an asset deposited into ZeroLend. It limits the protocol's exposure to riskier assets and prevents potential issues arising from excessive deposits.
+Supply caps limit the maximum deposit for each asset, reducing exposure to riskier assets. For example, with a 1,000-unit cap, users can’t deposit beyond this threshold.
 
-\
-Example: If the supply cap for a specific asset is set at 1,000 units and the current deposited amount reaches 900 units, users can no longer deposit that asset.
-
-> Please note that both supply and borrow caps are optional parameters.
+> Default caps are 0, indicating no restrictions, and are adjusted based on liquidity and total asset volume within the protocol.
 
 ## Setting Caps
 

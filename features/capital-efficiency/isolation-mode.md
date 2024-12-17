@@ -4,21 +4,15 @@ description: This page discusses Isolation mode, ZeroLend’s risk management fe
 
 # Isolation Mode
 
-Isolation Mode is a risk management feature that limits the risk of volatile assets used as collateral. In our evaluation process, if an asset is identified as high risk, we activate Isolation Mode upon listing.
+Isolation Mode limits risk when volatile assets are used as collateral on ZeroLend. Assets identified as high risk enter Isolation Mode upon listing, restricting borrowing to specific stablecoins and enforcing a debt ceiling—the maximum USD amount that can be borrowed against the asset, precise to two decimal places.
 
-When an asset is listed on ZeroLend under ‘Isolation Mode,’ you can only borrow permitted stablecoins against it. Once an asset is successfully placed in the isolation mode, borrowing capabilities are limited to a specified debt ceiling. This ceiling is the maximum USD amount that can be borrowed against the respective asset as collateral, with precision up to two decimals.
+### **Supplying in Isolation Mode**
 
-The debt ceiling and limited assets to borrow against isolated assets prevent users from overborrowing and thus combat market risks.&#x20;
+Users can supply isolated assets for yield, but these assets cannot serve as collateral if other collateral-enabled assets are in the account.
 
-## Supplying in Isolated Mode
+### **Borrowing in Isolation Mode**
 
-When supplying an isolated asset, users with other collateral-enabled assets can lend it for yield. However, the isolated asset cannot be utilized as collateral in this scenario.
-
-While users can contribute isolated assets to the pool for yield generation, they are restricted from leveraging these assets as collateral within the protocol.
-
-## Borrowing in Isolated Mode
-
-Users can only use a specific isolated asset as collateral in isolated mode. If you have enabled collateralization for an isolated asset under the isolation mode, you cannot enable another asset as collateral until it is enabled as collateral.
+If an isolated asset is used as collateral, no additional assets can be enabled as collateral until isolation is removed, ensuring borrowing limits are maintained within the protocol's risk parameters.
 
 ## **How Can I Enter Isolation Mode?**&#x20;
 

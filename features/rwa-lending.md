@@ -14,17 +14,26 @@ According to the Boston Consulting Group, the RWA market will grow from $1.5 tri
 
 ## RWA Lending on ZeroLend&#x20;
 
-RWAs can be used to lend and borrow on money markets like ZeroLend. To help users leverage the growing RWA narrative, ZeroLend offers RWA lending/borrowing. We support RWA assets like $wUSDM on our [Manta Market](https://app.zerolend.xyz/?marketName=proto\_manta\_v3).&#x20;
+RWAs can be used to lend and borrow on money markets like ZeroLend. To help users leverage the growing RWA narrative, ZeroLend offers RWA lending/borrowing. We support RWA assets like $wUSDM on our [Manta Market](https://app.zerolend.xyz/?marketName=proto_manta_v3).&#x20;
+
+### Market Potential
+
+* RWA market is projected to grow from $1.5T (2024) to $16T (2030)
+* Solves DeFi over-collateralization challenges
+* Enables tokenization of traditional assets (real estate, bonds, stocks)
+* Provides accessible financing options for businesses and institutions
 
 <figure><img src="../.gitbook/assets/ZL Doc - Tokenization process.png" alt=""><figcaption></figcaption></figure>
 
 
 
-RWA lending has three major advantages:
+#### RWA lending has three major advantages:
 
 * **Growth catalyst for developing countries:** RWA-based loans are crucial in empowering businesses in developing economies like Kenya, Nigeria, and Uganda to underscore the potential for financial inclusion.&#x20;
 * **On-chain process and better repayment terms:** RWA lending also eliminates the bureaucratic processes of traditional banks, offering the company a favorable repayment schedule.&#x20;
 * **Less collateral required for loans:** In RWA lending, you can offer collateral that may be objectively valued at less than the borrowed amount. For example, a company seeking a $7 million loan might lack sufficient collateral for such a sizable loan. Through RWA lending, they can secure the necessary funds with collateral valued at $4 million.&#x20;
+
+
 
 ## How is RWA solving the over-collateralization problem in DeFi?  &#x20;
 

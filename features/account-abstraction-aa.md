@@ -2,6 +2,7 @@
 description: >-
   This page will discuss Account Abstraction and how it is integrated into the
   ZeroLend protocol to enhance user experience.
+hidden: true
 ---
 
 # Account Abstraction (AA)
@@ -59,7 +60,7 @@ ZeroLend harnesses the power of zkSync Paymasters in two key ways:
 
 1. #### **Sponsoring Gas Fees:**&#x20;
 
-ZeroLend utilizes the**`validatePaymasterOp(UserOperation op)`**method of the zkSync Paymaster contract to examine a user's operation. It helps us determine whether the user's transaction is valid so we can cover the associated gas fees.
+ZeroLend utilizes th&#x65;**`validatePaymasterOp(UserOperation op)`**&#x6D;ethod of the zkSync Paymaster contract to examine a user's operation. It helps us determine whether the user's transaction is valid so we can cover the associated gas fees.
 
 {% hint style="info" %}
 &#x20;ZeroLend sponsors the gas fees for users with transactions above $5000.
@@ -96,7 +97,7 @@ ZeroLend will support biometric authentication by incorporating fingerprint reco
 > Anytime you need to sign a transaction, you’ll just have to enter your biometrics to complete the transaction.
 
 {% hint style="info" %}
-ZeroLend will implement a secure enclave and social logins in 2024.
+ZeroLend will implement a secure enclave and social logins in 2025.
 {% endhint %}
 
 ***
@@ -105,18 +106,18 @@ ZeroLend will implement a secure enclave and social logins in 2024.
 
 <figure><img src="../.gitbook/assets/ZL Doc - Delegated Transactions.png" alt=""><figcaption></figcaption></figure>
 
-Collateral monitoring is a challenge in DeFi lending. Managing collateral and loans on platforms such as Compound requires users to continuously monitor and adjust collateral deposits to prevent losses. If the price of your deposited collateral drops below a certain threshold, it gets liquidated. This process can be demanding and stressful for users.
+### Collateral Management via Delegated Transactions
 
-ZeroLend abstracts away these challenges. With Zerolend, you receive an automated and secure collateral management solution using account abstraction and delegated transactions.&#x20;
+ZeroLend provides automated collateral management, eliminating the need for users to monitor their collateral constantly. Using account abstraction and delegated transactions, ZeroLend prevents liquidation risks without user intervention.
 
 ### **How Delegated Transactions Work?**
 
-1. Users can delegate specific actions related to their loans and collateral to ZeroLend through the smart contract wallet associated with their account.
-2. When the collateral value approaches a critical threshold, as defined by the user, ZeroLend will autonomously execute predefined actions. For example, you can delegate ZeroLend to close your loan position to prevent liquidation.
-3. Delegated transactions do not compromise the custody of user assets. ZeroLend only has permission to perform actions explicitly delegated by the user, ensuring the security of the user's holdings.
+1. Users delegate specific loan and collateral management tasks to ZeroLend via their smart contract wallet.
+2. If collateral value nears a user-defined threshold, ZeroLend executes predefined actions, like closing a loan, to prevent liquidation.
+3. User custody remains intact; ZeroLend only executes delegated actions, ensuring asset security.
 
-> Smart contract wallets secure delegated transactions on our platform. ZeroLend can only execute specific delegated transactions and cannot access or misappropriate user assets.
+> Delegated transactions are secured by smart contract wallets. ZeroLend’s permissions are strictly limited to user-designated actions, safeguarding user assets.
 
 {% hint style="info" %}
-ZeroLend is set to implement this feature in 2024.&#x20;
+Expected rollout of this feature in 2025
 {% endhint %}

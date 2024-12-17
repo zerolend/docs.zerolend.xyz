@@ -4,7 +4,15 @@ description: This page documents how the ZERO emissions will be distributed over
 
 # Emission Strategy
 
-**ZeroLend plan implement a hardcoded 4:1 emissions ratio for borrowing and lending, respectively.** This incentive structure is predicated on the principle that borrowing necessitates collateralized lending; thus, by encouraging borrowing, the platform inherently promotes more lending.&#x20;
+## About Emissions
+
+The supply of $ZERO tokens set out for emissions is kept at 20 billion tokens (20% of the supply)
+
+The first six months of $ZERO emissions are inflationary. After six months of TGE, the emissions have become deflationary.
+
+
+
+**ZeroLend plans implement a hardcoded 4:1 emissions ratio for borrowing and lending, respectively.** This incentive structure is predicated on the principle that borrowing necessitates collateralized lending; thus, by encouraging borrowing, the platform inherently promotes more lending.&#x20;
 
 This strategy is expected to elevate APYs in borrowing and lending pools, augmenting revenue for the company and potentially leading to increased buybacks and emissions.
 
@@ -33,8 +41,4 @@ In this scenario:
 * **$ETH** is allocated 200,000 $ZERO, corresponding to its 20% share.
 * **$MANTA** gets 500,000 $ZERO, being the largest beneficiary with 50% of $veZERO delegation.
 
-This table illustrates how the delegation of $veZERO tokens directly impacts the distribution of secondary emissions, incentivizing stakeholders to strategically delegate their tokens to favor certain assets within the ZeroLend ecosystem.
-
-{% hint style="warning" %}
-This functionality is scheduled to go live shortly.&#x20;
-{% endhint %}
+This allocation demonstrates how the delegation of $veZERO directly impacts the distribution of secondary emissions, encouraging stakeholders to strategically delegate their tokens to enhance specific assets within the ZeroLend ecosystem

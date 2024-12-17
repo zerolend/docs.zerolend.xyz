@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Single Token Staking
 
 **Single stake** $ZERO works similarly to the traditional principles of ve-token models. Participants stake $ZERO tokens to acquire $veZERO, with the amount received directly correlating to the duration of the tokens locked.

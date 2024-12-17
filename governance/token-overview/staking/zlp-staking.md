@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # zLP Staking
 
 The Liquidity Provision model for $ZERO is specifically designed for users who contribute to liquidity pools. When users stake zLP tokens, their $ZERO portion is effectively doubled in value for staking purposes.

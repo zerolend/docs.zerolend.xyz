@@ -33,6 +33,13 @@ For example, if you restake $ETH on Renzo Protocol, you get $ezETH and EigenLaye
 ZeroLend features a dedicated ETH LRTs Market to help users leverage the emerging LRT trend and earn boosted rewards.\
 
 
+### Benefits
+
+* Earn staking rewards while using LRTs as collateral
+* Earn additional points from liquid staking protocols
+* Access liquidity without unstaking
+* Dedicated LRT markets with boosted rewards
+
 Here’s a list of LRT assets listed on ZeroLend:&#x20;
 
 | LRT Project  | Native LRT Asset  | Supported ZeroLend Market  |
