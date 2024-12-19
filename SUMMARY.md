@@ -50,7 +50,7 @@
 ## Security
 
 * [Audits](security/audits.md)
-* [Oracles](security/oracles/README.md)
+* [Oracles](security/oracles.md)
   * [PYTH Oracles](security/oracles/pyth-oracles.md)
   * [Redstone](security/oracles/redstone.md)
   * [API3 Oracles](security/oracles/api3-oracles.md)
