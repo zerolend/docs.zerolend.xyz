@@ -58,7 +58,7 @@ $$
 Health Factor = ($10,000 × 82%) / $7,000 = 1.17
 $$
 
-###
+
 
 ### Utilization Rate
 

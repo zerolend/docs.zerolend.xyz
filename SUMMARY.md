@@ -43,14 +43,18 @@
   * [Emissions](governance/token-overview/emissions/README.md)
     * [Emission Strategy](governance/token-overview/emissions/zerolend-emission-strategy/README.md)
       * [Protocol Power/Weight](governance/token-overview/emissions/zerolend-emission-strategy/protocol-power-weight.md)
-      * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t\_p-calculation.md)
+      * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t_p-calculation.md)
       * [Construction of zLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
 * [Discussion Forum](https://discuss.zerolend.xyz/)
 
 ## Security
 
 * [Audits](security/audits.md)
-* [Oracles](security/oracles.md)
+* [Oracles](security/oracles/README.md)
+  * [PYTH Oracles](security/oracles/pyth-oracles.md)
+  * [Redstone](security/oracles/redstone.md)
+  * [API3 Oracles](security/oracles/api3-oracles.md)
+  * [Chainlink](security/oracles/chainlink.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 * [Insurance Fund](security/insurance-fund.md)
