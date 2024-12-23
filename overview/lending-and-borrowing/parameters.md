@@ -54,11 +54,7 @@ _Scenario_:
 * Liquidation Threshold: 82%
 * Borrowed: $7,000 USDC
 
-$$
-Health Factor = ($10,000 × 82%) / $7,000 = 1.17
-$$
-
-
+**`So, HEALTH FACTOR =$10,000 x 82% / $7,000 = 1.17`**
 
 ### Utilization Rate
 
@@ -163,8 +159,6 @@ Measures how much of the available capital in a lending pool is currently being 
 
 <figure><img src="../../.gitbook/assets/1.webp" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Formula:
 
 ```
@@ -218,7 +212,7 @@ Safety Buffer = Liquidation Threshold - LTV
 
 * Borrowed Amount: $1,000
 * Liquidation Penalty: 10%
-* During liquidation, borrower loses:
+* During liquidation, the borrower loses:
 
 ```
 Additional Cost = $1,000 × 10% = $100

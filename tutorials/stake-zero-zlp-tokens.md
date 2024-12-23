@@ -23,7 +23,7 @@ But before that, let's cover the benefits of zLP staking.
 ## **Benefits of zLP Staking**
 
 * **LXP-L from Linea:** As $ZERO is a whitelisted asset on Linea Surge, users who supply liquidity or stake it is eligible for LXP-L and, therefore, the Linea airdrop.
-* **Revenue:** All revenue from borrowing and lending is distributed to LP stakers in $ETH.
+* **Revenue:** All revenue from borrowing and lending is distributed to LP stakers 50% in $ETH and the other 50% in Gravity Points.
 * **Voting Power:** Staked LP tokens provide voting power in the ZeroLend ecosystem.
 
 ## **Stake via Zap Functionality**
@@ -34,7 +34,7 @@ You just need ETH with this method.
 
 1.  **Go to the Staking Page:**
 
-    * Visit [ZeroLend Staking](https://app.zerolend.xyz/stake/?marketName=proto\_linea\_v3).
+    * Visit [ZeroLend Staking](https://app.zerolend.xyz/stake/?marketName=proto_linea_v3).
     * Click on the "Zap and Stake" button.
 
 
@@ -61,7 +61,7 @@ With this method, you will have to provide liquidity for ZERO / ETH on Nile.
 
 3. **Stake LP Tokens**
 
-* Once you have LPed on Nile, go to the [staking page](https://app.zerolend.xyz/stake/?marketName=proto\_linea\_v3) on ZeroLend
+* Once you have LPed on Nile, go to the [staking page](https://app.zerolend.xyz/stake/?marketName=proto_linea_v3) on ZeroLend
 * Click on the Stake ZERO/ETH LP button
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-12 at 6.37.27 PM.png" alt=""><figcaption></figcaption></figure>

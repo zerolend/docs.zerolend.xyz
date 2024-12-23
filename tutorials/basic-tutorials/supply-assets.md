@@ -4,9 +4,9 @@ description: This page discusses how you can supply assets on ZeroLend.
 
 # Supply Assets
 
-ZeroLend’s lending and borrowing are currently live on [Ethereum](https://app.zerolend.xyz/?marketName=proto\_mainnet\_lrt\_v3), [Linea](https://app.zerolend.xyz/?marketName=proto\_linea\_v3), [Blast](https://app.zerolend.xyz/?marketName=proto\_blast\_v3), [zkSync](https://app.zerolend.xyz/?marketName=proto\_zksync\_era\_v3), and [Manta Network ](https://app.zerolend.xyz/?marketName=proto\_manta\_v3)(this is an evolving list).
+ZeroLend’s lending and borrowing are currently live on [Ethereum](https://app.zerolend.xyz/?marketName=proto_mainnet_lrt_v3), [Linea](https://app.zerolend.xyz/?marketName=proto_linea_v3), [Blast](https://app.zerolend.xyz/?marketName=proto_blast_v3), [zkSync](https://app.zerolend.xyz/?marketName=proto_zksync_era_v3),  [Manta Network](https://app.zerolend.xyz/?marketName=proto_manta_v3), [Base](https://app.zerolend.xyz/rewards/?marketName=proto_base_v3), [Corn](https://app.zerolend.xyz/?marketName=proto_corn_v3), [Berachain](https://app.zerolend.xyz/?marketName=proto_barito_v3) (Coming Soon...). We are also live on our [ETH LRT](https://app.zerolend.xyz/?marketName=proto_mainnet_lrt_v3), [BTC LRT](https://app.zerolend.xyz/?marketName=proto_mainnet_btc_v3), and [RWA markets](https://app.zerolend.xyz/?marketName=proto_mainnet_rwa_v3).
 
-For this tutorial, we will deposit $ETH on our [Linea Market](https://app.zerolend.xyz/?marketName=proto\_linea\_v3).&#x20;
+For this tutorial, we will deposit $ETH on our [Linea Market](https://app.zerolend.xyz/?marketName=proto_linea_v3).&#x20;
 
 {% hint style="info" %}
 Please note that depositing assets across all our markets will follow a similar process.&#x20;

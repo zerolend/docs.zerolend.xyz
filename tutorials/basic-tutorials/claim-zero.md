@@ -33,7 +33,7 @@ Your $ZERO allocation will depend on the $earlyZERO tokens and Zero Gravity poin
 Please note that we have allocated a major portion of the $ZERO airdrop to the liquidity providers on our lending markets.&#x20;
 
 {% hint style="info" %}
-Tokens earned are vested with 40% unlock, 3 months cliff, followed by 3 months linear vesting.
+Tokens earned are vested with 40% unlock, 6 months cliff, followed by 3 months linear vesting.
 {% endhint %}
 
 Users can claim upfront tokens and stake vested tokens without waiting for the vesting period to end, and they will receive staking benefits.
@@ -54,7 +54,7 @@ Step 5: After confirming the details on this screen, you can click on the claim 
 
 Step 6: Confirm the transactions on your wallet. &#x20;
 
-After claiming, you will receive the claimed ZERO tokens on your wallet and the rest of the vested tokens will be converted into a vest and be visible on the same rewards tab.&#x20;
+After claiming, you will receive the claimed ZERO tokens in your wallet, and the rest of the vested tokens will be converted into a vest and be visible on the same rewards tab.&#x20;
 
 {% hint style="warning" %}
 [If you fail to claim your airdrop tokens for 30 days from May 06, 2024 (TGE), your tokens will be returned to the treasury. ](#user-content-fn-1)[^1]
