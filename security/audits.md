@@ -51,14 +51,54 @@ By leveraging the well-established codebase of Aave V3, ZeroLend can focus on de
 
 You can find a list of audits done over here:
 
-| Auditor Report                                                                                                          | Audit Type          | Date                    |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------- |
-| [ABDK](https://github.com/aave/aave-v3-core/blob/master/audits/27-01-2022\_ABDK\_AaveV3.pdf)                            | Smart Contract      | 01-27-2022              |
-| [SigmaPrime](https://github.com/aave/aave-v3-core/blob/master/audits/27-01-2022\_SigmaPrime\_AaveV3.pdf)                | Smart Contract      | 01-27-2022              |
-| [Certora](https://github.com/aave/aave-v3-core/blob/master/certora/Aave\_V3\_Formal\_Verification\_Report\_Jan2022.pdf) | Formal Verification | 11-12-2021 - 01-24-2022 |
-| [Peckshield](https://github.com/aave/aave-v3-core/blob/master/audits/14-01-2022\_PeckShield\_AaveV3.pdf)                | Smart Contract      | 01-14-2022              |
-| [Trail of Bits](https://github.com/aave/aave-v3-core/blob/master/audits/07-01-2022\_TrailOfBits\_AaveV3.pdf)            | Smart Contract      | 01-07-2022              |
-| [OpenZeppelin](https://github.com/aave/aave-v3-core/blob/master/audits/01-11-2021\_OpenZeppelin\_AaveV3.pdf)            | Smart Contract      | 01-11-2021              |
+| Auditor Report                                                                                                     | Audit Type          | Date                    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------- | ----------------------- |
+| [ABDK](https://github.com/aave/aave-v3-core/blob/master/audits/27-01-2022_ABDK_AaveV3.pdf)                         | Smart Contract      | 01-27-2022              |
+| [SigmaPrime](https://github.com/aave/aave-v3-core/blob/master/audits/27-01-2022_SigmaPrime_AaveV3.pdf)             | Smart Contract      | 01-27-2022              |
+| [Certora](https://github.com/aave/aave-v3-core/blob/master/certora/Aave_V3_Formal_Verification_Report_Jan2022.pdf) | Formal Verification | 11-12-2021 - 01-24-2022 |
+| [Peckshield](https://github.com/aave/aave-v3-core/blob/master/audits/14-01-2022_PeckShield_AaveV3.pdf)             | Smart Contract      | 01-14-2022              |
+| [Trail of Bits](https://github.com/aave/aave-v3-core/blob/master/audits/07-01-2022_TrailOfBits_AaveV3.pdf)         | Smart Contract      | 01-07-2022              |
+| [OpenZeppelin](https://github.com/aave/aave-v3-core/blob/master/audits/01-11-2021_OpenZeppelin_AaveV3.pdf)         | Smart Contract      | 01-11-2021              |
+
+## External Audits from Halborn Security
+
+ZeroLend engaged [Halborn](https://halborn.com/)—a specialized blockchain security firm—to address two primary challenges: securing our smart contracts from potential vulnerabilities and managing the complexity of a multi-chain, Layer-2 environment.
+
+**Scope & Methodology**
+
+* **Comprehensive Code Review**: Halborn conducted a thorough audit of ZeroLend’s smart contracts, focusing on potential attack vectors and logic flaws.
+* **Layer-2 & Multi-Chain Expertise**: The engagement included specialized consulting on multi-chain integrations and L2-specific security considerations.
+* **Ongoing Support**: Halborn utilized a Security-as-a-Service (SAaaS) model, providing live assistance and detailed guidance throughout the process.
+
+**Key Findings & Outcomes**
+
+* **Logic Flaw Prevention**: A critical flaw in ZeroLend’s staking contract was identified and rectified before any exploitation could occur.
+* **Enhanced Security Awareness**: Halborn provided comprehensive security training, boosting internal best practices and cultivating a security-first culture.
+* **Future-Proofing**: Their proactive approach mitigated not only current vulnerabilities but also potential future threats as ZeroLend grows.
+
+#### Read the Case Study
+
+{% embed url="https://www.halborn.com/case-studies/post/case-study-strengthening-zerolend-s-multi-chain-lending-platform-with-halborn" %}
+
+## External Audits from Zokyo
+
+ZeroLend  partnered with [Zokyo Security](https://zokyo.io/) to perform an in-depth assessment of our smart contracts. This audit further validated the robustness of our code and identified areas to strengthen.
+
+**Scope & Highlights**
+
+* **Comprehensive Coverage**: Zokyo achieved **100% testable code coverage**, surpassing industry standards.
+* **Zero Critical or High Vulnerabilities**: The audit found no issues classified as critical or high, underscoring the platform’s reliability.
+* **Actionable Recommendations**: Zokyo provided a set of recommendations to enhance ZeroLend’s security posture, all of which are being implemented.
+
+**Key Takeaways**
+
+* **Reinforced Code Integrity**: Passing the Zokyo audit with zero critical findings confirms ZeroLend’s core functionality is secure.
+* **Continuous Improvement**: Implementation of recommended improvements ensures that our protocol evolves alongside emerging threats.
+* **Public Transparency**: A summary of the audit is available for community review, reflecting our commitment to openness.
+
+#### Read the report:
+
+{% embed url="https://zokyo.io/reports/zerolend" %}
 
 ## Bug Bounty Contests&#x20;
 
