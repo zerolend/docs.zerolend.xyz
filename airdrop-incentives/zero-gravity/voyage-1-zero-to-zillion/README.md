@@ -11,13 +11,13 @@ A total of 10% of $ZERO's token supply, equivalent to 10 billion tokens, has bee
   * **Status:** Currently active until 6th May
 * **Chapter 2: LiftOff**
   * **Supply Allocation:** 2% of the total token supply
-  * **Dates:** To be announced (TBA)
+  * **Dates:** Is now live
 * **Chapter 3: Boost**
   * **Supply Allocation:** 2% of the total token supply
   * **Dates:** To be announced (TBA)
 
 {% hint style="info" %}
-Read more about Voyage 1: Zero To Zillion [here](https://mirror.xyz/0xb32591b2D8b8129702A4214CE344D2F87A9250F2/vpp5LlkSw4\_nnQZrRTkVsb3bLk4V3wD3hbYhdykx5bc).&#x20;
+Read more about Voyage 1: Zero To Zillion [here](https://mirror.xyz/0xb32591b2D8b8129702A4214CE344D2F87A9250F2/vpp5LlkSw4_nnQZrRTkVsb3bLk4V3wD3hbYhdykx5bc).&#x20;
 {% endhint %}
 
 {% content-ref url="chapter-1-ignition.md" %}

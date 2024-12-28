@@ -4,7 +4,7 @@ description: 'This page consists overview of Chapter 1: Ignition'
 
 # Chapter 1: Ignition 🔥
 
-#### **Duration:** Is now live - 6th May, 2024
+#### **Duration:** Ended on 6th May, 2024
 
 #### **Objective:** The primary goal for this chapter is to bootstrap ZeroLend's TVL, establishing a strong liquidity foundation for ZeroLend.
 
