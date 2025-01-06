@@ -8,7 +8,7 @@ description: This page consists overview of Chapter 3
 
 ## **Token Distribution**
 
-* **Airdrop Allocation:** 2% of the total $ZERO supply, amounting to 2 billion tokens, is allocated for this chapter.
+* **Airdrop Allocation:** To be announced (TBA)
 * **Participant Eligibility:** All users who engage with ZeroLend during the Boost chapter will be eligible to receive tokens from this pool. All users who engaged with ZeroLend during previous chapters will receive a boost in their points.&#x20;
 
 ## **Strategic Importance of Boost**

@@ -8,12 +8,12 @@ A total of 10% of $ZERO's token supply, equivalent to 10 billion tokens, has bee
 
 * **Chapter 1: Ignition**
   * **Supply Allocation:** 5% of the total token supply
-  * **Status:** Currently active until 6th May
+  * **Status:** Was active until 6th May
 * **Chapter 2: LiftOff**
   * **Supply Allocation:** 2% of the total token supply
   * **Dates:** Is now live
 * **Chapter 3: Boost**
-  * **Supply Allocation:** 2% of the total token supply
+  * **Supply Allocation:** To be announced (TBA)
   * **Dates:** To be announced (TBA)
 
 {% hint style="info" %}

@@ -13,8 +13,9 @@
 
 ## Features
 
-* [LRT Lending](features/lrt-lending.md)
-* [RWA Lending](features/rwa-lending.md)
+* [LRT Lending Market](features/lrt-lending-market.md)
+* [RWA Lending](features/rwa-lending/README.md)
+  * [RWA Stablecoin Market](features/rwa-lending/rwa-stablecoin-market.md)
 * [Account Abstraction (AA)](features/account-abstraction-aa.md)
 * [Capital Efficiency](features/capital-efficiency/README.md)
   * [High Efficiency Mode (E-Mode)](features/capital-efficiency/high-efficiency-mode-e-mode.md)

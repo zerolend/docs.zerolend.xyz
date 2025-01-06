@@ -16,8 +16,8 @@ The core products and features within the ecosystem:&#x20;
 
 1. **DeFi Lending (Live):** A decentralized, non-custodial liquidity protocol enabling users to participate as liquidity providers and borrowers. This forms the basis of the ecosystem, assisting capital formation, leverage, and over-collateralized lending activities in general.
 2. **ZeroLend** **Governance ($ZERO)**: A governance system for governing the ZeroLend Protocol, enabled by the $ZERO token. To learn more, read "[Zeronomics](governance/token-overview/)"
-3. **Liquid Restaking Token Lending (Live)**: Users can deposit LRTs like EtherFi, Puffer, Renzo, and Kelp and take loans in stablecoins/ETH. To know more, read "[LRT Lending](features/lrt-lending.md)"
-4. **Real World Asset Lending (Live)**: Users can deposit RWAs and take over collateralized loans in the form of stablecoins or ETH. To know more, read "[RWA Lending](features/rwa-lending.md)"
+3. **Liquid Restaking Token Lending (Live)**: Users can deposit LRTs like EtherFi, Puffer, Renzo, and Kelp and take loans in stablecoins/ETH. To know more, read "[LRT Lending](features/lrt-lending-market.md)"
+4. **Real World Asset Lending (Live)**: Users can deposit RWAs and take over collateralized loans in the form of stablecoins or ETH. To know more, read "[RWA Lending](features/rwa-lending/)"
 
 {% hint style="info" %}
 If you still have any questions or issues, contact the ZeroLend team through [Discord](https://discord.gg/zerolend).

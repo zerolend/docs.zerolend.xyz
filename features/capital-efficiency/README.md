@@ -14,10 +14,6 @@ description: >-
 [isolation-mode.md](isolation-mode.md)
 {% endcontent-ref %}
 
-{% content-ref url="credit-delegation.md" %}
-[credit-delegation.md](credit-delegation.md)
-{% endcontent-ref %}
-
 {% content-ref url="supply-borrow-caps.md" %}
 [supply-borrow-caps.md](supply-borrow-caps.md)
 {% endcontent-ref %}

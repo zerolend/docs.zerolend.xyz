@@ -102,7 +102,7 @@ $weETH is EtherFi's restaked token.&#x20;
 
 ***
 
-Please find the list of supported LRTs and chains [here](../../features/lrt-lending.md#lrts-on-zerolend).&#x20;
+Please find the list of supported LRTs and chains [here](../../features/lrt-lending-market.md#lrts-on-zerolend).&#x20;
 
 **Disclaimer:**&#x20;
 

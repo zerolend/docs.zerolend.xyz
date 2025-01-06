@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# LRT Lending
+# LRT Lending Market
 
 Liquid Restaking Tokens (LRTs) are tokenized derivatives representing staked assets. LRTs enable you to unlock the liquidity of your staked asset while also earning staking rewards.&#x20;
 
@@ -50,7 +50,9 @@ Here’s a list of ETH LRT assets listed on ZeroLend:&#x20;
 | Kelp DAO     | $rsETH            | Ethereum                  |
 | Puffer       | $pufETH           | Ethereum                  |
 
-### BTC LRTs on ZeroLend
+***
+
+## BTC LRTs on ZeroLend
 
 ZeroLend supports Bitcoin Liquidity Representation Tokens (BTC LRTs) on mainnet, enabling Bitcoin holders to access DeFi opportunities without forfeiting staking or locking benefits associated with their BTC holdings.
 
