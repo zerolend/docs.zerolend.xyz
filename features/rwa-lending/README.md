@@ -14,17 +14,19 @@ layout:
 
 # RWA Lending
 
-## What are RWAs?
-
 RWA platforms allow users to represent real-world assets, such as stocks, government bonds, real estate, and commodities, as crypto tokens and trade them on the blockchain. $USDT and $USDC can be considered RWAs, representing the tokenized and on-chain versions of US dollars.
 
-According to the Boston Consulting Group, the RWA market will grow from $1.5 trillion in 2024 to $16 trillion by 2030. Zerolend helps you leverage this growing RWA narrative through our lending/borrowing services.&#x20;
+According to the Boston Consulting Group, the RWA market will grow from $1.5 trillion in 2024 to $16 trillion by 2030.
 
 <figure><img src="../../.gitbook/assets/ZL Doc - Tokenization of illiquid assets.png" alt=""><figcaption></figcaption></figure>
 
 ## RWA Lending on ZeroLend&#x20;
 
-RWAs can be used to lend and borrow on money markets like ZeroLend. To help users leverage the growing RWA narrative, ZeroLend offers RWA lending/borrowing. We support RWA assets like $wUSDM on our [Manta Market](https://app.zerolend.xyz/?marketName=proto_manta_v3).&#x20;
+To help users leverage the growing RWA narrative, ZeroLend currently offers RWA stablecoins lending/borrowing. Learn more:
+
+{% content-ref url="rwa-stablecoin-market.md" %}
+[rwa-stablecoin-market.md](rwa-stablecoin-market.md)
+{% endcontent-ref %}
 
 ### Market Potential
 
@@ -49,3 +51,11 @@ DeFi lending heavily relies on over-collateralization. Borrowers must provide mo
 
 
 RWA lending solves this challenge. Borrowers seeking loans might not have massive crypto reserves. For example, an institution seeking a $1 million loan might not have over $1 million in crypto reserves. However, they might provide other assets, such as real estate, bonds, or gold, as collateral to secure the loan. RWA lending helps such borrowers tokenize their assets and secure loans.&#x20;
+
+Now that the concept and potential of real-world assets (RWAs) are established, it is useful to examine how ZeroLend implements these assets through its RWA Stablecoins Market.
+
+This market enables users to lend and borrow stablecoins backed by various real-world reserves, offering a more diversified collateral and lending environment within the ZeroLend ecosystem.
+
+{% content-ref url="rwa-stablecoin-market.md" %}
+[rwa-stablecoin-market.md](rwa-stablecoin-market.md)
+{% endcontent-ref %}
