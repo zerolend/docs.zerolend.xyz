@@ -18,9 +18,9 @@ The zLP (ZeroLend Liquidity Provider) functionality allows users to stake their 
 
 This tutorial will guide you through the process of staking via Zap and provide information on staking your LP tokens directly.
 
-But before that, let's cover the benefits of zLP staking.
+But before that, let's cover the benefits of zLP staking and its distributions.
 
-## **Benefits of zLP Staking**
+## **About zLP Staking and its Distribution**
 
 * **LXP-L from Linea:** As $ZERO is a whitelisted asset on Linea Surge, users who supply liquidity or stake it is eligible for LXP-L and, therefore, the Linea airdrop.
 * **Revenue:** All revenue from borrowing and lending is distributed to LP stakers 50% in $ETH and the other 50% in Gravity Points.
@@ -72,3 +72,6 @@ With this method, you will have to provide liquidity for ZERO / ETH on Nile.
 
 * Approve and confirm the transactions
 
+{% hint style="info" %}
+Your specific staked shares, as well as your personal locked positions (LP Locks and Token Locks), will appear in the “Your LP Locks” and “Your Token Locks” sections as NFTs. You can unlock them once the lock period is over.
+{% endhint %}

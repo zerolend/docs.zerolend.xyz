@@ -39,42 +39,66 @@ For example, if you restake $ETH on Renzo Protocol, you get $ezETH and EigenLaye
 
 ZeroLend features a dedicated ETH LRTs Market to help users leverage the emerging LRT trend and earn boosted rewards.
 
-
-
 Here’s a list of ETH LRT assets listed on ZeroLend:&#x20;
 
-| LRT Project  | Native LRT Asset  | Supported ZeroLend Market  |
-| ------------ | ----------------- | -------------------------- |
-| Renzo        | $ezETH            | Ethereum, Linea, Blast     |
-| Ether.fi     | $weETH            | Ethereum                   |
-| Kelp DAO     | $rsETH            | Ethereum                   |
-| Puffer       | $pufETH           | Ethereum                   |
+| LRT Project  | Native LRT Asset  | Supported ZeroLend Market |
+| ------------ | ----------------- | ------------------------- |
+| Ethereum     | $ETH              | Ethereum                  |
+| USD Coin     | $USDC             | Ethereum                  |
+| Renzo        | $ezETH, $pzETH    | Ethereum, Linea, Blast    |
+| Ether.fi     | $weETH            | Ethereum                  |
+| Kelp DAO     | $rsETH            | Ethereum                  |
+| Puffer       | $pufETH           | Ethereum                  |
 
 ### BTC LRTs on ZeroLend
 
-Beyond Ethereum, ZeroLend also supports **BTC LRTs on mainnet**, allowing Bitcoin holders to tap into DeFi opportunities without losing out on staking/locking benefits.&#x20;
+ZeroLend supports Bitcoin Liquidity Representation Tokens (BTC LRTs) on mainnet, enabling Bitcoin holders to access DeFi opportunities without forfeiting staking or locking benefits associated with their BTC holdings.
 
-### **How to Use BTC LRTs on ZeroLend**
+### 1. Overview
 
-1. **Obtain BTC LRT Tokens**
-   * Acquire your preferred BTC LRT (e.g., _cbBTC, eBTC, LBTC, MBTC, SolvBTC, WBTC_) from the protocol or exchange that issues it.
-   * Each token represents staked or wrapped BTC, allowing you to keep accruing BTC-based rewards or yield while still using the asset in DeFi.
-2. **Navigate to the BTC LRT Market**
-   * Head to ZeroLend and select the **“Bitcoin LRTs Market”** tab.
-   * You’ll find a list of supported BTC LRT assets, each with its own APYs (supply or borrow) and current market statistics (Total Supplied, Total Borrowed, etc.).
-3. **Supply or Borrow**
-   * **Supply**: Choose the BTC LRT you hold (e.g., _cbBTC or eBTC_). Click “Details” (or its equivalent) to supply your tokens and start earning the displayed APY.
-   * **Borrow**: If you already have a collateral position on ZeroLend, you can borrow BTC LRT tokens. This can be useful if you want to short an asset or deploy borrowed tokens elsewhere.
-4. **Consider Leveraging**
-   * If you’re looking for more advanced yield strategies, check if the BTC LRT token is compatible with **Pendle PT tokens** or leveraging solutions (e.g., Contango).
-   * These integrations can let you **amplify your positions**—sometimes up to 10x—potentially unlocking higher APRs in both BTC rewards and partner tokens like $ZERO.
-5. **Monitor & Manage**
-   * Track your Supply APY and Borrow APY over time; they can adjust based on market supply/demand.
-   * If you borrow, keep an eye on your health factor or loan-to-value ratio to avoid liquidations.
-   * Periodically review new listings for better APYs, additional rewards, or new tokens (like _“eBTC PT 27MAR25”_).
-6. **Redeem or Unwind**
-   * When ready, withdraw your BTC LRT tokens or repay any borrowed amount.
-   * Upon returning your LRT to the issuing protocol, you can claim your original BTC plus any staking rewards accrued during that period.
+BTC LRTs (e.g., cbBTC, eBTC, LBTC, MBTC, SolvBTC, WBTC) are tokens representing staked or wrapped BTC. These tokens accrue BTC-based rewards or yield while allowing users to participate in DeFi markets on ZeroLend.
+
+### 2. Obtaining BTC LRT Tokens
+
+1. **Select a BTC LRT**: Choose from supported tokens such as cbBTC, eBTC, LBTC, MBTC, SolvBTC, or WBTC.
+2. **Acquire Tokens**: Obtain the chosen BTC LRT from the protocol or exchange where it is issued.
+
+### 3. Accessing the BTC LRT Market
+
+1. **Navigate to ZeroLend**: Go to the ZeroLend platform.
+2. **Open the Bitcoin LRT Market**: Select the “Bitcoin LRTs Market” tab to view available BTC LRT assets.
+3. **Review Market Data**: Each BTC LRT listing displays supply APY, borrow APY, total supplied, total borrowed, and other relevant statistics.
+
+### 4. Supplying and Borrowing BTC LRTs
+
+#### 4.1 Supplying BTC LRTs
+
+1. **Select Token**: Choose the BTC LRT you currently hold (e.g., cbBTC, eBTC).
+2. **Supply Tokens**: Click “Details” (or its equivalent) to supply your BTC LRT tokens.
+3. **Earn APY**: Begin earning the displayed supply APY.
+
+#### 4.2 Borrowing BTC LRTs
+
+1. **Collateralize**: Ensure you have sufficient collateral on ZeroLend.
+2. **Select Borrow Amount**: Choose a BTC LRT to borrow (e.g., cbBTC).
+3. **Confirm Borrow**: This may facilitate strategies such as shorting an asset or deploying borrowed tokens elsewhere.
+
+### 5. Leverage and Advanced Strategies
+
+1. **the Pendle PT Tokens**: Check the compatibility of your BTC LRT with Pendle PT for additional yield strategies.
+2. **Leveraging Solutions**: Explore tools like Contango for potential leverage (up to 10x), potentially increasing both BTC rewards and $ZERO token yields.
+
+### 6. Ongoing Management
+
+1. **Monitor APYs**: Track changes in supply APY and borrow APY; they fluctuate based on supply and demand.
+2. **Manage Collateral**: If borrowing, monitor your health factor or loan-to-value ratio to avoid liquidation.
+3. **Stay Informed**: Look out for new BTC LRT listings and updated rewards or APYs (e.g., “eBTC PT 27MAR25”).
+
+### 7. Redeeming or Unwinding Positions
+
+1. **Withdraw Supplied Tokens**: Withdraw your BTC LRT from ZeroLend when you are ready.
+2. **Repay Borrowed Amount**: Repay any borrowed BTC LRTs to close your debt position.
+3. **Redeem Native BTC**: Return your BTC LRT tokens to the issuing protocol to reclaim your original BTC plus any staking rewards accrued.
 
 {% hint style="info" %}
 Read our [Passive Strategies guide](../tutorials/yield-strategies/passive-lrt-strategies.md) on LRTs to learn more.&#x20;

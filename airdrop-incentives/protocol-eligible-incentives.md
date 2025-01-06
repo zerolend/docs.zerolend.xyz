@@ -2,6 +2,7 @@
 description: >-
   This section explains how users can actively interact with ZeroLend ecosystem
   for potential incentives.
+hidden: true
 layout:
   title:
     visible: true

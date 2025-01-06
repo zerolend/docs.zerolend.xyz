@@ -6,6 +6,7 @@
 
 * [Lending and Borrowing](overview/lending-and-borrowing/README.md)
   * [Parameters](overview/lending-and-borrowing/parameters.md)
+  * [zLP Token Distribution](overview/lending-and-borrowing/zlp-token-distribution.md)
 * [Assets Listings](overview/assets-listings.md)
   * [Supported Assets](overview/assets-listings/supported-assets.md)
 * [Roadmap](overview/roadmap.md)
