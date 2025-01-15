@@ -18,7 +18,7 @@ layout:
 
 RedStone is a multi-chain Oracle service that provides frequently updated, reliable, and diverse data feeds. ZeroLend utilizes price feeds from Redstone Oracles to calculate collateral value and liquidations.
 
-RedStone protects all ZeroLend's markets on Zircuit, Manta, and Blast and also provides LRT feeds on ETH mainnet and Linea. You can find the exact contract addresses in RedStone Docs:
+RedStone protects all ZeroLend's markets on Zircuit, Manta, and Blast and also provides LRT feeds on ETH mainnet and Linea. ZeroLend also uses LBTC / BTC feed from RedStone on Base. You can find the exact contract addresses in RedStone Docs:
 
 {% embed url="https://docs.redstone.finance/docs/smart-contract-devs/price-feeds" %}
 
