@@ -264,6 +264,66 @@ These are the addresses of the ZeroLend protocol on our supported chains.
 
 
 {% endtab %}
+
+{% tab title="Corn" %}
+| Contract Name                                        | Contract Address                                                                                                     |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ACLManager-corn-mainnet                              | [0x817A4FEd0A801C060c8627756b2f21077e80AA26](https://cornscan.io/address/0x817A4FEd0A801C060c8627756b2f21077e80AA26) |
+| AToken-corn-mainnet                                  | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://cornscan.io/token/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385)   |
+| AaveOracle-corn-mainnet                              | [0x67f93d36792c49a4493652B91ad4bD59f428AD15](https://cornscan.io/address/0x67f93d36792c49a4493652B91ad4bD59f428AD15) |
+| EmissionManager-corn-mainnet                         | [0xb8634e0a320d0f4861062514a63B659E52A87E21](https://cornscan.io/address/0xb8634e0a320d0f4861062514a63B659E52A87E21) |
+| Faucet-corn-mainnet                                  | [0x89fEc31daD373922879bd6279ccDc3666c5D1b7a](https://cornscan.io/address/0x89fEc31daD373922879bd6279ccDc3666c5D1b7a) |
+| IncentivesProxy-corn-mainnet                         | [0xd9f43fa0ff772b806cbcDd36d0B264fCAd46d677](https://cornscan.io/address/0xd9f43fa0ff772b806cbcDd36d0B264fCAd46d677) |
+| IncentivesV2-Implementation                          | [0x86B07C01b10545c7e093521cdeacf90D909db5a1](https://cornscan.io/address/0x86B07C01b10545c7e093521cdeacf90D909db5a1) |
+| Pool-Implementation-corn-mainnet                     | [0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10](https://cornscan.io/address/0xc6DF4ddDBFaCb866e78Dcc01b813A41C15A08C10) |
+| Pool-Proxy-corn-mainnet                              | [0x927b3A8e5068840C9758b0b88207b28aeeb7a3fd](https://cornscan.io/address/0x927b3A8e5068840C9758b0b88207b28aeeb7a3fd) |
+| PoolAddressesProvider-corn-mainnet                   | [0x59423CCeB710266520dB98034ff62dD1E2090E10](https://cornscan.io/address/0x59423CCeB710266520dB98034ff62dD1E2090E10) |
+| PoolConfigurator-Implementation                      | [0x97e59722318F1324008484ACA9C343863792cBf6](https://cornscan.io/address/0x97e59722318F1324008484ACA9C343863792cBf6) |
+| PoolConfigurator-Proxy-corn-mainnet                  | [0x7E482A856AE4a8270B8CB0726d84441963eAef88](https://cornscan.io/address/0x7E482A856AE4a8270B8CB0726d84441963eAef88) |
+| PoolDataProvider-corn-mainnet                        | [0x2f7e54ff5d45f77bFfa11f2aee67bD7621Eb8a93](https://cornscan.io/address/0x2f7e54ff5d45f77bFfa11f2aee67bD7621Eb8a93) |
+| ReserveStrategy-rateStrategyStableOne-corn-mainnet   | [0x6e9d0cE24d14fB1750Ba0369e300413B230CA947](https://cornscan.io/address/0x6e9d0cE24d14fB1750Ba0369e300413B230CA947) |
+| ReserveStrategy-rateStrategyStableTwo-corn-mainnet   | [0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26](https://cornscan.io/address/0xcC8a5B5010C8A3832ecd2763E5b0e17811fBBD26) |
+| ReserveStrategy-rateStrategyVolatileOne-corn-mainnet | [0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5](https://cornscan.io/address/0x749dF84Fd6DE7c0A67db3827e5118259ed3aBBa5) |
+| ReservesSetupHelper-corn-mainnet                     | [0xAdC1eb4e8c72f03339638a7B43b2097FC1AFB6c8](https://cornscan.io/address/0xAdC1eb4e8c72f03339638a7B43b2097FC1AFB6c8) |
+| StableDebtToken-corn-mainnet                         | [0x9C6F1367256bE65eE744740c72aD80dA5bc96cA6](https://cornscan.io/address/0x9C6F1367256bE65eE744740c72aD80dA5bc96cA6) |
+| Treasury-Controller                                  | [0xC3B6dDc1c9876a922754f1d01D18893C7956A74D](https://cornscan.io/address/0xC3B6dDc1c9876a922754f1d01D18893C7956A74D) |
+| Treasury-Implementation                              | [0x9660b39d0e38BE0f7E09cc6C516bd335746262ee](https://cornscan.io/address/0x9660b39d0e38BE0f7E09cc6C516bd335746262ee) |
+| TreasuryProxy                                        | [0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2](https://cornscan.io/address/0xb0B0B1D3c0F9823C13D4e0481e86387BaFF452A2) |
+| UiIncentiveDataProviderV3-corn-mainnet               | [0x2e43BC528F422fa9c7FFD25799B7424f8D5b1e67](https://cornscan.io/address/0x2e43BC528F422fa9c7FFD25799B7424f8D5b1e67) |
+| UiPoolDataProviderV3-corn-mainnet                    | [0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8](https://cornscan.io/address/0x859C2ca97EAd2742a0758bc9dD889e9D0e7e84E8) |
+| VariableDebtToken-corn-mainnet                       | [0xc58715D0046bD873CEdcc70fA3656EE2523e8011](https://cornscan.io/address/0xc58715D0046bD873CEdcc70fA3656EE2523e8011) |
+| WalletBalanceProvider-corn-mainnet                   | [0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c](https://cornscan.io/address/0xF49Ee3EA9C56D90627881d88004aaBDFc44Fd82c) |
+| WrappedGateway-corn-mainnet                          | [0x0E4E529D61f977674bB86f10b9Da80Ce037D9013](https://cornscan.io/address/0x0E4E529D61f977674bB86f10b9Da80Ce037D9013) |
+{% endtab %}
+
+{% tab title="Zircuit" %}
+| Contract Name                             | Contract Address                                                                                                              |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ACLManager-zircuit-mainnet                | [0xc682D4e0cdde04fE003cF7283a51755a818ef5C8](https://explorer.zircuit.com/address/0xc682D4e0cdde04fE003cF7283a51755a818ef5C8) |
+| AToken-zircuit-mainnet                    | [0xc77518B87d04d08b551F0e26DC6126eB3A0f5F37](https://explorer.zircuit.com/address/0xc77518B87d04d08b551F0e26DC6126eB3A0f5F37) |
+| AaveOracle-zircuit-mainnet                | [0x2e43BC528F422fa9c7FFD25799B7424f8D5b1e67](https://explorer.zircuit.com/address/0x2e43BC528F422fa9c7FFD25799B7424f8D5b1e67) |
+| DelegationAwareAToken-zircuit-mainnet     | [0xE05361EA51E20118072aec0fB0FD178e8b09D69e](https://explorer.zircuit.com/address/0xE05361EA51E20118072aec0fB0FD178e8b09D69e) |
+| EmissionManager-zircuit-mainnet           | [0xaa999eA356F925BF1e856038c5D182Ae5E8A4973](https://explorer.zircuit.com/address/0xaa999eA356F925BF1e856038c5D182Ae5E8A4973) |
+| IncentivesProxy-zircuit-mainnet           | [0xB0dE506215C35057f362456FeAFb3694b3E791D0](https://explorer.zircuit.com/address/0xB0dE506215C35057f362456FeAFb3694b3E791D0) |
+| IncentivesV2-Implementation               | [0xB7ED499e7570EE7691eeF4DF9D708d258DE2B512](https://explorer.zircuit.com/address/0xB7ED499e7570EE7691eeF4DF9D708d258DE2B512) |
+| Pool-Implementation                       | [0x80102a3cbAcADa39560555340e1bC567B83C3A80](https://explorer.zircuit.com/address/0x80102a3cbAcADa39560555340e1bC567B83C3A80) |
+| Pool-Proxy-zircuit-mainnet                | [0x2774C8B95CaB474D0d21943d83b9322Fb1cE9cF5](https://explorer.zircuit.com/address/0x2774C8B95CaB474D0d21943d83b9322Fb1cE9cF5) |
+| PoolAddressesProvider-zircuit-mainnet     | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://explorer.zircuit.com/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
+| PoolConfigurator-Implementation           | [0x6e9d0cE24d14fB1750Ba0369e300413B230CA947](https://explorer.zircuit.com/address/0x6e9d0cE24d14fB1750Ba0369e300413B230CA947) |
+| PoolConfigurator-Proxy-zircuit-mainnet    | [0xeE84609d4D29cB559EdaE75855734d4e691a7Bc5](https://explorer.zircuit.com/address/0xeE84609d4D29cB559EdaE75855734d4e691a7Bc5) |
+| PoolDataProvider-zircuit-mainnet          | [0xA754b2f1535287957933db6e2AEE2b2FE6f38588](https://explorer.zircuit.com/address/0xeE84609d4D29cB559EdaE75855734d4e691a7Bc5) |
+| ReserveStrategy-rateStrategyStableOne     | [0x47223D4eA966a93b2cC96FFB4D42c22651FADFcf](https://explorer.zircuit.com/address/0x47223D4eA966a93b2cC96FFB4D42c22651FADFcf) |
+| ReserveStrategy-rateStrategyStableTwo     | [0x72f7566116211Cd4940cB3452Df208C23297425A](https://explorer.zircuit.com/address/0x72f7566116211Cd4940cB3452Df208C23297425A) |
+| ReserveStrategy-rateStrategyVolatileOne   | [0x429b2C12eA2a718AE5fC61f3Ad4A84D83704EB5b](https://explorer.zircuit.com/address/0x429b2C12eA2a718AE5fC61f3Ad4A84D83704EB5b) |
+| ReservesSetupHelper-zircuit-mainnet       | [0x1518b71dEd8E82c40C63f65Ea8a5486a7acCc272](https://explorer.zircuit.com/address/0x1518b71dEd8E82c40C63f65Ea8a5486a7acCc272) |
+| StableDebtToken-zircuit-mainnet           | [0x81b3184A3B5d4612F2c26A53Da8D99474B91B2D2](https://explorer.zircuit.com/address/0x81b3184A3B5d4612F2c26A53Da8D99474B91B2D2) |
+| TreasuryProxy                             | [0x4208d11fEE26d32CF53a538080d0C1D8F1481b3A](https://explorer.zircuit.com/address/0x4208d11fEE26d32CF53a538080d0C1D8F1481b3A) |
+| UiIncentiveDataProviderV3-zircuit-mainnet | [0xa6EA08D16d47feE408505fda73520EbefC68Ef01](https://explorer.zircuit.com/address/0xa6EA08D16d47feE408505fda73520EbefC68Ef01) |
+| UiPoolDataProviderV3-zircuit-mainnet      | [0x189cfdb4d7a08D926CA209D84a713c4c629645aF](https://explorer.zircuit.com/address/0x189cfdb4d7a08D926CA209D84a713c4c629645aF) |
+| VariableDebtToken-zircuit-mainnet         | [0x65fc5280E838751eDafB6f171391FE0AC5C1d05a](https://explorer.zircuit.com/address/0x65fc5280E838751eDafB6f171391FE0AC5C1d05a) |
+| WalletBalanceProvider-zircuit-mainnet     | [0xa1e6BcDab01B9d7De83647d1Bbd4113c6c2B4e0d](https://explorer.zircuit.com/address/0xa1e6BcDab01B9d7De83647d1Bbd4113c6c2B4e0d) |
+| WrappedTokenGatewayV3                     | [0x6eA9d99c6653DF987bDEa11ffcd56DFB4B5d38b4](https://explorer.zircuit.com/address/0x6eA9d99c6653DF987bDEa11ffcd56DFB4B5d38b4) |
+{% endtab %}
 {% endtabs %}
 
 ## Libraries
@@ -365,6 +425,32 @@ Libraries are where most of our lending pool's business logic exists.&#x20;
 | PoolLogic         | [0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385](https://basescan.org/address/0xFF679e5B4178A2f74A56f0e2c0e1FA1C80579385) |
 
 
+{% endtab %}
+
+{% tab title="Corn" %}
+| Contract Name     | Contract Address                                                                                                     |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------- |
+| BorrowLogic       | [0xBBaEF34D75e15C5d04A078fc2634245842EABdc7](https://cornscan.io/address/0xBBaEF34D75e15C5d04A078fc2634245842EABdc7) |
+| BridgeLogic       | [0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8](https://cornscan.io/address/0x1615eA4Be9a29B62e59B58d02B7549d954F5b1D8) |
+| ConfiguratorLogic | [0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF](https://cornscan.io/address/0x5e35D90DB7118C2Ae96A8dE458401986879Bb0EF) |
+| EModeLogic        | [0x5046c3c0d7a362709df433D5431D64973c7f08CB](https://cornscan.io/address/0x5046c3c0d7a362709df433D5431D64973c7f08CB) |
+| FlashLoanLogic    | [0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3](https://cornscan.io/address/0xd85BbD487b957857D10d7D96F3a08f6BAb55F7E3) |
+| LiquidationLogic  | [0x41B19217a5b5FD26a5482114d58478856c70D705](https://cornscan.io/address/0x41B19217a5b5FD26a5482114d58478856c70D705) |
+| PoolLogic         | [0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663](https://cornscan.io/address/0x7fab93AF49ce663DBC2F94Bc4DEF5C84D6605663) |
+| SupplyLogic       | [0x0Bd27617E20F09a8E7FFdaE281E383b4b2f7A742](https://cornscan.io/address/0x0Bd27617E20F09a8E7FFdaE281E383b4b2f7A742) |
+{% endtab %}
+
+{% tab title="Zircuit" %}
+| Contract Name     | Contract Address                                                                                                              |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| BorrowLogic       | [0x8676e39B5D2f0d6E0d78a4208a0cCBc50504972e](https://explorer.zircuit.com/address/0x8676e39B5D2f0d6E0d78a4208a0cCBc50504972e) |
+| BridgeLogic       | [0xb8634e0a320d0f4861062514a63B659E52A87E21](https://explorer.zircuit.com/address/0xb8634e0a320d0f4861062514a63B659E52A87E21) |
+| ConfiguratorLogic | [0x86B07C01b10545c7e093521cdeacf90D909db5a1](https://explorer.zircuit.com/address/0x86B07C01b10545c7e093521cdeacf90D909db5a1) |
+| EModeLogic        | [0x3365D8691cD54313Fa3dF201BB33Bd1eC37B9F9D](https://explorer.zircuit.com/address/0x3365D8691cD54313Fa3dF201BB33Bd1eC37B9F9D) |
+| FlashLoanLogic    | [0xb2178109A414C3a869E5104283Fcf1a18923D0B8](https://explorer.zircuit.com/address/0xb2178109A414C3a869E5104283Fcf1a18923D0B8) |
+| LiquidationLogic  | [0xBE0ab675a478A759ECA580f0D6c9d399085547D8](https://explorer.zircuit.com/address/0xBE0ab675a478A759ECA580f0D6c9d399085547D8) |
+| PoolLogic         | [0xFD856E1a33225B86f70D686f9280435E3fF75FCF](https://explorer.zircuit.com/address/0xFD856E1a33225B86f70D686f9280435E3fF75FCF) |
+| SupplyLogic       | [0x504B99a601b2c963628FD2565dAd530aD3C2Cfd6](https://explorer.zircuit.com/address/0x504B99a601b2c963628FD2565dAd530aD3C2Cfd6) |
 {% endtab %}
 {% endtabs %}
 
@@ -524,5 +610,33 @@ These are the addresses of ZeroLend's supported debt tokens on various chains.
 | cbETH-VariableDebtToken-base-mainnet        | [0x316a441f8aD92153807124bB617FAe60dBdDD1c5](https://basescan.org/address/0x316a441f8aD92153807124bB617FAe60dBdDD1c5) |
 
 
+{% endtab %}
+
+{% tab title="Corn" %}
+| Contract Name                           | Contract Address                                                                                                     |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| LBTC-AToken-corn-mainnet                | [0xBc596C5794C12ea9d41922a5d13Cc1FAdbE4B37f](https://cornscan.io/address/0xBc596C5794C12ea9d41922a5d13Cc1FAdbE4B37f) |
+| LBTC-StableDebtToken-corn-mainnet       | [0xd26710c7A18ea0E572aAceF285373fa1C4C9ce45](https://cornscan.io/address/0xd26710c7A18ea0E572aAceF285373fa1C4C9ce45) |
+| LBTC-TestnetMintableERC20-corn-mainnet  | [0xecAc9C5F704e954931349Da37F60E39f515c11c1](https://cornscan.io/address/0xecAc9C5F704e954931349Da37F60E39f515c11c1) |
+| LBTC-VariableDebtToken-corn-mainnet     | [0xc27Af31Dc029aBC7FE57cdD3f038335074bec2fE](https://cornscan.io/address/0xc27Af31Dc029aBC7FE57cdD3f038335074bec2fE) |
+| WBTCN-AToken-corn-mainnet               | [0x126D09B159b8b07985F279f93A55c4c65Af9A1Cb](https://cornscan.io/address/0x126D09B159b8b07985F279f93A55c4c65Af9A1Cb) |
+| WBTCN-StableDebtToken-corn-mainnet      | [0x936e510D448054E4a05920d5e92436127f0E1bEa](https://cornscan.io/address/0x936e510D448054E4a05920d5e92436127f0E1bEa) |
+| WBTCN-TestnetMintableERC20-corn-mainnet | [0x386E7A3a0c0919c9d53c3b04FF67E73Ff9e45Fb6](https://cornscan.io/address/0x386E7A3a0c0919c9d53c3b04FF67E73Ff9e45Fb6) |
+| WBTCN-VariableDebtToken-corn-mainnet    | [0x1624E9561DFB170EF48A5b6974c98Dcf35d63DD2](https://cornscan.io/address/0x1624E9561DFB170EF48A5b6974c98Dcf35d63DD2) |
+| eBTC-AToken-corn-mainnet                | [0xfad13D1CDcFBB9042fBec263194D7F48f870e35A](https://cornscan.io/address/0xfad13D1CDcFBB9042fBec263194D7F48f870e35A) |
+| eBTC-StableDebtToken-corn-mainnet       | [0x37EAD94959A4f3a44a9a1086af4e364db0854412](https://cornscan.io/address/0x37EAD94959A4f3a44a9a1086af4e364db0854412) |
+| eBTC-TestnetMintableERC20-corn-mainnet  | [0x657e8C867D8B37dCC18fA4Caead9C45EB088C642](https://cornscan.io/address/0x657e8C867D8B37dCC18fA4Caead9C45EB088C642) |
+| eBTC-VariableDebtToken-corn-mainnet     | [0x967916D3B842944caFd0Ef4A03BFE3Fbeef87f09](https://cornscan.io/address/0x967916D3B842944caFd0Ef4A03BFE3Fbeef87f09) |
+| pumpBTC-AToken-corn-mainnet             | [0xCE23e3b746d1425D01df06134680753166b3d02F](https://cornscan.io/address/0xCE23e3b746d1425D01df06134680753166b3d02F) |
+| pumpBTC-StableDebtToken-corn-mainnet    | [0xA4A0aED915e563bACcB54D2191cA677475236eD4](https://cornscan.io/address/0xA4A0aED915e563bACcB54D2191cA677475236eD4) |
+| pumpBTC-VariableDebtToken-corn-mainnet  | [0x37744f56f31778dBBF5f61d137dB939F5A1e55c4](https://cornscan.io/address/0x37744f56f31778dBBF5f61d137dB939F5A1e55c4) |
+{% endtab %}
+
+{% tab title="Zircuit" %}
+| Contract Name                          | Contract Address                                                                                                              |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| WETH-AToken-zircuit-mainnet            | [0xE4D979A39AAf84757c06a6843F549aaF93921498](https://explorer.zircuit.com/address/0xE4D979A39AAf84757c06a6843F549aaF93921498) |
+| WETH-StableDebtToken-zircuit-mainnet   | [0xA7698fd08d5CF5A4E8113BF5F54CEE35FF70C035](https://explorer.zircuit.com/address/0xA7698fd08d5CF5A4E8113BF5F54CEE35FF70C035) |
+| WETH-VariableDebtToken-zircuit-mainnet | [0xc669e9570014A8139504E300f7308F172AF06124](https://explorer.zircuit.com/address/0xc669e9570014A8139504E300f7308F172AF06124) |
 {% endtab %}
 {% endtabs %}
