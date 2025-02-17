@@ -8,7 +8,7 @@ description: >-
 
 ## ZERO Token
 
-The $ZERO token is native to the Linea blockchain. Users will be able to bridge it via a custom bridge available on [app.zeroled.xyz](https://app.zeroled.xyz/), which will become operational after the Token Generation Event (TGE).
+The $ZERO token is native to the Linea blockchain. Users will be able to bridge it via a custom bridge available on [app.zerolend.xyz](https://app.zerolend.xyz/), which will become operational after the Token Generation Event (TGE).
 
 {% hint style="success" %}
 Contract address: [https://lineascan.build/token/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7](https://lineascan.build/token/0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7)
