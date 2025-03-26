@@ -57,6 +57,7 @@
   * [Redstone](security/oracles/redstone.md)
   * [API3 Oracles](security/oracles/api3-oracles.md)
   * [Chainlink](security/oracles/chainlink.md)
+  * [eOracle](security/oracles/eoracle.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 * [Insurance Fund](security/insurance-fund.md)

@@ -10,9 +10,10 @@ In decentralized lending protocols like ZeroLend, an oracle is essential for fet
 
 By providing this external information to the blockchain, oracles enable smart contracts to make informed decisions based on real-time market conditions. Oracles help determine collateral values, interest rates, and liquidation events.&#x20;
 
-ZeroLend uses four Oracle providers to determine price feeds for various assets:
+ZeroLend uses four Oracle providers to determine price feeds for various assets on different chains:
 
 * [Pyth Network](oracles/pyth-oracles.md)
 * [Redstone](oracles/redstone.md)
 * [Chainlink](oracles/chainlink.md)
 * [API3](oracles/api3-oracles.md)
+* eOracle (will be live soon)
