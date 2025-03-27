@@ -49,7 +49,7 @@
       * [Protocol Power/Weight](governance/token-overview/emissions/zerolend-emission-strategy/protocol-power-weight.md)
       * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t_p-calculation.md)
       * [Construction of zLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
-  * [Buyback and Burn](governance/token-overview/buyback-and-burn.md)
+  * [Buybacks and Burn](governance/token-overview/buybacks-and-burn.md)
 * [Discussion Forum](https://discuss.zerolend.xyz/)
 
 ## Security
