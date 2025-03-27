@@ -24,6 +24,7 @@
   * [Supply/Borrow Caps](features/capital-efficiency/supply-borrow-caps.md)
 * [Liquidations](features/liquidations/README.md)
   * [Liquidation Guide for Developers](features/liquidations/liquidation-guide-for-developers.md)
+* [Credit Card](features/credit-card.md)
 
 ## Airdrop Incentives
 
@@ -42,11 +43,13 @@
   * [Staking](governance/token-overview/staking/README.md)
     * [Single Token Staking](governance/token-overview/staking/single-token-staking.md)
     * [zLP Staking](governance/token-overview/staking/zlp-staking.md)
+    * [Stake on StakeDAO (sdZERO)](governance/token-overview/staking/stake-on-stakedao-sdzero.md)
   * [Emissions](governance/token-overview/emissions/README.md)
     * [Emission Strategy](governance/token-overview/emissions/zerolend-emission-strategy/README.md)
       * [Protocol Power/Weight](governance/token-overview/emissions/zerolend-emission-strategy/protocol-power-weight.md)
       * [Deconstructing the Weighted Percentage (T\_p) Calculation](governance/token-overview/emissions/zerolend-emission-strategy/deconstructing-the-weighted-percentage-t_p-calculation.md)
       * [Construction of zLP & $ZERO Power](governance/token-overview/emissions/zerolend-emission-strategy/construction-of-dlp-and-usdzero-power.md)
+  * [Buyback and Burn](governance/token-overview/buyback-and-burn.md)
 * [Discussion Forum](https://discuss.zerolend.xyz/)
 
 ## Security
