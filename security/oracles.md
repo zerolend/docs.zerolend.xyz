@@ -16,4 +16,4 @@ ZeroLend uses four Oracle providers to determine price feeds for various assets 
 * [Redstone](oracles/redstone.md)
 * [Chainlink](oracles/chainlink.md)
 * [API3](oracles/api3-oracles.md)
-* eOracle (will be live soon)
+* [eOracle](oracles/eoracle.md)
